@@ -56,6 +56,10 @@ accession).
   release from `ftp.ebi.ac.uk` (the release the ESM Atlas was built on; later
   releases renumber accessions and are not a drop-in substitute — see
   `BODYSITE_README.md`).
+- **You do not need it to rerun the habitat step.** `build_bodysite.py` runs
+  offline from the shipped subset and the cached API records, and reproduces
+  `bodysite_candidates.tsv` and `bodysite_biome_rows.tsv` byte for byte. This
+  was verified from a clean checkout of this repository.
 
 ## 4. Taxonomy raw Foldseek JSON — `screen_v2/taxonomy/raw_foldseek/` (~172 MB)
 
@@ -69,6 +73,13 @@ AlphaFold/Swiss-Prot and PDB100, used by `build_taxonomy.py`.
   `taxonomy_candidates.tsv` / `taxonomy_top_hits.tsv` in `screen_v2/results/`.
 - **To regenerate:** rerun `run_taxonomy_search.py` against the Foldseek web
   server with the shipped candidate structures.
+
+> **What happens if you run `build_taxonomy.py` without this directory:** it
+> prints `warning: no Foldseek result for <MGYP>` for each of the 13 proteins,
+> then stops with `IndexError: list index out of range` (it tries to read the
+> column names off an empty result list). It writes nothing, so **the shipped
+> tables are left intact** — the traceback is ugly but nothing is lost.
+> Regenerate `raw_foldseek/` first if you mean to rerun the step.
 
 ## 5. Docking working intermediates — `work/`, `receptors/`
 

@@ -109,6 +109,7 @@ pip install numpy pandas biopython pyhmmer rdkit matplotlib
 |---|---|---|
 | Query active sites | `python3 screen_v2/code/build_sites.py screen_v2/sites <out>` | no — reads cached UniProt JSON |
 | Rank candidates | `python3 screen_v2/code/rank_candidates.py screen_v1 screen_v2/results` | no |
+| Habitat mapping | `python3 screen_v2/bodysite/build_bodysite.py` | no — reads cached MGnify records |
 | Pfam comparator | `python3 screen_v2/pfam/pfam_scan.py --pfam <Pfam-A.hmm> --queries screen_v2/pfam/queries.faa --candidates screen_v2/pfam/candidates.faa --pairs screen_v1/results/candidates.tsv --out <dir>` | Pfam-A.hmm (see EXCLUDED.md) |
 | Figures | `python3 manuscript/figures/make_figures.py --outdir <dir>` | no |
 | Tables | `python3 manuscript/figures/make_tables.py > tables.md` | no |
@@ -124,17 +125,31 @@ shipped (see EXCLUDED.md for each):
   Foldseek JSON (`screen_v1/foldseek_raw/`, ~250 MB, not shipped) for the
   per-residue coordinates. Its output (`active_site_all_hits.tsv`) is shipped as
   the checkpoint, and `rank_candidates.py` runs from there.
+- **The nearest-relative search** (`build_taxonomy.py`) needs its own raw
+  Foldseek output (`screen_v2/taxonomy/raw_foldseek/`, ~172 MB, not shipped).
+  Its outputs (`taxonomy_candidates.tsv`, `taxonomy_top_hits.tsv`) are shipped.
+  Run without that directory the script warns per protein and then stops with an
+  `IndexError`, writing nothing, so the shipped tables survive — see
+  `EXCLUDED.md` §4.
 - **Docking prep and run** (`prep.py`, `run_dock.py`) need AutoDock Vina, Open
   Babel, RDKit and the crystal/ligand structures. The 72 pose files and all
   result tables are shipped, so the analysis (`analyze.py`, `pose_scan.py`) can
   be inspected and the geometry audited; a from-scratch rerun requires the tools
   above and regenerating the `work/receptors/` intermediates with `prep.py`.
 
-Verification done when this package was assembled: `build_sites.py`,
-`rank_candidates.py`, `make_tables.py` and `make_figures.py` were rerun from the
-files here. `build_sites.py` and `rank_candidates.py` reproduced their shipped
-outputs byte for byte (including the 13-protein shortlist); all six figures and
-all tables regenerated cleanly.
+Verification done when this package was assembled, all of it from the files
+here and with no network access:
+
+- `build_sites.py` reproduced `query_sites.tsv` and
+  `query_sites_provenance.tsv` **byte for byte**.
+- `rank_candidates.py` reproduced `tier1_candidates.tsv` (the 13-protein
+  shortlist), `active_site_candidates.tsv`, `active_site_by_query.tsv` and the
+  joined hit table **byte for byte**.
+- `build_bodysite.py` reproduced `bodysite_candidates.tsv` and
+  `bodysite_biome_rows.tsv` **byte for byte**.
+- `make_tables.py` regenerated Tables 2–10 and `make_figures.py` all six
+  figures. (Figures are not byte-compared: the rendering shifts slightly with
+  the matplotlib version.)
 
 ## Licensing
 
