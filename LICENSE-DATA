@@ -1,0 +1,29 @@
+Creative Commons Attribution 4.0 International (CC-BY-4.0)
+=========================================================
+
+The data files in this repository (result tables, predicted structures, and
+derived outputs produced by this study) are offered under the Creative Commons
+Attribution 4.0 International License.
+
+    https://creativecommons.org/licenses/by/4.0/
+
+You are free to share and adapt this material for any purpose, provided you
+give appropriate credit (see CITATION.cff), provide a link to the license, and
+indicate if changes were made.
+
+NOTE — confirm before release
+------------------------------
+CC-BY-4.0 is a reasonable default for the study's own derived data, but the
+author should confirm it is the intended licence.
+
+Cached third-party records redistributed here for reproducibility remain
+subject to their original providers' terms, which take precedence over this
+file for those specific files:
+
+  - screen_v2/sites/*.json             UniProt (CC-BY-4.0)
+  - screen_v2/bodysite/*, taxonomy/*   MGnify / EMBL-EBI data
+  - docking ligand structures          ChEBI
+  - any PDB-derived coordinates        RCSB PDB / wwPDB
+
+The ESM Metagenomic Atlas and AlphaFold DB data referenced by this study are
+distributed by their respective projects under their own terms.

@@ -1,0 +1,2 @@
+n_runs	n_failed	mean_seed_sd	pos_mean	pos_best	neg_mean	neg_best	gap_pos_minus_neg	pos_worst_vs_neg_best	cand_mean	cand_best	separation
+118	0	0.027	-9.41	-10.11	-8.16	-9.39	-1.25	0.67	-8.22	-10.71	controls overlap the negatives

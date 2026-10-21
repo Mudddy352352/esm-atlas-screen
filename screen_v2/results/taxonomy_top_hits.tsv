@@ -1,0 +1,391 @@
+mgyp	database	target	description	evalue	seq_id_pct	prob	aln_length	tax_id	tax_name
+MGYP000574843407	afdb50	AF-A0A2G9MA95-F1-model_v6	CMP/dCMP-type deaminase domain-containing protein	4.501e-42	51	1	286	1974463	Candidatus Woesearchaeota archaeon CG10_big_fil_rev_8_21_14_0_10_37_12
+MGYP000574843407	afdb50	AF-A0A1F6X1V7-F1-model_v6	CMP/dCMP-type deaminase domain-containing protein	2.538e-33	34.8	1	287	1801765	Candidatus Nomurabacteria bacterium RIFCSPLOWO2_01_FULL_33_24
+MGYP000574843407	afdb50	AF-A0A931QX25-F1-model_v6	CMP/dCMP-type deaminase domain-containing protein	4.112e-33	37.2	1	293	2053652	Candidatus Zambryskiibacteriota bacterium
+MGYP000574843407	afdb50	AF-A0A7C3P783-F1-model_v6	CMP/dCMP-type deaminase domain-containing protein	2.272e-28	29.2	1	277	2026720	Candidatus Saccharimonadota bacterium
+MGYP000574843407	afdb50	AF-A0A7R9IIY3-F1-model_v6	cytidine deaminase	1.582e-16	12.7	1	291	61484	Timema tahoe
+MGYP000574843407	afdb50	AF-A0A7R9PHW2-F1-model_v6	cytidine deaminase	4.413e-16	13	1	291	629358	Timema genevievae
+MGYP000574843407	afdb50	AF-F0VDP0-F1-model_v6	Putative cytidine deaminase	4.687e-16	11.2	1	354	572307	Neospora caninum Liverpool
+MGYP000574843407	afdb50	AF-A0A7R9AV44-F1-model_v6	cytidine deaminase	1.091e-15	12.6	1	285	629360	Timema shepardi
+MGYP000574843407	afdb50	AF-A0A7R9CA35-F1-model_v6	cytidine deaminase	1.389e-15	13.5	1	287	61476	Timema cristinae
+MGYP000574843407	afdb50	AF-A0A2A9MBQ4-F1-model_v6	Cytidine and deoxycytidylate deaminase zinc-binding region domain-containing protein	4.929e-15	13.1	1	388	94643	Besnoitia besnoiti
+MGYP000574843407	afdb-swissprot	AF-A5UBV9-F1-model_v6	Cytidine deaminase	4.436e-13	16.9	1	271	374930	Haemophilus influenzae PittEE
+MGYP000574843407	afdb-swissprot	AF-A5UEI7-F1-model_v6	Cytidine deaminase	4.436e-13	16.5	1	266	374931	Haemophilus influenzae PittGG
+MGYP000574843407	afdb-swissprot	AF-Q4QK60-F1-model_v6	Cytidine deaminase	5.998e-13	16.5	1	266	281310	Haemophilus influenzae 86-028NP
+MGYP000574843407	afdb-swissprot	AF-Q9CP11-F1-model_v6	Cytidine deaminase	6.767e-13	16.2	1	264	272843	Pasteurella multocida subsp. multocida str. Pm70
+MGYP000574843407	afdb-swissprot	AF-P44325-F1-model_v6	Cytidine deaminase	6.767e-13	16.1	1	266	71421	Haemophilus influenzae Rd KW20
+MGYP000574843407	afdb-swissprot	AF-Q5E4R6-F1-model_v6	Cytidine deaminase	8.109e-13	19.3	1	243	312309	Aliivibrio fischeri ES114
+MGYP000574843407	afdb-swissprot	AF-B0USP2-F1-model_v6	Cytidine deaminase	9.718e-13	18.8	1	270	228400	Histophilus somni 2336
+MGYP000574843407	afdb-swissprot	AF-B5FEN2-F1-model_v6	Cytidine deaminase	1.165e-12	19.3	1	243	388396	Aliivibrio fischeri MJ11
+MGYP000574843407	afdb-swissprot	AF-C6DDS7-F1-model_v6	Cytidine deaminase	1.165e-12	13.9	1	258	561230	Pectobacterium carotovorum subsp. carotovorum PC1
+MGYP000574843407	afdb-swissprot	AF-Q9SU87-F1-model_v6	Cytidine deaminase 7	1.673e-12	15.4	1	271	3702	Arabidopsis thaliana
+MGYP000574843407	pdb100	4eg2-assembly2.cif.gz_C	2.2 Angstrom Crystal Structure of Cytidine deaminase from Vibrio cholerae in Complex with Zinc and Uridine	1.003e-11	16.6	1	276	666	Vibrio cholerae
+MGYP000574843407	pdb100	1af2-assembly1.cif.gz_A	CRYSTAL STRUCTURE OF CYTIDINE DEAMINASE COMPLEXED WITH URIDINE	7.797e-11	13.8	1	260	562	Escherichia coli
+MGYP000574843407	pdb100	6k63-assembly2.cif.gz_D	The crystal structure of cytidine deaminase from Klebsiella pneumoniae	3.743e-10	15.6	1	237	272620	Klebsiella pneumoniae subsp. pneumoniae MGH 78578
+MGYP000574843407	pdb100	6l08-assembly1.cif.gz_A	Crystal structure of Arabidopsis cytidine deaminase	2.74e-09	12.7	1	275	3702	Arabidopsis thaliana
+MGYP000574843407	pdb100	6l08-assembly1.cif.gz_B	Crystal structure of Arabidopsis cytidine deaminase	1.778e-08	14.7	1	271	3702	Arabidopsis thaliana
+MGYP000574843407	pdb100	1mq0-assembly1.cif.gz_A	Crystal Structure of Human Cytidine Deaminase	2.007e-08	18.5	1	135	9606	Homo sapiens
+MGYP000574843407	pdb100	2fr6-assembly1.cif.gz_A	Crystal Structure of Mouse Cytidine Deaminase Complexed with Cytidine	2.405e-08	18.5	1	140	10090	Mus musculus
+MGYP000574843407	pdb100	1ux1-assembly1.cif.gz_D	Bacillus subtilis cytidine deaminase with a Cys53His and an Arg56Gln substitution	7.123e-08	20.1	1	134	1423	Bacillus subtilis
+MGYP000574843407	pdb100	1ux0-assembly1.cif.gz_B-2	Bacillus subtilis cytidine deaminase with an Arg56 - Gln substitution	8.037e-08	19.5	1	133	1423	Bacillus subtilis
+MGYP000574843407	pdb100	2d30-assembly1.cif.gz_A	Crystal Structure of Cytidine Deaminase Cdd-2 (BA4525) from Bacillus Anthracis at 2.40A Resolution	9.631e-08	25	1	128	1392	Bacillus anthracis
+MGYP001319153113	afdb50	AF-A0A2G9MA95-F1-model_v6	CMP/dCMP-type deaminase domain-containing protein	6.289e-12	33.3	1	141	1974463	Candidatus Woesearchaeota archaeon CG10_big_fil_rev_8_21_14_0_10_37_12
+MGYP001319153113	afdb50	AF-A0A7X7QJG0-F1-model_v6	CMP/dCMP-type deaminase domain-containing protein	6.904e-09	15	1	146	1932692	Lentisphaerota bacterium
+MGYP001319153113	afdb50	AF-A0A970W4J2-F1-model_v6	CMP/dCMP-type deaminase domain-containing protein	1.065e-08	19.5	1	138	2026724	Chloroflexota bacterium
+MGYP001319153113	afdb50	AF-A0A9D6WPM0-F1-model_v6	CMP/dCMP-type deaminase domain-containing protein	1.065e-08	13.3	1	150	2282145	Candidatus Gottesmanbacteria bacterium
+MGYP001319153113	afdb50	AF-A0A8T5DYR4-F1-model_v6	CMP/dCMP-type deaminase domain-containing protein	1.365e-08	20.5	1	141	2026803	Candidatus Woesearchaeota archaeon
+MGYP001319153113	afdb50	AF-A0A954NL86-F1-model_v6	CMP/dCMP-type deaminase domain-containing protein	1.979e-08	16.4	1	152	2053591	Planctomycetales bacterium
+MGYP001319153113	afdb50	AF-A0A537RGF2-F1-model_v6	Cytidine deaminase	4.712e-08	18.4	1	179	1913988	Alphaproteobacteria bacterium
+MGYP001319153113	afdb50	AF-A0A8T4KSN0-F1-model_v6	CMP/dCMP-type deaminase domain-containing protein	5.334e-08	16.6	1	144	3121606	Candidatus Aenigmatarchaeota archaeon
+MGYP001319153113	afdb50	AF-A0AAJ0TA16-F1-model_v6	CMP/dCMP-type deaminase domain-containing protein	6.037e-08	18.8	1	143	3121606	Candidatus Aenigmatarchaeota archaeon
+MGYP001319153113	afdb50	AF-A0A1I2MN81-F1-model_v6	Cytidine deaminase	6.423e-08	17.8	1	151	655355	Sunxiuqinia elliptica
+MGYP001319153113	afdb-swissprot	AF-Q54I82-F1-model_v6	Probable cytidine deaminase	2.389e-07	12.4	1	161	44689	Dictyostelium discoideum
+MGYP001319153113	afdb-swissprot	AF-Q09190-F1-model_v6	Putative cytidine deaminase	4.438e-07	19.3	1	145	284812	Schizosaccharomyces pombe 972h-
+MGYP001319153113	afdb-swissprot	AF-P47718-F1-model_v6	Cytidine deaminase	7.751e-07	13.5	1	148	2122	Mycoplasmoides pirum
+MGYP001319153113	afdb-swissprot	AF-P19079-F1-model_v6	Cytidine deaminase	1.845e-06	12.7	1	149	224308	Bacillus subtilis subsp. subtilis str. 168
+MGYP001319153113	afdb-swissprot	AF-P32320-F1-model_v6	Cytidine deaminase	2.847e-06	9.5	1	146	9606	Homo sapiens
+MGYP001319153113	afdb-swissprot	AF-P47298-F1-model_v6	Cytidine deaminase	3.223e-06	11.4	1	131	243273	Mycoplasmoides genitalium G37
+MGYP001319153113	afdb-swissprot	AF-Q9KD53-F1-model_v6	Cytidine deaminase	3.223e-06	9.2	1	141	272558	Halalkalibacterium halodurans C-125
+MGYP001319153113	afdb-swissprot	AF-Q9S3M0-F1-model_v6	Cytidine deaminase	3.429e-06	10.4	1	144	1476	Sporosarcina psychrophila
+MGYP001319153113	afdb-swissprot	AF-Q06549-F1-model_v6	Cytidine deaminase	4.393e-06	14	1	150	559292	Saccharomyces cerevisiae S288C
+MGYP001319153113	afdb-swissprot	AF-P56389-F1-model_v6	Cytidine deaminase	7.211e-06	9.7	1	144	10090	Mus musculus
+MGYP001319153113	pdb100	1uwz-assembly1.cif.gz_A	Bacillus subtilis cytidine deaminase with an Arg56 - Ala substitution	1.718e-06	11.6	1	137	1423	Bacillus subtilis
+MGYP001319153113	pdb100	2d30-assembly1.cif.gz_A	Crystal Structure of Cytidine Deaminase Cdd-2 (BA4525) from Bacillus Anthracis at 2.40A Resolution	2.342e-06	10.9	1	137	1392	Bacillus anthracis
+MGYP001319153113	pdb100	1r5t-assembly1.cif.gz_D	The Crystal Structure of Cytidine Deaminase CDD1, an Orphan C to U editase from Yeast	3.845e-06	12.1	1	148	4932	Saccharomyces cerevisiae
+MGYP001319153113	pdb100	1jtk-assembly1.cif.gz_A	Crystal structure of cytidine deaminase from Bacillus subtilis in complex with the inhibitor tetrahydrodeoxyuridine	3.845e-06	11.5	1	139	1423	Bacillus subtilis
+MGYP001319153113	pdb100	1ux0-assembly1.cif.gz_B-2	Bacillus subtilis cytidine deaminase with an Arg56 - Gln substitution	4.352e-06	12.4	1	137	1423	Bacillus subtilis
+MGYP001319153113	pdb100	1mq0-assembly1.cif.gz_A	Crystal Structure of Human Cytidine Deaminase	4.926e-06	10.8	1	138	9606	Homo sapiens
+MGYP001319153113	pdb100	2fr6-assembly1.cif.gz_A	Crystal Structure of Mouse Cytidine Deaminase Complexed with Cytidine	5.241e-06	8.6	1	150	10090	Mus musculus
+MGYP001319153113	pdb100	1ux1-assembly1.cif.gz_D	Bacillus subtilis cytidine deaminase with a Cys53His and an Arg56Gln substitution	6.312e-06	12.2	1	139	1423	Bacillus subtilis
+MGYP001319153113	pdb100	6kw6-assembly1.cif.gz_A	Crystal Structure of cytidine deaminase from Streptomyces noursei	3.577e-05	11.4	1	131	1971	Streptomyces noursei
+MGYP001319153113	pdb100	7zob-assembly2.cif.gz_E	Metagenomic cytidine deaminase Cdd	3.577e-05	11.3	1	141	77133	uncultured bacterium
+MGYP000751766417	afdb50	AF-A0A2E0L8W7-F1-model_v6	Glycoside hydrolase family 2	2.943e-70	46.7	1	569	2024896	Anaerolineaceae bacterium
+MGYP000751766417	afdb50	AF-A0A927CJC3-F1-model_v6	Glycoside hydrolase family 2	9.403e-69	45.2	1	572	2772299	Paenibacillus arenilitoris
+MGYP000751766417	afdb50	AF-A0A3D3VQG9-F1-model_v6	Uncharacterized protein (Fragment)	3.262e-66	37.9	1	585	2026801	Verrucomicrobiales bacterium
+MGYP000751766417	afdb50	AF-A0A356EPV0-F1-model_v6	Uncharacterized protein	6.045e-42	23.6	1	610	2026779	Planctomycetaceae bacterium
+MGYP000751766417	afdb50	AF-A0A7X7QHY7-F1-model_v6	Beta-galactosidase	7.167e-42	22.3	1	618	2699754	Pirellulaceae bacterium
+MGYP000751766417	afdb50	AF-A0A1V5GYJ0-F1-model_v6	Beta-D-glucuronidase	3.72e-41	23.2	1	598	1852901	Lentisphaerae bacterium ADurb.BinA184
+MGYP000751766417	afdb50	AF-A0A496TNR1-F1-model_v6	Glycoside hydrolase family 2 (Fragment)	1.094e-40	19.9	1	597	2172550	Candidatus Zhuqueibacterota bacterium
+MGYP000751766417	afdb50	AF-A0A842VZB7-F1-model_v6	beta-mannosidase	1.872e-39	19.7	1	654	2053489	Promethearchaeota archaeon
+MGYP000751766417	afdb50	AF-A0A7Y2DB60-F1-model_v6	beta-mannosidase	2.097e-39	17	1	592	2201156	Acidimicrobiales bacterium
+MGYP000751766417	afdb50	AF-A0A523S473-F1-model_v6	Glycoside hydrolase family 2 (Fragment)	2.632e-39	19.7	1	596	2030807	Candidatus Aerophobota bacterium
+MGYP000751766417	afdb-swissprot	AF-Q2TXB7-F1-model_v6	Beta-mannosidase B	1.148e-34	18.9	1	628	510516	Aspergillus oryzae RIB40
+MGYP000751766417	afdb-swissprot	AF-B8NW36-F1-model_v6	Beta-mannosidase B	2.269e-34	18.3	1	616	332952	Aspergillus flavus NRRL3357
+MGYP000751766417	afdb-swissprot	AF-A2QYN2-F1-model_v6	Beta-mannosidase B	5.628e-34	17.9	1	630	425011	Aspergillus niger CBS 513.88
+MGYP000751766417	afdb-swissprot	AF-I2C092-F1-model_v6	Beta-mannosidase B	8.865e-34	18.6	1	618	78579	Thermothelomyces thermophilus
+MGYP000751766417	afdb-swissprot	AF-Q0CCA0-F1-model_v6	Beta-mannosidase B	1.564e-33	17.2	1	631	341663	Aspergillus terreus NIH2624
+MGYP000751766417	afdb-swissprot	AF-Q5B7W2-F1-model_v6	Beta-mannosidase B	3.464e-33	17.1	1	618	227321	Aspergillus nidulans FGSC A4
+MGYP000751766417	afdb-swissprot	AF-A1CGA8-F1-model_v6	Beta-mannosidase B	1.019e-32	18	1	631	344612	Aspergillus clavatus NRRL 1
+MGYP000751766417	afdb-swissprot	AF-B0YBU9-F1-model_v6	Beta-mannosidase B	1.433e-32	18.1	1	629	451804	Aspergillus fumigatus A1163
+MGYP000751766417	afdb-swissprot	AF-Q4WAH4-F1-model_v6	Beta-mannosidase B	1.699e-32	17.5	1	620	330879	Aspergillus fumigatus Af293
+MGYP000751766417	afdb-swissprot	AF-A1D911-F1-model_v6	Beta-mannosidase B	5.289e-32	16.7	1	622	331117	Aspergillus fischeri NRRL 181
+MGYP000751766417	pdb100	6byc-assembly1.cif.gz_A	Crystal structure of the GH2 exo-beta-mannanase from Xanthomonas axonopodis pv. citri	1.59e-33	19.2	1	593	190486	Xanthomonas citri pv. citri str. 306
+MGYP000751766417	pdb100	2vot-assembly1.cif.gz_A	Structural and biochemical evidence for a boat-like transition state in beta-mannosidases	1.781e-33	19.5	1	594	226186	Bacteroides thetaiotaomicron VPI-5482
+MGYP000751766417	pdb100	2vl4-assembly1.cif.gz_A	Structural and biochemical evidence for a boat-like transition state in beta-mannosidases	2.806e-33	18.8	1	594	226186	Bacteroides thetaiotaomicron VPI-5482
+MGYP000751766417	pdb100	2vmf-assembly2.cif.gz_B	Structural and biochemical evidence for a boat-like transition state in beta-mannosidases	4.678e-33	18.8	1	599	226186	Bacteroides thetaiotaomicron VPI-5482
+MGYP000751766417	pdb100	2vqu-assembly1.cif.gz_A	Structural and biochemical evidence for a boat-like transition state in beta-mannosidases	5.24e-33	19.2	1	593	818	Bacteroides thetaiotaomicron
+MGYP000751766417	pdb100	6byg-assembly1.cif.gz_B	Crystal structure of the nucleophile mutant (E575A) of the GH2 exo-beta-mannanase from Xanthomonas axonopodis pv. citri	7.368e-33	18.9	1	597	190486	Xanthomonas citri pv. citri str. 306
+MGYP000751766417	pdb100	2vqu-assembly2.cif.gz_B	Structural and biochemical evidence for a boat-like transition state in beta-mannosidases	1.456e-32	18.9	1	595	818	Bacteroides thetaiotaomicron
+MGYP000751766417	pdb100	6byg-assembly1.cif.gz_A	Crystal structure of the nucleophile mutant (E575A) of the GH2 exo-beta-mannanase from Xanthomonas axonopodis pv. citri	2.048e-32	18.6	1	601	190486	Xanthomonas citri pv. citri str. 306
+MGYP000751766417	pdb100	2vmf-assembly1.cif.gz_A	Structural and biochemical evidence for a boat-like transition state in beta-mannosidases	3.613e-32	19.2	1	596	226186	Bacteroides thetaiotaomicron VPI-5482
+MGYP000751766417	pdb100	6bye-assembly1.cif.gz_B	Crystal structure of the GH2 exo-beta-mannanase from Xanthomonas axonopodis pv. citri in complex with mannose	3.824e-32	19.2	1	593	190486	Xanthomonas citri pv. citri str. 306
+MGYP000574654335	afdb50	AF-A0A848ZL51-F1-model_v6	Glycoside hydrolase family 2 (Fragment)	3.528e-94	61.7	1	687	1872633	Arenibacter sp.
+MGYP000574654335	afdb50	AF-A0AAU9CI61-F1-model_v6	Beta-galactosidase	1.132e-89	57.4	1	703	1182444	Fulvitalea axinellae
+MGYP000574654335	afdb50	AF-A0A9E3RVI0-F1-model_v6	Beta-galactosidase (Fragment)	9.116e-69	34.2	1	732	2030809	Candidatus Hydrogenedentota bacterium
+MGYP000574654335	afdb50	AF-A0A174WZN5-F1-model_v6	beta-galactosidase	1.281e-68	33.8	1	697	47678	Bacteroides caccae
+MGYP000574654335	afdb50	AF-A0A7V4IFD2-F1-model_v6	F5/8 type C domain-containing protein	2.39e-68	34.4	1	720	2052186	Limisphaerales bacterium
+MGYP000574654335	afdb50	AF-R7PA32-F1-model_v6	Glycoside hydrolase family 2 immunoglobulin-like beta-sandwich domain-containing protein	4.214e-68	34.8	1	682	1262933	Prevotella sp. CAG:617
+MGYP000574654335	afdb50	AF-D7I863-F1-model_v6	beta-galactosidase (Fragment)	9.864e-68	31.6	1	705	469585	Bacteroides sp. 1_1_14
+MGYP000574654335	afdb50	AF-A0A1U9NNF7-F1-model_v6	beta-galactosidase	1.31e-67	34.6	1	712	1936003	Anaerohalosphaera lusitana
+MGYP000574654335	afdb50	AF-A0A661QKF8-F1-model_v6	Glycoside hydrolase family 2	1.467e-67	31.7	1	738	2026735	Deltaproteobacteria bacterium
+MGYP000574654335	afdb50	AF-A0A959G8J6-F1-model_v6	beta-galactosidase	6.781e-67	35.4	1	703	2202734	Saprospiraceae bacterium
+MGYP000574654335	afdb-swissprot	AF-Q2XQU3-F1-model_v6	Beta-galactosidase 2	5.306e-27	15.9	1	632	550	Enterobacter cloacae
+MGYP000574654335	afdb-swissprot	AF-O52847-F1-model_v6	Beta-galactosidase	1.649e-26	16.6	1	631	592022	Priestia megaterium DSM 319
+MGYP000574654335	afdb-swissprot	AF-B7UJI9-F1-model_v6	Beta-galactosidase	1.649e-26	15.4	1	622	574521	Escherichia coli O127:H6 str. E2348/69
+MGYP000574654335	afdb-swissprot	AF-Q32JB6-F1-model_v6	Beta-galactosidase	2.317e-26	15.3	1	625	300267	Shigella dysenteriae Sd197
+MGYP000574654335	afdb-swissprot	AF-B7N8Q1-F1-model_v6	Beta-galactosidase	2.452e-26	15.6	1	634	585056	Escherichia coli UMN026
+MGYP000574654335	afdb-swissprot	AF-Q3Z583-F1-model_v6	Beta-galactosidase	2.907e-26	15.6	1	627	300269	Shigella sonnei Ss046
+MGYP000574654335	afdb-swissprot	AF-A8AKB8-F1-model_v6	Beta-galactosidase	3.077e-26	13.7	1	626	290338	Citrobacter koseri ATCC BAA-895
+MGYP000574654335	afdb-swissprot	AF-A9MQ82-F1-model_v6	Beta-galactosidase	3.446e-26	14.6	1	668	41514	Salmonella enterica subsp. arizonae serovar 62:z4,z23:-
+MGYP000574654335	afdb-swissprot	AF-Q8FKG6-F1-model_v6	Beta-galactosidase	4.085e-26	16	1	625	199310	Escherichia coli CFT073
+MGYP000574654335	afdb-swissprot	AF-B1J0T5-F1-model_v6	Beta-galactosidase	4.323e-26	15.9	1	622	481805	Escherichia coli ATCC 8739
+MGYP000574654335	pdb100	8u01-assembly1.cif.gz_A	Crystal Structure of the Glycoside Hydrolase Family 2 TIM Barrel-domain Containing Protein from Phocaeicola plebeius	1.411e-62	31.6	1	715	310297	Phocaeicola plebeius
+MGYP000574654335	pdb100	6cvm-assembly1.cif.gz_A	Atomic resolution cryo-EM structure of beta-galactosidase	4.812e-27	16	1	612	83333	Escherichia coli K-12
+MGYP000574654335	pdb100	6dxu-assembly1.cif.gz_A	Crystal Structure of Parabacteroides merdae Beta-Glucuronidase (GUS)	1.192e-26	13.7	1	611	411477	Parabacteroides merdae ATCC 43184
+MGYP000574654335	pdb100	5uj6-assembly1.cif.gz_A	Crystal Structure of Bacteroides Uniformis beta-glucuronidase	1.583e-26	12.8	1	646	1339349	Bacteroides uniformis str. 3978 T3 ii
+MGYP000574654335	pdb100	3vd7-assembly1.cif.gz_B	E. coli (lacZ) beta-galactosidase (N460S) in complex with galactotetrazole	2.637e-26	15.7	1	615	562	Escherichia coli
+MGYP000574654335	pdb100	6d50-assembly1.cif.gz_B	Bacteroides uniforms beta-glucuronidase 2 bound to D-glucaro-1,5-lactone	3.501e-26	13	1	642	1339349	Bacteroides uniformis str. 3978 T3 ii
+MGYP000574654335	pdb100	6d7j-assembly1.cif.gz_C	The Crystal Structure of Parabacteroides merdae Beta-Glucuronidase (GUS) with Glycerol in Active-Site	3.921e-26	13.2	1	603	999420	Parabacteroides merdae CL03T12C32
+MGYP000574654335	pdb100	6dxu-assembly1.cif.gz_C	Crystal Structure of Parabacteroides merdae Beta-Glucuronidase (GUS)	5.207e-26	13.4	1	631	411477	Parabacteroides merdae ATCC 43184
+MGYP000574654335	pdb100	6d1p-assembly1.cif.gz_A	Apo structure of Bacteroides uniformis beta-glucuronidase 3	6.172e-26	15.2	1	590	1339349	Bacteroides uniformis str. 3978 T3 ii
+MGYP000574654335	pdb100	2vl4-assembly1.cif.gz_A	Structural and biochemical evidence for a boat-like transition state in beta-mannosidases	6.532e-26	13.4	1	631	226186	Bacteroides thetaiotaomicron VPI-5482
+MGYP000968177834	afdb50	AF-A0A927CJC3-F1-model_v6	Glycoside hydrolase family 2	4.092e-76	58.2	1	565	2772299	Paenibacillus arenilitoris
+MGYP000968177834	afdb50	AF-A0A3D3VQG9-F1-model_v6	Uncharacterized protein (Fragment)	6.405e-65	37.1	1	584	2026801	Verrucomicrobiales bacterium
+MGYP000968177834	afdb50	AF-A0A2E0L8W7-F1-model_v6	Glycoside hydrolase family 2	3.739e-63	43.4	1	566	2024896	Anaerolineaceae bacterium
+MGYP000968177834	afdb50	AF-A0A929DHN7-F1-model_v6	Glycoside hydrolase family 2 (Fragment)	3.871e-61	38.7	1	583	1898104	Bacteroidota bacterium
+MGYP000968177834	afdb50	AF-A0A356EPV0-F1-model_v6	Uncharacterized protein	1.74e-41	24.3	1	611	2026779	Planctomycetaceae bacterium
+MGYP000968177834	afdb50	AF-A0A1V5GYJ0-F1-model_v6	Beta-D-glucuronidase	2.426e-40	24.3	1	600	1852901	Lentisphaerae bacterium ADurb.BinA184
+MGYP000968177834	afdb50	AF-A0A7X7QHY7-F1-model_v6	Beta-galactosidase	4.769e-39	24	1	600	2699754	Pirellulaceae bacterium
+MGYP000968177834	afdb50	AF-A0A842VZB7-F1-model_v6	beta-mannosidase	2.982e-38	16.8	1	646	2053489	Promethearchaeota archaeon
+MGYP000968177834	afdb50	AF-A0A496TNR1-F1-model_v6	Glycoside hydrolase family 2 (Fragment)	1.322e-37	18.9	1	581	2172550	Candidatus Zhuqueibacterota bacterium
+MGYP000968177834	afdb50	AF-A0A9E5NPH5-F1-model_v6	beta-mannosidase	2.214e-37	21.4	1	583	2052143	Anaerolineae bacterium
+MGYP000968177834	afdb-swissprot	AF-Q5B7W2-F1-model_v6	Beta-mannosidase B	3.113e-30	14.6	1	621	227321	Aspergillus nidulans FGSC A4
+MGYP000968177834	afdb-swissprot	AF-Q2TXB7-F1-model_v6	Beta-mannosidase B	3.697e-30	14.8	1	626	510516	Aspergillus oryzae RIB40
+MGYP000968177834	afdb-swissprot	AF-B8NW36-F1-model_v6	Beta-mannosidase B	5.846e-30	14.1	1	634	332952	Aspergillus flavus NRRL3357
+MGYP000968177834	afdb-swissprot	AF-I2C092-F1-model_v6	Beta-mannosidase B	1.736e-29	15.2	1	622	78579	Thermothelomyces thermophilus
+MGYP000968177834	afdb-swissprot	AF-A2QYN2-F1-model_v6	Beta-mannosidase B	2.183e-29	14.2	1	639	425011	Aspergillus niger CBS 513.88
+MGYP000968177834	afdb-swissprot	AF-Q0CCA0-F1-model_v6	Beta-mannosidase B	2.448e-29	14	1	639	341663	Aspergillus terreus NIH2624
+MGYP000968177834	afdb-swissprot	AF-B0YBU9-F1-model_v6	Beta-mannosidase B	1.085e-28	14.3	1	627	451804	Aspergillus fumigatus A1163
+MGYP000968177834	afdb-swissprot	AF-A1CGA8-F1-model_v6	Beta-mannosidase B	1.531e-28	14.6	1	616	344612	Aspergillus clavatus NRRL 1
+MGYP000968177834	afdb-swissprot	AF-Q4WAH4-F1-model_v6	Beta-mannosidase B	1.818e-28	14.2	1	631	330879	Aspergillus fumigatus Af293
+MGYP000968177834	afdb-swissprot	AF-A1D911-F1-model_v6	Beta-mannosidase B	1.797e-27	14.5	1	626	331117	Aspergillus fischeri NRRL 181
+MGYP000968177834	pdb100	6byc-assembly1.cif.gz_A	Crystal structure of the GH2 exo-beta-mannanase from Xanthomonas axonopodis pv. citri	8.905e-30	18.1	1	607	190486	Xanthomonas citri pv. citri str. 306
+MGYP000968177834	pdb100	6byg-assembly1.cif.gz_B	Crystal structure of the nucleophile mutant (E575A) of the GH2 exo-beta-mannanase from Xanthomonas axonopodis pv. citri	5.896e-29	17.9	1	602	190486	Xanthomonas citri pv. citri str. 306
+MGYP000968177834	pdb100	6bye-assembly1.cif.gz_B	Crystal structure of the GH2 exo-beta-mannanase from Xanthomonas axonopodis pv. citri in complex with mannose	1.653e-28	17.8	1	595	190486	Xanthomonas citri pv. citri str. 306
+MGYP000968177834	pdb100	5n6u-assembly2.cif.gz_D	Crystal structure of Beta-D-Mannosidase from Dictyoglomus thermophilum.	2.469e-28	18	1	586	309799	Dictyoglomus thermophilum H-6-12
+MGYP000968177834	pdb100	2vl4-assembly1.cif.gz_A	Structural and biochemical evidence for a boat-like transition state in beta-mannosidases	2.469e-28	16.1	1	589	226186	Bacteroides thetaiotaomicron VPI-5482
+MGYP000968177834	pdb100	6byg-assembly1.cif.gz_A	Crystal structure of the nucleophile mutant (E575A) of the GH2 exo-beta-mannanase from Xanthomonas axonopodis pv. citri	4.636e-28	18.3	1	595	190486	Xanthomonas citri pv. citri str. 306
+MGYP000968177834	pdb100	6byi-assembly1.cif.gz_B	Crystal structure of the acid-base mutant (E477A) of the GH2 exo-beta-mannanase from Xanthomonas axonopodis pv. citri	6.173e-28	18	1	594	190486	Xanthomonas citri pv. citri str. 306
+MGYP000968177834	pdb100	2vot-assembly1.cif.gz_A	Structural and biochemical evidence for a boat-like transition state in beta-mannosidases	7.763e-28	14.6	1	607	226186	Bacteroides thetaiotaomicron VPI-5482
+MGYP000968177834	pdb100	2vmf-assembly1.cif.gz_A	Structural and biochemical evidence for a boat-like transition state in beta-mannosidases	1.833e-27	15.4	1	594	226186	Bacteroides thetaiotaomicron VPI-5482
+MGYP000968177834	pdb100	8u01-assembly1.cif.gz_A	Crystal Structure of the Glycoside Hydrolase Family 2 TIM Barrel-domain Containing Protein from Phocaeicola plebeius	2.899e-27	15.2	1	611	310297	Phocaeicola plebeius
+MGYP000245278657	afdb50	AF-A0A2E0L8W7-F1-model_v6	Glycoside hydrolase family 2	6.536e-79	45.2	1	833	2024896	Anaerolineaceae bacterium
+MGYP000245278657	afdb50	AF-A0A3D3VQG9-F1-model_v6	Uncharacterized protein (Fragment)	3.695e-71	35.5	1	773	2026801	Verrucomicrobiales bacterium
+MGYP000245278657	afdb50	AF-A0A927CJC3-F1-model_v6	Glycoside hydrolase family 2	1.172e-66	33.8	1	875	2772299	Paenibacillus arenilitoris
+MGYP000245278657	afdb50	AF-A0A7C4ZNU5-F1-model_v6	Glycoside hydrolase family 2	5.443e-40	16.3	1	815	2052143	Anaerolineae bacterium
+MGYP000245278657	afdb50	AF-A0A7W0NP77-F1-model_v6	Glycoside hydrolase family 2	2.357e-39	15.5	1	810	1883427	Actinomycetes bacterium
+MGYP000245278657	afdb50	AF-A0A917EWM8-F1-model_v6	Beta-galactosidase	3.227e-39	15.3	1	848	1176239	Halobacillus andaensis
+MGYP000245278657	afdb50	AF-A0A497GJB8-F1-model_v6	Glycoside hydrolase family 2	4.655e-39	14	1	792	2250277	Thermoprotei archaeon
+MGYP000245278657	afdb50	AF-A0A942AE05-F1-model_v6	Beta-galactosidase	1.326e-38	16	1	839	2054177	Christensenellaceae bacterium
+MGYP000245278657	afdb50	AF-A0A925WTS2-F1-model_v6	Glycoside hydrolase family 2	1.473e-38	16	1	818	2033014	Armatimonadota bacterium
+MGYP000245278657	afdb50	AF-A0A2J6X751-F1-model_v6	Glycoside hydrolase family 2	1.552e-38	14.6	1	756	693075	Caldisericum exile
+MGYP000245278657	afdb-swissprot	AF-Q2TXB7-F1-model_v6	Beta-mannosidase B	1.267e-29	14.2	1	697	510516	Aspergillus oryzae RIB40
+MGYP000245278657	afdb-swissprot	AF-T2KPJ7-F1-model_v6	Putative beta-glucuronidase	1.335e-29	16.5	1	741	1347342	Formosa agariphila KMM 3901
+MGYP000245278657	afdb-swissprot	AF-B8NW36-F1-model_v6	Beta-mannosidase B	9.76e-29	13.9	1	708	332952	Aspergillus flavus NRRL3357
+MGYP000245278657	afdb-swissprot	AF-A2QYN2-F1-model_v6	Beta-mannosidase B	1.563e-28	13.4	1	694	425011	Aspergillus niger CBS 513.88
+MGYP000245278657	afdb-swissprot	AF-Q5B7W2-F1-model_v6	Beta-mannosidase B	1.829e-28	15.2	1	689	227321	Aspergillus nidulans FGSC A4
+MGYP000245278657	afdb-swissprot	AF-Q0CCA0-F1-model_v6	Beta-mannosidase B	2.781e-28	13.6	1	688	341663	Aspergillus terreus NIH2624
+MGYP000245278657	afdb-swissprot	AF-I2C092-F1-model_v6	Beta-mannosidase B	2.93e-28	13.8	1	780	78579	Thermothelomyces thermophilus
+MGYP000245278657	afdb-swissprot	AF-B0YBU9-F1-model_v6	Beta-mannosidase B	8.347e-28	13.6	1	688	451804	Aspergillus fumigatus A1163
+MGYP000245278657	afdb-swissprot	AF-Q4WAH4-F1-model_v6	Beta-mannosidase B	2.506e-27	13.8	1	699	330879	Aspergillus fumigatus Af293
+MGYP000245278657	afdb-swissprot	AF-A1CGA8-F1-model_v6	Beta-mannosidase B	4.014e-27	13.3	1	697	344612	Aspergillus clavatus NRRL 1
+MGYP000245278657	pdb100	8u01-assembly1.cif.gz_A	Crystal Structure of the Glycoside Hydrolase Family 2 TIM Barrel-domain Containing Protein from Phocaeicola plebeius	1.123e-31	14.1	1	789	310297	Phocaeicola plebeius
+MGYP000245278657	pdb100	2vl4-assembly1.cif.gz_A	Structural and biochemical evidence for a boat-like transition state in beta-mannosidases	2.736e-30	15.8	1	670	226186	Bacteroides thetaiotaomicron VPI-5482
+MGYP000245278657	pdb100	2vqu-assembly2.cif.gz_B	Structural and biochemical evidence for a boat-like transition state in beta-mannosidases	4.622e-29	15.7	1	671	818	Bacteroides thetaiotaomicron
+MGYP000245278657	pdb100	2vot-assembly1.cif.gz_A	Structural and biochemical evidence for a boat-like transition state in beta-mannosidases	4.87e-29	15.8	1	677	226186	Bacteroides thetaiotaomicron VPI-5482
+MGYP000245278657	pdb100	2wbk-assembly2.cif.gz_B	Structure of the Michaelis complex of beta-mannosidase, Man2A, provides insight into the conformational itinerary of mannoside hydrolysis	5.132e-29	15.4	1	671	226186	Bacteroides thetaiotaomicron VPI-5482
+MGYP000245278657	pdb100	2vmf-assembly2.cif.gz_B	Structural and biochemical evidence for a boat-like transition state in beta-mannosidases	9.618e-29	15.3	1	666	226186	Bacteroides thetaiotaomicron VPI-5482
+MGYP000245278657	pdb100	2vqu-assembly1.cif.gz_A	Structural and biochemical evidence for a boat-like transition state in beta-mannosidases	1.711e-28	16.2	1	672	818	Bacteroides thetaiotaomicron
+MGYP000245278657	pdb100	2vmf-assembly1.cif.gz_A	Structural and biochemical evidence for a boat-like transition state in beta-mannosidases	2.74e-28	16	1	665	226186	Bacteroides thetaiotaomicron VPI-5482
+MGYP000245278657	pdb100	5n6u-assembly2.cif.gz_D	Crystal structure of Beta-D-Mannosidase from Dictyoglomus thermophilum.	5.411e-28	17.2	1	677	309799	Dictyoglomus thermophilum H-6-12
+MGYP000245278657	pdb100	6byc-assembly1.cif.gz_A	Crystal structure of the GH2 exo-beta-mannanase from Xanthomonas axonopodis pv. citri	6.672e-28	16.3	1	679	190486	Xanthomonas citri pv. citri str. 306
+MGYP000729808394	afdb50	AF-A0A1Q2MDZ7-F1-model_v6	Evolved beta-galactosidase subunit alpha	9.868e-61	54.7	1	491	1851148	Limihaloglobus sulfuriphilus
+MGYP000729808394	afdb50	AF-A0A2E0L8W7-F1-model_v6	Glycoside hydrolase family 2	1.117e-59	52	1	480	2024896	Anaerolineaceae bacterium
+MGYP000729808394	afdb50	AF-A0A927CJC3-F1-model_v6	Glycoside hydrolase family 2	1.58e-59	50.2	1	480	2772299	Paenibacillus arenilitoris
+MGYP000729808394	afdb50	AF-A0A3D3VQG9-F1-model_v6	Uncharacterized protein (Fragment)	1.09e-55	42.1	1	493	2026801	Verrucomicrobiales bacterium
+MGYP000729808394	afdb50	AF-A0A929DHN7-F1-model_v6	Glycoside hydrolase family 2 (Fragment)	9.243e-55	44.2	1	500	1898104	Bacteroidota bacterium
+MGYP000729808394	afdb50	AF-R7J4H2-F1-model_v6	Beta-galactosidase	1.245e-46	36.9	1	484	1262913	Parabacteroides sp. CAG:409
+MGYP000729808394	afdb50	AF-A0A356EPV0-F1-model_v6	Uncharacterized protein	1.558e-33	24.2	1	528	2026779	Planctomycetaceae bacterium
+MGYP000729808394	afdb50	AF-A0A7X7QHY7-F1-model_v6	Beta-galactosidase	7.855e-33	23.3	1	515	2699754	Pirellulaceae bacterium
+MGYP000729808394	afdb50	AF-A0A1V5GYJ0-F1-model_v6	Beta-D-glucuronidase	9.897e-33	25.3	1	517	1852901	Lentisphaerae bacterium ADurb.BinA184
+MGYP000729808394	afdb50	AF-A0A957BCG5-F1-model_v6	Beta-mannosidase B (Fragment)	2.665e-31	22.3	1	496	2052143	Anaerolineae bacterium
+MGYP000729808394	afdb-swissprot	AF-Q2TXB7-F1-model_v6	Beta-mannosidase B	1.494e-28	15.5	1	534	510516	Aspergillus oryzae RIB40
+MGYP000729808394	afdb-swissprot	AF-Q0CCA0-F1-model_v6	Beta-mannosidase B	3.166e-28	16.7	1	536	341663	Aspergillus terreus NIH2624
+MGYP000729808394	afdb-swissprot	AF-A2QYN2-F1-model_v6	Beta-mannosidase B	4.226e-28	16.5	1	531	425011	Aspergillus niger CBS 513.88
+MGYP000729808394	afdb-swissprot	AF-B8NW36-F1-model_v6	Beta-mannosidase B	5.325e-28	15.5	1	533	332952	Aspergillus flavus NRRL3357
+MGYP000729808394	afdb-swissprot	AF-B0YBU9-F1-model_v6	Beta-mannosidase B	1.005e-27	15.7	1	535	451804	Aspergillus fumigatus A1163
+MGYP000729808394	afdb-swissprot	AF-A1CGA8-F1-model_v6	Beta-mannosidase B	1.596e-27	15.9	1	532	344612	Aspergillus clavatus NRRL 1
+MGYP000729808394	afdb-swissprot	AF-A1D911-F1-model_v6	Beta-mannosidase B	2.684e-27	16.1	1	533	331117	Aspergillus fischeri NRRL 181
+MGYP000729808394	afdb-swissprot	AF-Q4WAH4-F1-model_v6	Beta-mannosidase B	5.068e-27	15.5	1	535	330879	Aspergillus fumigatus Af293
+MGYP000729808394	afdb-swissprot	AF-Q5B7W2-F1-model_v6	Beta-mannosidase B	6.822e-26	15	1	531	227321	Aspergillus nidulans FGSC A4
+MGYP000729808394	afdb-swissprot	AF-I2C092-F1-model_v6	Beta-mannosidase B	1.365e-25	15.9	1	528	78579	Thermothelomyces thermophilus
+MGYP000729808394	pdb100	6byc-assembly1.cif.gz_A	Crystal structure of the GH2 exo-beta-mannanase from Xanthomonas axonopodis pv. citri	4.117e-27	18.7	1	522	190486	Xanthomonas citri pv. citri str. 306
+MGYP000729808394	pdb100	6byi-assembly1.cif.gz_B	Crystal structure of the acid-base mutant (E477A) of the GH2 exo-beta-mannanase from Xanthomonas axonopodis pv. citri	6.536e-27	18.4	1	526	190486	Xanthomonas citri pv. citri str. 306
+MGYP000729808394	pdb100	6bye-assembly1.cif.gz_B	Crystal structure of the GH2 exo-beta-mannanase from Xanthomonas axonopodis pv. citri in complex with mannose	8.726e-27	18.7	1	523	190486	Xanthomonas citri pv. citri str. 306
+MGYP000729808394	pdb100	6byg-assembly1.cif.gz_A	Crystal structure of the nucleophile mutant (E575A) of the GH2 exo-beta-mannanase from Xanthomonas axonopodis pv. citri	9.244e-27	17.3	1	546	190486	Xanthomonas citri pv. citri str. 306
+MGYP000729808394	pdb100	2vl4-assembly1.cif.gz_A	Structural and biochemical evidence for a boat-like transition state in beta-mannosidases	3.491e-26	17	1	521	226186	Bacteroides thetaiotaomicron VPI-5482
+MGYP000729808394	pdb100	2vmf-assembly2.cif.gz_B	Structural and biochemical evidence for a boat-like transition state in beta-mannosidases	5.542e-26	17.4	1	522	226186	Bacteroides thetaiotaomicron VPI-5482
+MGYP000729808394	pdb100	6byg-assembly1.cif.gz_B	Crystal structure of the nucleophile mutant (E575A) of the GH2 exo-beta-mannanase from Xanthomonas axonopodis pv. citri	8.799e-26	18	1	522	190486	Xanthomonas citri pv. citri str. 306
+MGYP000729808394	pdb100	2vot-assembly1.cif.gz_A	Structural and biochemical evidence for a boat-like transition state in beta-mannosidases	8.799e-26	17.2	1	527	226186	Bacteroides thetaiotaomicron VPI-5482
+MGYP000729808394	pdb100	2vqu-assembly2.cif.gz_B	Structural and biochemical evidence for a boat-like transition state in beta-mannosidases	1.76e-25	17.3	1	524	818	Bacteroides thetaiotaomicron
+MGYP000729808394	pdb100	5n6u-assembly2.cif.gz_D	Crystal structure of Beta-D-Mannosidase from Dictyoglomus thermophilum.	2.96e-25	17.5	1	524	309799	Dictyoglomus thermophilum H-6-12
+MGYP000016927400	afdb50	AF-A0A2E0L8W7-F1-model_v6	Glycoside hydrolase family 2	6.947e-76	54.7	1	586	2024896	Anaerolineaceae bacterium
+MGYP000016927400	afdb50	AF-A0A3D3VQG9-F1-model_v6	Uncharacterized protein (Fragment)	1.856e-71	45.5	1	584	2026801	Verrucomicrobiales bacterium
+MGYP000016927400	afdb50	AF-A0A927CJC3-F1-model_v6	Glycoside hydrolase family 2	3.966e-59	38.9	1	583	2772299	Paenibacillus arenilitoris
+MGYP000016927400	afdb50	AF-A0A7W0G4B6-F1-model_v6	Glycoside hydrolase family 2 catalytic domain-containing protein (Fragment)	2.414e-35	17.9	1	584	1978231	Acidobacteriota bacterium
+MGYP000016927400	afdb50	AF-A0A497GJB8-F1-model_v6	Glycoside hydrolase family 2	5.103e-35	17.2	1	593	2250277	Thermoprotei archaeon
+MGYP000016927400	afdb50	AF-A0A7C5UAB7-F1-model_v6	Glycoside hydrolase family 2 catalytic domain-containing protein (Fragment)	2.416e-34	16.7	1	585	2033014	Armatimonadota bacterium
+MGYP000016927400	afdb50	AF-A0A496TNR1-F1-model_v6	Glycoside hydrolase family 2 (Fragment)	2.711e-34	19	1	592	2172550	Candidatus Zhuqueibacterota bacterium
+MGYP000016927400	afdb50	AF-A0A925WTS2-F1-model_v6	Glycoside hydrolase family 2	3.83e-34	18.6	1	591	2033014	Armatimonadota bacterium
+MGYP000016927400	afdb50	AF-A0A7C4ZNU5-F1-model_v6	Glycoside hydrolase family 2	4.057e-34	20.3	1	586	2052143	Anaerolineae bacterium
+MGYP000016927400	afdb50	AF-A0A7C4F1H2-F1-model_v6	Glycoside hydrolase family 2	1.921e-33	19.6	1	607	2026714	Candidatus Bathyarchaeota archaeon
+MGYP000016927400	afdb-swissprot	AF-Q0CCA0-F1-model_v6	Beta-mannosidase B	6.655e-26	15.9	1	545	341663	Aspergillus terreus NIH2624
+MGYP000016927400	afdb-swissprot	AF-Q2TXB7-F1-model_v6	Beta-mannosidase B	7.467e-26	16.6	1	542	510516	Aspergillus oryzae RIB40
+MGYP000016927400	afdb-swissprot	AF-B8NW36-F1-model_v6	Beta-mannosidase B	1.117e-25	16.6	1	539	332952	Aspergillus flavus NRRL3357
+MGYP000016927400	afdb-swissprot	AF-Q5B7W2-F1-model_v6	Beta-mannosidase B	2.651e-25	15.3	1	526	227321	Aspergillus nidulans FGSC A4
+MGYP000016927400	afdb-swissprot	AF-A1CGA8-F1-model_v6	Beta-mannosidase B	3.967e-25	15.7	1	535	344612	Aspergillus clavatus NRRL 1
+MGYP000016927400	afdb-swissprot	AF-A2QYN2-F1-model_v6	Beta-mannosidase B	5.936e-25	15.6	1	532	425011	Aspergillus niger CBS 513.88
+MGYP000016927400	afdb-swissprot	AF-Q4WAH4-F1-model_v6	Beta-mannosidase B	1.408e-24	16.4	1	529	330879	Aspergillus fumigatus Af293
+MGYP000016927400	afdb-swissprot	AF-B0YBU9-F1-model_v6	Beta-mannosidase B	2.232e-24	15.8	1	530	451804	Aspergillus fumigatus A1163
+MGYP000016927400	afdb-swissprot	AF-A1D911-F1-model_v6	Beta-mannosidase B	8.394e-24	15.6	1	530	331117	Aspergillus fischeri NRRL 181
+MGYP000016927400	afdb-swissprot	AF-Q4FZV0-F1-model_v6	Beta-mannosidase	3.542e-23	14.8	1	544	10116	Rattus norvegicus
+MGYP000016927400	pdb100	2vl4-assembly1.cif.gz_A	Structural and biochemical evidence for a boat-like transition state in beta-mannosidases	3.412e-25	15.8	1	493	226186	Bacteroides thetaiotaomicron VPI-5482
+MGYP000016927400	pdb100	5n6u-assembly2.cif.gz_D	Crystal structure of Beta-D-Mannosidase from Dictyoglomus thermophilum.	8.093e-25	18.5	1	490	309799	Dictyoglomus thermophilum H-6-12
+MGYP000016927400	pdb100	6byc-assembly1.cif.gz_A	Crystal structure of the GH2 exo-beta-mannanase from Xanthomonas axonopodis pv. citri	9.081e-25	17.4	1	499	190486	Xanthomonas citri pv. citri str. 306
+MGYP000016927400	pdb100	2vot-assembly1.cif.gz_A	Structural and biochemical evidence for a boat-like transition state in beta-mannosidases	1.615e-24	15.7	1	503	226186	Bacteroides thetaiotaomicron VPI-5482
+MGYP000016927400	pdb100	2vmf-assembly1.cif.gz_A	Structural and biochemical evidence for a boat-like transition state in beta-mannosidases	2.034e-24	15.9	1	495	226186	Bacteroides thetaiotaomicron VPI-5482
+MGYP000016927400	pdb100	2vqu-assembly2.cif.gz_B	Structural and biochemical evidence for a boat-like transition state in beta-mannosidases	2.56e-24	15.1	1	527	818	Bacteroides thetaiotaomicron
+MGYP000016927400	pdb100	6bye-assembly1.cif.gz_B	Crystal structure of the GH2 exo-beta-mannanase from Xanthomonas axonopodis pv. citri in complex with mannose	3.224e-24	17.1	1	501	190486	Xanthomonas citri pv. citri str. 306
+MGYP000016927400	pdb100	2vqu-assembly1.cif.gz_A	Structural and biochemical evidence for a boat-like transition state in beta-mannosidases	3.617e-24	15.7	1	490	818	Bacteroides thetaiotaomicron
+MGYP000016927400	pdb100	2wbk-assembly2.cif.gz_B	Structure of the Michaelis complex of beta-mannosidase, Man2A, provides insight into the conformational itinerary of mannoside hydrolysis	4.554e-24	15.7	1	514	226186	Bacteroides thetaiotaomicron VPI-5482
+MGYP000016927400	pdb100	6byi-assembly1.cif.gz_B	Crystal structure of the acid-base mutant (E477A) of the GH2 exo-beta-mannanase from Xanthomonas axonopodis pv. citri	6.074e-24	17.3	1	496	190486	Xanthomonas citri pv. citri str. 306
+MGYP001533818318	afdb50	AF-A0A2E0L8W7-F1-model_v6	Glycoside hydrolase family 2	2.215e-82	50.8	1	681	2024896	Anaerolineaceae bacterium
+MGYP001533818318	afdb50	AF-A0A3D3VQG9-F1-model_v6	Uncharacterized protein (Fragment)	2.635e-77	41.6	1	680	2026801	Verrucomicrobiales bacterium
+MGYP001533818318	afdb50	AF-A0A927CJC3-F1-model_v6	Glycoside hydrolase family 2	4.362e-70	36.5	1	690	2772299	Paenibacillus arenilitoris
+MGYP001533818318	afdb50	AF-A0A925WTS2-F1-model_v6	Glycoside hydrolase family 2	6.196e-38	18.2	1	746	2033014	Armatimonadota bacterium
+MGYP001533818318	afdb50	AF-A0A523S473-F1-model_v6	Glycoside hydrolase family 2 (Fragment)	8.708e-38	16.7	1	728	2030807	Candidatus Aerophobota bacterium
+MGYP001533818318	afdb50	AF-A0A7W0G4B6-F1-model_v6	Glycoside hydrolase family 2 catalytic domain-containing protein (Fragment)	2.418e-37	16.9	1	736	1978231	Acidobacteriota bacterium
+MGYP001533818318	afdb50	AF-A0A497GJB8-F1-model_v6	Glycoside hydrolase family 2	5.992e-37	15.6	1	711	2250277	Thermoprotei archaeon
+MGYP001533818318	afdb50	AF-A0A7C4ZNU5-F1-model_v6	Glycoside hydrolase family 2	9.434e-37	18.3	1	729	2052143	Anaerolineae bacterium
+MGYP001533818318	afdb50	AF-A0A942AE05-F1-model_v6	Beta-galactosidase	9.985e-37	19.7	1	753	2054177	Christensenellaceae bacterium
+MGYP001533818318	afdb50	AF-A0A2V9R4B1-F1-model_v6	Glycoside hydrolase family 2 immunoglobulin-like beta-sandwich domain-containing protein	1.761e-36	17.1	1	739	1978231	Acidobacteriota bacterium
+MGYP001533818318	afdb-swissprot	AF-B8NW36-F1-model_v6	Beta-mannosidase B	2.313e-27	18.5	1	534	332952	Aspergillus flavus NRRL3357
+MGYP001533818318	afdb-swissprot	AF-Q2TXB7-F1-model_v6	Beta-mannosidase B	7.193e-27	18.7	1	532	510516	Aspergillus oryzae RIB40
+MGYP001533818318	afdb-swissprot	AF-Q0CCA0-F1-model_v6	Beta-mannosidase B	6.211e-26	14.6	1	675	341663	Aspergillus terreus NIH2624
+MGYP001533818318	afdb-swissprot	AF-I2C092-F1-model_v6	Beta-mannosidase B	2.715e-25	16.6	1	541	78579	Thermothelomyces thermophilus
+MGYP001533818318	afdb-swissprot	AF-Q5B7W2-F1-model_v6	Beta-mannosidase B	3.218e-25	16.1	1	601	227321	Aspergillus nidulans FGSC A4
+MGYP001533818318	afdb-swissprot	AF-A2QYN2-F1-model_v6	Beta-mannosidase B	7.121e-25	15.1	1	595	425011	Aspergillus niger CBS 513.88
+MGYP001533818318	afdb-swissprot	AF-B0YBU9-F1-model_v6	Beta-mannosidase B	2.093e-24	15.5	1	604	451804	Aspergillus fumigatus A1163
+MGYP001533818318	afdb-swissprot	AF-A1CGA8-F1-model_v6	Beta-mannosidase B	4.134e-24	16.6	1	611	344612	Aspergillus clavatus NRRL 1
+MGYP001533818318	afdb-swissprot	AF-Q4WAH4-F1-model_v6	Beta-mannosidase B	6.888e-24	14.5	1	682	330879	Aspergillus fumigatus Af293
+MGYP001533818318	afdb-swissprot	AF-A1D911-F1-model_v6	Beta-mannosidase B	9.147e-24	16.1	1	608	331117	Aspergillus fischeri NRRL 181
+MGYP001533818318	pdb100	8u01-assembly1.cif.gz_A	Crystal Structure of the Glycoside Hydrolase Family 2 TIM Barrel-domain Containing Protein from Phocaeicola plebeius	5.2e-27	15.1	1	714	310297	Phocaeicola plebeius
+MGYP001533818318	pdb100	2vl4-assembly1.cif.gz_A	Structural and biochemical evidence for a boat-like transition state in beta-mannosidases	3.019e-26	17.7	1	513	226186	Bacteroides thetaiotaomicron VPI-5482
+MGYP001533818318	pdb100	2vot-assembly1.cif.gz_A	Structural and biochemical evidence for a boat-like transition state in beta-mannosidases	3.877e-25	18.1	1	517	226186	Bacteroides thetaiotaomicron VPI-5482
+MGYP001533818318	pdb100	2vqu-assembly2.cif.gz_B	Structural and biochemical evidence for a boat-like transition state in beta-mannosidases	8.579e-25	17.8	1	516	818	Bacteroides thetaiotaomicron
+MGYP001533818318	pdb100	2vqu-assembly1.cif.gz_A	Structural and biochemical evidence for a boat-like transition state in beta-mannosidases	1.017e-24	18	1	514	818	Bacteroides thetaiotaomicron
+MGYP001533818318	pdb100	2vmf-assembly2.cif.gz_B	Structural and biochemical evidence for a boat-like transition state in beta-mannosidases	2.668e-24	17.5	1	513	226186	Bacteroides thetaiotaomicron VPI-5482
+MGYP001533818318	pdb100	2wbk-assembly2.cif.gz_B	Structure of the Michaelis complex of beta-mannosidase, Man2A, provides insight into the conformational itinerary of mannoside hydrolysis	3.348e-24	18	1	515	226186	Bacteroides thetaiotaomicron VPI-5482
+MGYP001533818318	pdb100	6byg-assembly1.cif.gz_B	Crystal structure of the nucleophile mutant (E575A) of the GH2 exo-beta-mannanase from Xanthomonas axonopodis pv. citri	3.348e-24	14.3	1	691	190486	Xanthomonas citri pv. citri str. 306
+MGYP001533818318	pdb100	5n6u-assembly2.cif.gz_D	Crystal structure of Beta-D-Mannosidase from Dictyoglomus thermophilum.	3.543e-24	16.5	1	653	309799	Dictyoglomus thermophilum H-6-12
+MGYP001533818318	pdb100	2vmf-assembly1.cif.gz_A	Structural and biochemical evidence for a boat-like transition state in beta-mannosidases	3.75e-24	18.1	1	518	226186	Bacteroides thetaiotaomicron VPI-5482
+MGYP000497510748	afdb50	AF-A0A7V6PS62-F1-model_v6	Beta-galactosidase	2.735e-87	31.3	1	929	1869227	bacterium
+MGYP000497510748	afdb50	AF-A0A9E3SQL0-F1-model_v6	Glycoside hydrolase	4.645e-84	31.8	1	906	2052143	Anaerolineae bacterium
+MGYP000497510748	afdb50	AF-A0A7C4ZNU5-F1-model_v6	Glycoside hydrolase family 2	8.036e-61	20.6	1	964	2052143	Anaerolineae bacterium
+MGYP000497510748	afdb50	AF-A0A7W0NP77-F1-model_v6	Glycoside hydrolase family 2	9.88e-61	21.8	1	969	1883427	Actinomycetes bacterium
+MGYP000497510748	afdb50	AF-A0A3C0VIW6-F1-model_v6	Glycosyl hydrolases family 2 sugar binding domain-containing protein	1.418e-60	22.6	1	939	2026780	Planctomycetota bacterium
+MGYP000497510748	afdb50	AF-A0A497GJB8-F1-model_v6	Glycoside hydrolase family 2	4.196e-60	19.1	1	965	2250277	Thermoprotei archaeon
+MGYP000497510748	afdb50	AF-F8DDL5-F1-model_v6	Beta-galactosidase	1.086e-58	20.4	1	970	797210	Halopiger xanaduensis SH-6
+MGYP000497510748	afdb50	AF-A0A917EWM8-F1-model_v6	Beta-galactosidase	2.671e-57	18.2	1	984	1176239	Halobacillus andaensis
+MGYP000497510748	afdb50	AF-A0A925WTS2-F1-model_v6	Glycoside hydrolase family 2	1.22e-55	19.2	1	977	2033014	Armatimonadota bacterium
+MGYP000497510748	afdb50	AF-A0A939AKU1-F1-model_v6	Glycoside hydrolase family 2 catalytic domain-containing protein	3.092e-55	18.3	1	969	2900548	Actinomycetota bacterium
+MGYP000497510748	afdb-swissprot	AF-T2KPJ7-F1-model_v6	Putative beta-glucuronidase	5.798e-37	15.5	1	767	1347342	Formosa agariphila KMM 3901
+MGYP000497510748	afdb-swissprot	AF-P77989-F1-model_v6	Beta-galactosidase	1.457e-34	15.1	1	838	340099	Thermoanaerobacter pseudethanolicus ATCC 33223
+MGYP000497510748	afdb-swissprot	AF-Q5B7W2-F1-model_v6	Beta-mannosidase B	3.505e-34	14.3	1	831	227321	Aspergillus nidulans FGSC A4
+MGYP000497510748	afdb-swissprot	AF-B8NW36-F1-model_v6	Beta-mannosidase B	4.538e-34	13.6	1	812	332952	Aspergillus flavus NRRL3357
+MGYP000497510748	afdb-swissprot	AF-Q2TXB7-F1-model_v6	Beta-mannosidase B	4.778e-34	13.5	1	811	510516	Aspergillus oryzae RIB40
+MGYP000497510748	afdb-swissprot	AF-Q8K2I4-F1-model_v6	Beta-mannosidase	8.88e-34	14.1	1	824	10090	Mus musculus
+MGYP000497510748	afdb-swissprot	AF-Q9K9C6-F1-model_v6	Beta-galactosidase	9.847e-34	15	1	791	272558	Halalkalibacterium halodurans C-125
+MGYP000497510748	afdb-swissprot	AF-A2QYN2-F1-model_v6	Beta-mannosidase B	3.771e-33	13.8	1	817	425011	Aspergillus niger CBS 513.88
+MGYP000497510748	afdb-swissprot	AF-Q0CCA0-F1-model_v6	Beta-mannosidase B	4.403e-33	13.9	1	820	341663	Aspergillus terreus NIH2624
+MGYP000497510748	afdb-swissprot	AF-A1D911-F1-model_v6	Beta-mannosidase B	5.414e-33	14.4	1	822	331117	Aspergillus fischeri NRRL 181
+MGYP000497510748	pdb100	8u01-assembly1.cif.gz_A	Crystal Structure of the Glycoside Hydrolase Family 2 TIM Barrel-domain Containing Protein from Phocaeicola plebeius	1.824e-49	16.7	1	998	310297	Phocaeicola plebeius
+MGYP000497510748	pdb100	6d1p-assembly1.cif.gz_B	Apo structure of Bacteroides uniformis beta-glucuronidase 3	1.696e-38	16.5	1	780	1339349	Bacteroides uniformis str. 3978 T3 ii
+MGYP000497510748	pdb100	6d1p-assembly1.cif.gz_A	Apo structure of Bacteroides uniformis beta-glucuronidase 3	2.843e-38	16.8	1	777	1339349	Bacteroides uniformis str. 3978 T3 ii
+MGYP000497510748	pdb100	6byc-assembly1.cif.gz_A	Crystal structure of the GH2 exo-beta-mannanase from Xanthomonas axonopodis pv. citri	2.62e-37	17	1	828	190486	Xanthomonas citri pv. citri str. 306
+MGYP000497510748	pdb100	6bye-assembly1.cif.gz_B	Crystal structure of the GH2 exo-beta-mannanase from Xanthomonas axonopodis pv. citri in complex with mannose	2.905e-37	17.7	1	826	190486	Xanthomonas citri pv. citri str. 306
+MGYP000497510748	pdb100	6byg-assembly1.cif.gz_A	Crystal structure of the nucleophile mutant (E575A) of the GH2 exo-beta-mannanase from Xanthomonas axonopodis pv. citri	4.625e-37	16.5	1	829	190486	Xanthomonas citri pv. citri str. 306
+MGYP000497510748	pdb100	6d7j-assembly1.cif.gz_C	The Crystal Structure of Parabacteroides merdae Beta-Glucuronidase (GUS) with Glycerol in Active-Site	1.517e-36	14.5	1	782	999420	Parabacteroides merdae CL03T12C32
+MGYP000497510748	pdb100	6byi-assembly1.cif.gz_B	Crystal structure of the acid-base mutant (E477A) of the GH2 exo-beta-mannanase from Xanthomonas axonopodis pv. citri	1.771e-36	17.3	1	830	190486	Xanthomonas citri pv. citri str. 306
+MGYP000497510748	pdb100	6dxu-assembly1.cif.gz_C	Crystal Structure of Parabacteroides merdae Beta-Glucuronidase (GUS)	4.047e-36	14	1	792	411477	Parabacteroides merdae ATCC 43184
+MGYP000497510748	pdb100	6dxu-assembly1.cif.gz_A	Crystal Structure of Parabacteroides merdae Beta-Glucuronidase (GUS)	6.784e-36	14.5	1	783	411477	Parabacteroides merdae ATCC 43184
+MGYP001050749229	afdb50	AF-A0A806XCF5-F1-model_v6	Glycoside hydrolase	1.147e-51	40.4	1	435	1334193	[Enterobacter] lignolyticus
+MGYP001050749229	afdb50	AF-A0A935P1E8-F1-model_v6	beta-mannosidase	1.082e-50	46.2	1	439	2026763	Myxococcales bacterium
+MGYP001050749229	afdb50	AF-A0A924DZK3-F1-model_v6	beta-mannosidase	1.284e-46	37.3	1	426	2762020	Candidatus Sericytochromatia bacterium
+MGYP001050749229	afdb50	AF-A0A0G2ZCG2-F1-model_v6	beta-mannosidase	6.813e-46	35.1	1	430	1330330	Kosmotoga pacifica
+MGYP001050749229	afdb50	AF-A0A7C2YNY9-F1-model_v6	beta-mannosidase (Fragment)	1.44e-45	35	1	425	2026724	Chloroflexota bacterium
+MGYP001050749229	afdb50	AF-A0A2T0LFG9-F1-model_v6	beta-mannosidase	6.809e-45	36.4	1	431	201975	Planifilum fimeticola
+MGYP001050749229	afdb50	AF-A0A6N9A0E9-F1-model_v6	Beta-mannosidase	2.032e-44	35.2	1	462	2080302	Acidimicrobiia bacterium
+MGYP001050749229	afdb50	AF-A0A9D7KLU9-F1-model_v6	beta-mannosidase	1.142e-43	34.1	1	442	2049428	Ignavibacteriales bacterium
+MGYP001050749229	afdb50	AF-A0A0F7RRH2-F1-model_v6	Beta-glucosidase	1.614e-43	37.3	1	439	88190	Thermus antranikianii
+MGYP001050749229	afdb50	AF-A0A7X9I7C2-F1-model_v6	Beta-galactosidase	4.816e-43	33.4	1	428	1966340	Pelolinea sp.
+MGYP001050749229	afdb-swissprot	AF-Q2TXB7-F1-model_v6	Beta-mannosidase B	6.19e-32	19	1	473	510516	Aspergillus oryzae RIB40
+MGYP001050749229	afdb-swissprot	AF-Q0CCA0-F1-model_v6	Beta-mannosidase B	6.19e-32	18.9	1	475	341663	Aspergillus terreus NIH2624
+MGYP001050749229	afdb-swissprot	AF-A2QYN2-F1-model_v6	Beta-mannosidase B	7.356e-32	19.1	1	474	425011	Aspergillus niger CBS 513.88
+MGYP001050749229	afdb-swissprot	AF-I2C092-F1-model_v6	Beta-mannosidase B	8.742e-32	21.2	1	484	78579	Thermothelomyces thermophilus
+MGYP001050749229	afdb-swissprot	AF-B8NW36-F1-model_v6	Beta-mannosidase B	8.742e-32	19	1	473	332952	Aspergillus flavus NRRL3357
+MGYP001050749229	afdb-swissprot	AF-Q5B7W2-F1-model_v6	Beta-mannosidase B	8.742e-32	18.7	1	470	227321	Aspergillus nidulans FGSC A4
+MGYP001050749229	afdb-swissprot	AF-B0YBU9-F1-model_v6	Beta-mannosidase B	1.554e-31	20.7	1	476	451804	Aspergillus fumigatus A1163
+MGYP001050749229	afdb-swissprot	AF-A1CGA8-F1-model_v6	Beta-mannosidase B	1.647e-31	21	1	471	344612	Aspergillus clavatus NRRL 1
+MGYP001050749229	afdb-swissprot	AF-A1D911-F1-model_v6	Beta-mannosidase B	1.957e-31	20.7	1	472	331117	Aspergillus fischeri NRRL 181
+MGYP001050749229	afdb-swissprot	AF-Q4WAH4-F1-model_v6	Beta-mannosidase B	3.479e-31	21.5	1	469	330879	Aspergillus fumigatus Af293
+MGYP001050749229	pdb100	2vl4-assembly1.cif.gz_A	Structural and biochemical evidence for a boat-like transition state in beta-mannosidases	6.694e-30	21.4	1	466	226186	Bacteroides thetaiotaomicron VPI-5482
+MGYP001050749229	pdb100	2vot-assembly1.cif.gz_A	Structural and biochemical evidence for a boat-like transition state in beta-mannosidases	2.822e-29	22.1	1	465	226186	Bacteroides thetaiotaomicron VPI-5482
+MGYP001050749229	pdb100	2vqu-assembly2.cif.gz_B	Structural and biochemical evidence for a boat-like transition state in beta-mannosidases	4.222e-29	21.4	1	466	818	Bacteroides thetaiotaomicron
+MGYP001050749229	pdb100	2vmf-assembly2.cif.gz_B	Structural and biochemical evidence for a boat-like transition state in beta-mannosidases	4.472e-29	21.6	1	466	226186	Bacteroides thetaiotaomicron VPI-5482
+MGYP001050749229	pdb100	2vqu-assembly1.cif.gz_A	Structural and biochemical evidence for a boat-like transition state in beta-mannosidases	4.472e-29	21.6	1	466	818	Bacteroides thetaiotaomicron
+MGYP001050749229	pdb100	5n6u-assembly2.cif.gz_D	Crystal structure of Beta-D-Mannosidase from Dictyoglomus thermophilum.	5.018e-29	19.4	1	462	309799	Dictyoglomus thermophilum H-6-12
+MGYP001050749229	pdb100	2wbk-assembly2.cif.gz_B	Structure of the Michaelis complex of beta-mannosidase, Man2A, provides insight into the conformational itinerary of mannoside hydrolysis	7.951e-29	21.7	1	468	226186	Bacteroides thetaiotaomicron VPI-5482
+MGYP001050749229	pdb100	2vmf-assembly1.cif.gz_A	Structural and biochemical evidence for a boat-like transition state in beta-mannosidases	9.45e-29	21.8	1	471	226186	Bacteroides thetaiotaomicron VPI-5482
+MGYP001050749229	pdb100	6byc-assembly1.cif.gz_A	Crystal structure of the GH2 exo-beta-mannanase from Xanthomonas axonopodis pv. citri	4.732e-27	18.4	1	483	190486	Xanthomonas citri pv. citri str. 306
+MGYP001050749229	pdb100	6byg-assembly1.cif.gz_A	Crystal structure of the nucleophile mutant (E575A) of the GH2 exo-beta-mannanase from Xanthomonas axonopodis pv. citri	6.31e-27	17.8	1	481	190486	Xanthomonas citri pv. citri str. 306
+MGYP000051719573	afdb50	AF-A0A174CM02-F1-model_v6	Beta-glycosidase	4.632e-70	47.7	1	614	821	Phocaeicola vulgatus
+MGYP000051719573	afdb50	AF-A0A7D4UMR5-F1-model_v6	Beta-glycosidase	3.828e-62	40.8	1	622	2740462	Mucilaginibacter mali
+MGYP000051719573	afdb50	AF-B5CWC5-F1-model_v6	Glycosyl hydrolase family 2, sugar binding domain protein	1.676e-60	39.1	1	633	484018	Phocaeicola plebeius DSM 17135
+MGYP000051719573	afdb50	AF-A0A7C5FTW2-F1-model_v6	Glycoside hydrolase family 2	2.303e-57	36.7	1	613	2033014	Armatimonadota bacterium
+MGYP000051719573	afdb50	AF-A0A3A1NFN2-F1-model_v6	Beta-galactosidase	3.592e-57	33.4	1	649	2306998	Flagellimonas pelagia
+MGYP000051719573	afdb50	AF-A0A7Y3K2Q1-F1-model_v6	Glycoside hydrolase	1.041e-47	31	1	629	2052180	Phycisphaerales bacterium
+MGYP000051719573	afdb50	AF-A0A521U3E4-F1-model_v6	Glycoside hydrolase family 2	1.008e-41	19.3	1	650	2026724	Chloroflexota bacterium
+MGYP000051719573	afdb50	AF-A0A942AE05-F1-model_v6	Beta-galactosidase	2.593e-41	19.7	1	633	2054177	Christensenellaceae bacterium
+MGYP000051719573	afdb50	AF-A0A1D7XQ52-F1-model_v6	Beta-galactosidase	4.779e-41	21	1	636	1336795	Formosa sp. Hel3_A1_48
+MGYP000051719573	afdb50	AF-A0A928I5T4-F1-model_v6	Beta-galactosidase	1.418e-39	21.8	1	660	2485925	Oscillospiraceae bacterium
+MGYP000051719573	afdb-swissprot	AF-Q5LIC7-F1-model_v6	Beta-glucuronidase	4.278e-28	14.4	1	625	272559	Bacteroides fragilis NCTC 9343
+MGYP000051719573	afdb-swissprot	AF-T2KPJ7-F1-model_v6	Putative beta-glucuronidase	2.144e-27	16.5	1	624	1347342	Formosa agariphila KMM 3901
+MGYP000051719573	afdb-swissprot	AF-I2C092-F1-model_v6	Beta-mannosidase B	4.177e-27	16.2	1	639	78579	Thermothelomyces thermophilus
+MGYP000051719573	afdb-swissprot	AF-B8NW36-F1-model_v6	Beta-mannosidase B	5.217e-27	16.1	1	632	332952	Aspergillus flavus NRRL3357
+MGYP000051719573	afdb-swissprot	AF-A2QYN2-F1-model_v6	Beta-mannosidase B	7.283e-27	14.8	1	654	425011	Aspergillus niger CBS 513.88
+MGYP000051719573	afdb-swissprot	AF-Q2TXB7-F1-model_v6	Beta-mannosidase B	8.604e-27	16	1	635	510516	Aspergillus oryzae RIB40
+MGYP000051719573	afdb-swissprot	AF-Q4WAH4-F1-model_v6	Beta-mannosidase B	9.616e-27	15.4	1	634	330879	Aspergillus fumigatus Af293
+MGYP000051719573	afdb-swissprot	AF-A1CGA8-F1-model_v6	Beta-mannosidase B	1.136e-26	14	1	618	344612	Aspergillus clavatus NRRL 1
+MGYP000051719573	afdb-swissprot	AF-B0YBU9-F1-model_v6	Beta-mannosidase B	2.094e-26	14.6	1	629	451804	Aspergillus fumigatus A1163
+MGYP000051719573	afdb-swissprot	AF-Q0CCA0-F1-model_v6	Beta-mannosidase B	3.089e-26	14.4	1	658	341663	Aspergillus terreus NIH2624
+MGYP000051719573	pdb100	5uj6-assembly1.cif.gz_A	Crystal Structure of Bacteroides Uniformis beta-glucuronidase	2.454e-30	16.5	1	628	1339349	Bacteroides uniformis str. 3978 T3 ii
+MGYP000051719573	pdb100	6d50-assembly1.cif.gz_B	Bacteroides uniforms beta-glucuronidase 2 bound to D-glucaro-1,5-lactone	6.313e-30	16.6	1	623	1339349	Bacteroides uniformis str. 3978 T3 ii
+MGYP000051719573	pdb100	8u01-assembly1.cif.gz_A	Crystal Structure of the Glycoside Hydrolase Family 2 TIM Barrel-domain Containing Protein from Phocaeicola plebeius	1.163e-29	16.4	1	628	310297	Phocaeicola plebeius
+MGYP000051719573	pdb100	8dhl-assembly1.cif.gz_A	Tannerella forsythia beta-glucuronidase (L2)	2.993e-29	17.1	1	613	28112	Tannerella forsythia
+MGYP000051719573	pdb100	6nzg-assembly1.cif.gz_B	Bacteroides uniformis beta-glucuronidase 2 covalently bound to cyclophellitol-6-carboxylate aziridine	8.139e-29	16.4	1	626	820	Bacteroides uniformis
+MGYP000051719573	pdb100	8dhl-assembly1.cif.gz_B	Tannerella forsythia beta-glucuronidase (L2)	1.201e-28	17.2	1	621	28112	Tannerella forsythia
+MGYP000051719573	pdb100	2vqu-assembly2.cif.gz_B	Structural and biochemical evidence for a boat-like transition state in beta-mannosidases	1.5e-28	15.5	1	629	818	Bacteroides thetaiotaomicron
+MGYP000051719573	pdb100	2vqu-assembly1.cif.gz_A	Structural and biochemical evidence for a boat-like transition state in beta-mannosidases	2.474e-28	16	1	625	818	Bacteroides thetaiotaomicron
+MGYP000051719573	pdb100	7cwd-assembly1.cif.gz_A	Crystal structure of beta-galactosidase II from Bacillus circulans in complex with beta-D-galactopyranosyl disaccharide	2.922e-28	17.7	1	631	1397	Niallia circulans
+MGYP000051719573	pdb100	2vl4-assembly1.cif.gz_A	Structural and biochemical evidence for a boat-like transition state in beta-mannosidases	5.095e-28	16.7	1	616	226186	Bacteroides thetaiotaomicron VPI-5482
+MGYP001178215973	afdb50	AF-A0AA88RER4-F1-model_v6	cytidine deaminase	3.045e-15	19	1	299	112253	Escallonia rubra
+MGYP001178215973	afdb50	AF-A0AAU9PFT0-F1-model_v6	cytidine deaminase	5.27e-15	17.4	1	309	75947	Lactuca virosa
+MGYP001178215973	afdb50	AF-A0A834D9B9-F1-model_v6	cytidine deaminase (Fragment)	8.075e-15	19.3	1	290	51240	Juglans regia
+MGYP001178215973	afdb50	AF-A0A3A9HYL1-F1-model_v6	Cytidine deaminase	8.075e-15	18.7	1	277	2382160	Pyramidobacter sp. CG50-2
+MGYP001178215973	afdb50	AF-A0ABD1R8G2-F1-model_v6	Cytidine deaminase	8.075e-15	17	1	317	126358	Abeliophyllum distichum
+MGYP001178215973	afdb50	AF-A0A438E8H0-F1-model_v6	cytidine deaminase	8.583e-15	18.4	1	276	29760	Vitis vinifera
+MGYP001178215973	afdb50	AF-A0AAV8GWV6-F1-model_v6	cytidine deaminase	1.095e-14	18	1	300	906938	Rhynchospora pubera
+MGYP001178215973	afdb50	AF-A0AAU0KC52-F1-model_v6	Cytidine deaminase	1.237e-14	18.6	1	263	3068894	Pyramidobacter sp. YE332
+MGYP001178215973	afdb50	AF-A0AA86VCB2-F1-model_v6	cytidine deaminase	1.678e-14	20.5	1	277	92480	Sphenostylis stenocarpa
+MGYP001178215973	afdb50	AF-A0A371GDM9-F1-model_v6	cytidine deaminase (Fragment)	1.896e-14	19.5	1	292	157652	Mucuna pruriens
+MGYP001178215973	afdb-swissprot	AF-Q7N6K3-F1-model_v6	Cytidine deaminase	3.013e-15	20.2	1	282	243265	Photorhabdus laumondii subsp. laumondii TTO1
+MGYP001178215973	afdb-swissprot	AF-A5UBV9-F1-model_v6	Cytidine deaminase	1.383e-14	17.1	1	274	374930	Haemophilus influenzae PittEE
+MGYP001178215973	afdb-swissprot	AF-Q4QK60-F1-model_v6	Cytidine deaminase	1.876e-14	17.1	1	274	281310	Haemophilus influenzae 86-028NP
+MGYP001178215973	afdb-swissprot	AF-A4TKN7-F1-model_v6	Cytidine deaminase	2.252e-14	20.1	1	283	386656	Yersinia pestis Pestoides F
+MGYP001178215973	afdb-swissprot	AF-Q87Q52-F1-model_v6	Cytidine deaminase	2.704e-14	17.5	1	279	223926	Vibrio parahaemolyticus RIMD 2210633
+MGYP001178215973	afdb-swissprot	AF-Q9CP11-F1-model_v6	Cytidine deaminase	3.055e-14	19.2	1	281	272843	Pasteurella multocida subsp. multocida str. Pm70
+MGYP001178215973	afdb-swissprot	AF-A7FJK3-F1-model_v6	Cytidine deaminase	3.247e-14	20.7	1	275	349747	Yersinia pseudotuberculosis IP 31758
+MGYP001178215973	afdb-swissprot	AF-P44325-F1-model_v6	Cytidine deaminase	3.668e-14	18.6	1	274	71421	Haemophilus influenzae Rd KW20
+MGYP001178215973	afdb-swissprot	AF-Q0HHI5-F1-model_v6	Cytidine deaminase	3.668e-14	18.5	1	285	60480	Shewanella sp. MR-4
+MGYP001178215973	afdb-swissprot	AF-Q6D3B4-F1-model_v6	Cytidine deaminase	3.898e-14	21.2	1	277	218491	Pectobacterium atrosepticum SCRI1043
+MGYP001178215973	pdb100	1af2-assembly1.cif.gz_A	CRYSTAL STRUCTURE OF CYTIDINE DEAMINASE COMPLEXED WITH URIDINE	7.611e-13	19.2	1	276	562	Escherichia coli
+MGYP001178215973	pdb100	4eg2-assembly2.cif.gz_C	2.2 Angstrom Crystal Structure of Cytidine deaminase from Vibrio cholerae in Complex with Zinc and Uridine	8.598e-13	18.6	1	274	666	Vibrio cholerae
+MGYP001178215973	pdb100	6k63-assembly2.cif.gz_D	The crystal structure of cytidine deaminase from Klebsiella pneumoniae	7.261e-12	19.1	1	272	272620	Klebsiella pneumoniae subsp. pneumoniae MGH 78578
+MGYP001178215973	pdb100	6l08-assembly1.cif.gz_A	Crystal structure of Arabidopsis cytidine deaminase	3.765e-11	17.1	1	286	3702	Arabidopsis thaliana
+MGYP001178215973	pdb100	6l08-assembly1.cif.gz_B	Crystal structure of Arabidopsis cytidine deaminase	7.934e-10	17.2	1	296	3702	Arabidopsis thaliana
+MGYP001178215973	pdb100	2fr6-assembly1.cif.gz_A	Crystal Structure of Mouse Cytidine Deaminase Complexed with Cytidine	6.014e-08	25.3	1	126	10090	Mus musculus
+MGYP001178215973	pdb100	4wif-assembly1.cif.gz_A	Crystal structure of E47Q mutant cytidine deaminase from Mycobacterium tuberculosis (MtCDA E47Q)	1.595e-07	24.4	1	127	1773	Mycobacterium tuberculosis
+MGYP001178215973	pdb100	4f3w-assembly1.cif.gz_C	Crystal structure of cytidine deaminase Cdd from Mycobacterium marinum	1.802e-07	23.2	1	125	216594	Mycobacterium marinum M
+MGYP001178215973	pdb100	2d30-assembly1.cif.gz_A	Crystal Structure of Cytidine Deaminase Cdd-2 (BA4525) from Bacillus Anthracis at 2.40A Resolution	2.036e-07	19.8	1	126	1392	Bacillus anthracis
+MGYP001178215973	pdb100	6kw6-assembly1.cif.gz_A	Crystal Structure of cytidine deaminase from Streptomyces noursei	2.163e-07	24.8	1	125	1971	Streptomyces noursei

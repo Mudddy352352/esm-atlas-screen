@@ -1,0 +1,10 @@
+accession	protein	source	detail
+P05804	Beta-glucuronidase	direct	8 residues
+P07650	Thymidine phosphorylase	transferred from P77836 (Pyrimidine-nucleoside phosphorylase, 42.4% id)	10 residues kept, 5 dropped
+P0ABF6	Cytidine deaminase	direct	7 residues
+P0DTQ4	L-tyrosine decarboxylase	direct	9 residues
+P15888	NAD(P)H-dependent nitroreductase NfsB	direct	11 residues
+P17117	NADPH-dependent nitroreductase NfsA	direct	13 residues
+P19079	Cytidine deaminase	direct	7 residues
+Q7A782	FMN-dependent NADPH-azoreductase	transferred from O07529 (FMN-dependent NADPH-azoreductase, 32.0% id)	3 residues kept, 7 dropped
+Q8KU07	NAD(P)H azoreductase	direct	13 residues

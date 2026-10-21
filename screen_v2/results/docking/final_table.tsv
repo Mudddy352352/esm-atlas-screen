@@ -1,0 +1,20 @@
+receptor	kind	n_poses	best_affinity	sugar_dist_of_best	min_sugar_dist_any_pose	n_poses_catalytic	frac_poses_catalytic	best_catalytic_affinity	penalty_vs_best	catalytic_pose	best_mean	best_sd	sn38_aglycone	glucuronic_acid	fold	site_class	site_3d	tm	habitat	habitat_class
+3K4D_A	pos_xtal	27	-8.74	2.67	2.57	18	0.67	-8.74	0.0	True	-8.725	0.018	-8.61	-6.578	-					
+P05804_uidA_gus_w214-603	pos_pred	25	-9.02	2.94	2.7	20	0.8	-9.02	0.0	True	-8.983	0.032	-8.061	-5.968	-					
+MGYP000051719573	candidate	27	-10.73	8.56	3.13	9	0.33	-10.44	0.29	True	-10.707	0.025	-9.51	-6.043	GUS	site_lost	site_lost_3d	0.6348	root:Engineered:Bioremediation:Terephthalate:Wastewater	engineered
+MGYP001050749229	candidate	27	-10.66	6.71	3.0	8	0.3	-10.07	0.59	True	-10.647	0.012	-8.996	-5.616	GUS	site_lost	site_lost_3d	0.6442	nan	nan
+MGYP000751766417	candidate	27	-9.18	2.61	2.57	14	0.52	-9.18	0.0	True	-9.146	0.025	-8.153	-5.944	GUS	site_partial	site_partial_3d	0.7223	root:Environmental:Aquatic:Marine:Sediment	environmental
+MGYP000574654335	candidate	27	-8.32	2.64	2.4	15	0.56	-8.32	0.0	True	-8.307	0.013	-7.578	-6.363	GUS	site_lost	site_lost_3d	0.706	root:Environmental:Aquatic:Marine:Brackish	environmental
+MGYP000497510748	candidate	26	-8.06	3.25	2.71	11	0.42	-8.06	0.0	True	-7.948	0.113	-8.487	-5.744	GUS	site_lost	site_lost_3d	0.6566	nan	nan
+MGYP000016927400	candidate	27	-7.97	3.83	2.95	14	0.52	-7.97	0.0	True	-7.94	0.027	-7.971	-6.115	GUS	site_partial	site_partial_3d	0.6739	nan	nan
+MGYP001319153113	candidate	27	-7.84	3.07	2.74	16	0.59	-7.84	0.0	True	-7.808	0.03	-7.923	-5.637	CDD	site_lost	site_lost_3d	0.7439	root:Engineered:Wastewater:Activated Sludge	engineered
+MGYP000968177834	candidate	27	-8.01	8.57	2.95	5	0.19	-7.62	0.39	True	-7.992	0.015	-8.454	-5.623	GUS	site_partial	site_partial_3d	0.6968	root:Engineered:Food production:Fermented beverages	engineered
+MGYP000729808394	candidate	26	-7.78	4.01	3.23	9	0.35	-6.9	0.88	True	-7.751	0.043	-7.133	-4.986	GUS	site_partial	site_partial_3d	0.6843	nan	nan
+MGYP000245278657	candidate	26	-7.09	9.32	6.43	0	0.0			False	-7.084	0.008	-8.641	-5.761	GUS	site_lost	site_partial_3d	0.6918	root:Host-associated:Human:Digestive system:Large intestine:Fecal	human
+MGYP001533818318	candidate	27	-6.79	6.76	6.76	0	0.0			False	-6.696	0.097	-7.591	-4.642	GUS	site_partial	site_partial_3d	0.6633	root:Host-associated:Human:Digestive system:Large intestine:Fecal	human
+MGYP001178215973	candidate	27	-7.64	14.1	4.89	0	0.0			False	-7.624	0.018	-7.551	-5.172	CDD	site_partial	site_partial_3d	0.6136	nan	nan
+MGYP000574843407	candidate	26	-7.17	8.83	6.54	0	0.0			False	-7.165	0.008	-7.635	-5.22	CDD	site_lost	site_lost_3d	0.8198	nan	nan
+193L_A	neg_xtal	27	-8.5	4.47	3.0	4	0.15	-7.9	0.61	True	-8.498	0.006	-8.086	-5.446	-					
+P0ABF6_cdd_ecoli	neg_pred	27	-7.69	8.38	3.22	6	0.22	-6.99	0.7	True	-7.675	0.012	-7.134	-5.739	-					
+1TIM_A	neg_xtal	27	-7.14	5.43	3.83	1	0.04	-6.15	0.99	True	-7.132	0.015	-6.25	-5.182	-					
+3K4D_A_offsite	neg_offsite	26	-7.55	36.05	34.73	0	0.0			False	-7.55	0.007	-6.415	-5.08	-					

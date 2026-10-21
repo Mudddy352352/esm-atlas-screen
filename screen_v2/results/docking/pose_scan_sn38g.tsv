@@ -1,0 +1,22 @@
+receptor	kind	n_poses	best_affinity	sugar_dist_of_best	min_sugar_dist_any_pose	n_poses_catalytic	frac_poses_catalytic	best_catalytic_affinity	penalty_vs_best	catalytic_pose
+6CXS_A	pos_xtal	27	-10.13	2.79	2.51	24	0.89	-10.13	0.0	True
+6D4O_A	pos_xtal	27	-9.84	2.7	2.49	25	0.93	-9.84	0.0	True
+3K4D_A	pos_xtal	27	-8.74	2.67	2.57	18	0.67	-8.74	0.0	True
+P05804_uidA_gus_w214-603	pos_pred	25	-9.02	2.94	2.7	20	0.8	-9.02	0.0	True
+MGYP000051719573	candidate	27	-10.73	8.56	3.13	9	0.33	-10.44	0.29	True
+MGYP001050749229	candidate	27	-10.66	6.71	3.0	8	0.3	-10.07	0.59	True
+MGYP000751766417	candidate	27	-9.18	2.61	2.57	14	0.52	-9.18	0.0	True
+MGYP000574654335	candidate	27	-8.32	2.64	2.4	15	0.56	-8.32	0.0	True
+MGYP000497510748	candidate	26	-8.06	3.25	2.71	11	0.42	-8.06	0.0	True
+MGYP000016927400	candidate	27	-7.97	3.83	2.95	14	0.52	-7.97	0.0	True
+MGYP001319153113	candidate	27	-7.84	3.07	2.74	16	0.59	-7.84	0.0	True
+MGYP000968177834	candidate	27	-8.01	8.57	2.95	5	0.19	-7.62	0.39	True
+MGYP000729808394	candidate	26	-7.78	4.01	3.23	9	0.35	-6.9	0.88	True
+MGYP000245278657	candidate	26	-7.09	9.32	6.43	0	0.0			False
+MGYP001533818318	candidate	27	-6.79	6.76	6.76	0	0.0			False
+MGYP001178215973	candidate	27	-7.64	14.1	4.89	0	0.0			False
+MGYP000574843407	candidate	26	-7.17	8.83	6.54	0	0.0			False
+193L_A	neg_xtal	27	-8.5	4.47	3.0	4	0.15	-7.9	0.61	True
+P0ABF6_cdd_ecoli	neg_pred	27	-7.69	8.38	3.22	6	0.22	-6.99	0.7	True
+1TIM_A	neg_xtal	27	-7.14	5.43	3.83	1	0.04	-6.15	0.99	True
+3K4D_A_offsite	neg_offsite	26	-7.55	36.05	34.73	0	0.0			False

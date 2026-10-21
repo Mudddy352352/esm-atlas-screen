@@ -1,0 +1,24 @@
+receptor	kind	family	n_seeds	best_mean	best_sd	best_min	best_max	per_heavy	sn38_aglycone	glucuronic_acid	min_dist_sugar	min_dist_any_atom	site_class	site_class_3d	tm_qnorm	habitat
+6CXS_A	pos_xtal	GUS	3	-10.113	0.021	-10.13	-10.09	-0.247	-8.868	-6.713						
+6D4O_A	pos_xtal	GUS	3	-9.805	0.052	-9.842	-9.745	-0.239	-8.482	-6.663						
+3K4D_A	pos_xtal	GUS	3	-8.725	0.018	-8.745	-8.714	-0.213	-8.61	-6.578	2.63	2.63				
+P05804_uidA_gus_w214-603	pos_pred	P05804	3	-8.983	0.032	-9.02	-8.96	-0.219	-8.061	-5.968	2.87	2.87				
+MGYP000051719573	candidate	GUS	3	-10.707	0.025	-10.73	-10.68	-0.261	-9.51	-6.043	8.56	3.13	site_lost	site_lost_3d	0.6348	1
+MGYP001050749229	candidate	GUS	3	-10.647	0.012	-10.66	-10.64	-0.26	-8.996	-5.616	6.71	3.14	site_lost	site_lost_3d	0.6442	0
+MGYP000751766417	candidate	GUS	3	-9.146	0.025	-9.175	-9.13	-0.223	-8.153	-5.944	2.57	2.57	site_partial	site_partial_3d	0.7223	1
+MGYP000574654335	candidate	GUS	3	-8.307	0.013	-8.322	-8.296	-0.203	-7.578	-6.363	2.63	2.63	site_lost	site_lost_3d	0.706	1
+MGYP000968177834	candidate	GUS	3	-7.992	0.015	-8.009	-7.982	-0.195	-8.454	-5.623	8.56	2.74	site_partial	site_partial_3d	0.6968	1
+MGYP000497510748	candidate	GUS	3	-7.948	0.113	-8.059	-7.833	-0.194	-8.487	-5.744	3.01	3.01	site_lost	site_lost_3d	0.6566	0
+MGYP000016927400	candidate	GUS	3	-7.94	0.027	-7.97	-7.918	-0.194	-7.971	-6.115	3.81	3.81	site_partial	site_partial_3d	0.6739	0
+MGYP001319153113	candidate	CDD	3	-7.808	0.03	-7.843	-7.791	-0.19	-7.923	-5.637	3.07	3.0	site_lost	site_lost_3d	0.7439	1
+MGYP000729808394	candidate	GUS	3	-7.751	0.043	-7.779	-7.701	-0.189	-7.133	-4.986	4.01	3.89	site_partial	site_partial_3d	0.6843	0
+MGYP001178215973	candidate	CDD	3	-7.624	0.018	-7.64	-7.604	-0.186	-7.551	-5.172	14.1	7.21	site_partial	site_partial_3d	0.6136	0
+MGYP000574843407	candidate	CDD	3	-7.165	0.008	-7.173	-7.157	-0.175	-7.635	-5.22	8.83	5.57	site_lost	site_lost_3d	0.8198	0
+MGYP000245278657	candidate	GUS	3	-7.084	0.008	-7.093	-7.077	-0.173	-8.641	-5.761	9.28	7.91	site_lost	site_partial_3d	0.6918	1
+MGYP001533818318	candidate	GUS	3	-6.696	0.097	-6.789	-6.596	-0.163	-7.591	-4.642	6.76	6.33	site_partial	site_partial_3d	0.6633	1
+Q8KU07_azoB_azoreductase	neg_pred	Q8KU07	3	-9.391	0.026	-9.41	-9.361	-0.229	-8.531	-5.904						
+P0DTQ4_tyrDC_control_w231-620	neg_pred	P0DTQ4	3	-8.721	0.007	-8.728	-8.715	-0.213	-7.9	-5.052						
+P0ABF6_cdd_ecoli	neg_pred	P0ABF6	3	-7.675	0.012	-7.689	-7.665	-0.187	-7.134	-5.739						
+193L_A	neg_xtal	unrelated	3	-8.498	0.006	-8.503	-8.491	-0.207	-8.086	-5.446						
+1TIM_A	neg_xtal	unrelated	3	-7.132	0.015	-7.145	-7.116	-0.174	-6.25	-5.182						
+3K4D_A_offsite	neg_offsite	GUS	3	-7.55	0.007	-7.555	-7.542	-0.184	-6.415	-5.08						

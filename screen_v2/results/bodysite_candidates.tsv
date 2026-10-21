@@ -1,0 +1,14 @@
+mgyp	query	tm_score_qnorm	seq_id_pct	site_class	catalytic_class	n_biomes	total_observations	habitat_classes	human_associated	human_observations	human_body_sites	top_biome_lineage	all_biome_lineages	biome_source	in_current_release	cluster_size	full_length	studies	assemblies
+MGYP000574843407	P19079_cdd_tetrameric	0.8198	18.8	site_lost	catalytic_kept	0	0		unknown	0				none	no				
+MGYP001319153113	P19079_cdd_tetrameric	0.7439	12.7	site_lost	catalytic_kept	1	1	engineered	no	0		root:Engineered:Wastewater:Activated Sludge	root:Engineered:Wastewater:Activated Sludge	current_release_api	yes	1	False	ERP112592	ERZ795026
+MGYP000751766417	P05804_uidA_gus_w214-603	0.7223	17.6	site_partial	catalytic_kept	1	1	environmental	no	0		root:Environmental:Aquatic:Marine:Sediment	root:Environmental:Aquatic:Marine:Sediment	current_release_api	yes	2	False	ERP109156	ERZ1742239
+MGYP000574654335	P05804_uidA_gus_w214-603	0.706	15.4	site_lost	catalytic_kept	1	1	environmental	no	0		root:Environmental:Aquatic:Marine:Brackish	root:Environmental:Aquatic:Marine:Brackish	2022_05_ftp	yes	2	False	ERP108761	ERZ650347
+MGYP000968177834	P05804_uidA_gus_w214-603	0.6968	17.4	site_partial	catalytic_kept	1	1	engineered	no	0		root:Engineered:Food production:Fermented beverages	root:Engineered:Food production:Fermented beverages	2022_05_ftp	yes	1	False	ERP110948	ERZ724027
+MGYP000245278657	P05804_uidA_gus_w214-603	0.6918	14.5	site_lost	catalytic_kept	1	1	human	yes	1	Digestive system:Large intestine:Fecal	root:Host-associated:Human:Digestive system:Large intestine:Fecal	root:Host-associated:Human:Digestive system:Large intestine:Fecal	2022_05_ftp	yes	1	True	ERP108254	ERZ509137
+MGYP000729808394	P05804_uidA_gus_w214-603	0.6843	16.0	site_partial	catalytic_kept	0	0		unknown	0				none	no				
+MGYP000016927400	P05804_uidA_gus_w214-603	0.6739	14.8	site_partial	catalytic_kept	0	0		unknown	0				none	no				
+MGYP001533818318	P05804_uidA_gus_w214-603	0.6633	17.0	site_partial	catalytic_kept	1	1	human	yes	1	Digestive system:Large intestine:Fecal	root:Host-associated:Human:Digestive system:Large intestine:Fecal	root:Host-associated:Human:Digestive system:Large intestine:Fecal	2022_05_ftp	no				
+MGYP000497510748	P05804_uidA_gus_w214-603	0.6566	14.5	site_lost	catalytic_kept	0	0		unknown	0				none	no				
+MGYP001050749229	P05804_uidA_gus_w214-603	0.6442	15.6	site_lost	catalytic_kept	0	0		unknown	0				none	no				
+MGYP000051719573	P05804_uidA_gus_w214-603	0.6348	14.4	site_lost	catalytic_kept	1	1	engineered	no	0		root:Engineered:Bioremediation:Terephthalate:Wastewater	root:Engineered:Bioremediation:Terephthalate:Wastewater	2022_05_ftp	yes	1	False	ERP108742	ERZ650263
+MGYP001178215973	P0ABF6_cdd_ecoli	0.6136	18.4	site_partial	catalytic_kept	0	0		unknown	0				none	no				

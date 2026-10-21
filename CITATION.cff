@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite it as below."
+title: "A structural screen of the ESM Metagenomic Atlas for microbial drug-metabolising enzymes"
+# ^ Title option 1 from the manuscript; change to your final chosen title.
+type: software
+authors:
+  # Fill in the full author list before release.
+  - given-names: "Mudasir"       # confirm / complete your name
+    family-names: "[SURNAME]"    # fill in
+    email: "mudddy352@gmail.com"
+    # orcid: "https://orcid.org/0000-0000-0000-0000"  # add if you have one
+repository-code: "https://github.com/Mudddy352352/[REPO-NAME]"  # fill in repo name
+abstract: >-
+  Code and data for a structural screen of the ESM Metagenomic Atlas with
+  Foldseek, using ESMFold models of characterised bacterial drug-metabolising
+  enzymes as queries, followed by an active-site-geometry filter, a Pfam
+  profile comparison, body-site and nearest-relative inference, and docking of
+  SN-38 glucuronide. The study prioritises metagenomic proteins within families
+  that annotation already identifies rather than discovering new enzymes.
+keywords:
+  - pharmacomicrobiomics
+  - metagenomics
+  - protein structure prediction
+  - Foldseek
+  - remote homology
+  - glycoside hydrolase family 2
+  - cytidine deaminase
+license: MIT          # code; data under CC-BY-4.0 (see LICENSE-DATA)
+version: "1.0.0"
+date-released: "2026-10-21"
+doi: ""               # fill in the Zenodo DOI once the deposit is made

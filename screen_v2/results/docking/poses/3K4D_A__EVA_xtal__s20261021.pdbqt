@@ -1,0 +1,396 @@
+MODEL 1
+REMARK VINA RESULT:    -6.680      0.000      0.000
+REMARK INTER + INTRA:          -7.953
+REMARK INTER:                  -7.656
+REMARK INTRA:                  -0.297
+REMARK UNBOUND:                -0.297
+REMARK  Name = /tmp/claude-0/-home-user/bde23901-8fc5-5e4a-871f-365783a07a7b/scratchpad/dock/ligands/EVA_xtal.pdb
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_1  and  CA_4
+REMARK    2  A    between atoms: C_5  and  O_7
+REMARK    3  A    between atoms: C_6  and  O_12
+REMARK    4  A    between atoms: O_9  and  C_11
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  N   UNL     1     -22.654 -29.310  -1.845  0.00  0.00    +0.000 N 
+ATOM      2  CA  UNL     1     -24.095 -29.522  -1.925  0.00  0.00    +0.000 C 
+ATOM      3  C   UNL     1     -24.807 -28.195  -1.802  0.00  0.00    +0.000 C 
+ATOM      4  C   UNL     1     -24.317 -27.466  -0.550  0.00  0.00    +0.000 C 
+ATOM      5  C   UNL     1     -22.053 -28.258  -1.251  0.00  0.00    +0.000 C 
+ATOM      6  O   UNL     1     -20.841 -28.269  -1.164  0.00  0.00    +0.000 OA
+ATOM      7  C   UNL     1     -22.859 -27.088  -0.693  0.00  0.00    +0.000 C 
+ATOM      8  H   UNL     1     -22.073 -29.989  -2.258  0.00  0.00    +0.000 HD
+ENDROOT
+BRANCH   2   9
+ATOM      9  C   UNL     1     -24.413 -30.248  -3.225  0.00  0.00    +0.000 C 
+ATOM     10  O   UNL     1     -23.495 -30.495  -3.966  0.00  0.00    +0.000 OA
+ATOM     11  OXT UNL     1     -25.568 -30.536  -3.487  0.00  0.00    +0.000 OA
+ENDBRANCH   2   9
+BRANCH   3  12
+ATOM     12  O   UNL     1     -26.201 -28.427  -1.660  0.00  0.00    +0.000 OA
+ATOM     13  H   UNL     1     -26.446 -28.362  -0.724  0.00  0.00    +0.000 HD
+ENDBRANCH   3  12
+BRANCH   7  14
+ATOM     14  O   UNL     1     -22.367 -26.734   0.592  0.00  0.00    +0.000 OA
+ATOM     15  H   UNL     1     -23.101 -26.425   1.146  0.00  0.00    +0.000 HD
+ENDBRANCH   7  14
+BRANCH   4  16
+ATOM     16  O   UNL     1     -25.034 -26.245  -0.480  0.00  0.00    +0.000 OA
+ATOM     17  H   UNL     1     -25.896 -26.351  -0.911  0.00  0.00    +0.000 HD
+ENDBRANCH   4  16
+TORSDOF 4
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:    -6.337      2.372      3.949
+REMARK INTER + INTRA:          -7.560
+REMARK INTER:                  -7.297
+REMARK INTRA:                  -0.263
+REMARK UNBOUND:                -0.297
+REMARK  Name = /tmp/claude-0/-home-user/bde23901-8fc5-5e4a-871f-365783a07a7b/scratchpad/dock/ligands/EVA_xtal.pdb
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_1  and  CA_4
+REMARK    2  A    between atoms: C_5  and  O_7
+REMARK    3  A    between atoms: C_6  and  O_12
+REMARK    4  A    between atoms: O_9  and  C_11
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  N   UNL     1     -25.689 -28.602  -0.918  0.00  0.00    +0.000 N 
+ATOM      2  CA  UNL     1     -25.212 -29.019   0.396  0.00  0.00    +0.000 C 
+ATOM      3  C   UNL     1     -24.255 -27.981   0.936  0.00  0.00    +0.000 C 
+ATOM      4  C   UNL     1     -23.168 -27.698  -0.101  0.00  0.00    +0.000 C 
+ATOM      5  C   UNL     1     -25.043 -27.760  -1.750  0.00  0.00    +0.000 C 
+ATOM      6  O   UNL     1     -25.506 -27.589  -2.861  0.00  0.00    +0.000 OA
+ATOM      7  C   UNL     1     -23.762 -27.044  -1.329  0.00  0.00    +0.000 C 
+ATOM      8  H   UNL     1     -26.552 -28.964  -1.221  0.00  0.00    +0.000 HD
+ENDROOT
+BRANCH   2   9
+ATOM      9  C   UNL     1     -26.411 -29.250   1.304  0.00  0.00    +0.000 C 
+ATOM     10  O   UNL     1     -26.754 -28.343   2.018  0.00  0.00    +0.000 OA
+ATOM     11  OXT UNL     1     -26.970 -30.334   1.300  0.00  0.00    +0.000 OA
+ENDBRANCH   2   9
+BRANCH   3  12
+ATOM     12  O   UNL     1     -23.628 -28.490   2.105  0.00  0.00    +0.000 OA
+ATOM     13  H   UNL     1     -22.687 -28.641   1.928  0.00  0.00    +0.000 HD
+ENDBRANCH   3  12
+BRANCH   7  14
+ATOM     14  O   UNL     1     -22.803 -27.115  -2.374  0.00  0.00    +0.000 OA
+ATOM     15  H   UNL     1     -22.483 -28.026  -2.458  0.00  0.00    +0.000 HD
+ENDBRANCH   7  14
+BRANCH   4  16
+ATOM     16  O   UNL     1     -22.295 -26.739   0.472  0.00  0.00    +0.000 OA
+ATOM     17  H   UNL     1     -21.399 -26.869   0.125  0.00  0.00    +0.000 HD
+ENDBRANCH   4  16
+TORSDOF 4
+ENDMDL
+MODEL 3
+REMARK VINA RESULT:    -6.248      1.987      3.616
+REMARK INTER + INTRA:          -7.458
+REMARK INTER:                  -7.195
+REMARK INTRA:                  -0.264
+REMARK UNBOUND:                -0.297
+REMARK  Name = /tmp/claude-0/-home-user/bde23901-8fc5-5e4a-871f-365783a07a7b/scratchpad/dock/ligands/EVA_xtal.pdb
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_1  and  CA_4
+REMARK    2  A    between atoms: C_5  and  O_7
+REMARK    3  A    between atoms: C_6  and  O_12
+REMARK    4  A    between atoms: O_9  and  C_11
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  N   UNL     1     -24.754 -29.237  -0.932  0.00  0.00    +0.000 N 
+ATOM      2  CA  UNL     1     -23.668 -28.266  -0.991  0.00  0.00    +0.000 C 
+ATOM      3  C   UNL     1     -23.301 -27.836   0.411  0.00  0.00    +0.000 C 
+ATOM      4  C   UNL     1     -24.558 -27.374   1.149  0.00  0.00    +0.000 C 
+ATOM      5  C   UNL     1     -25.639 -29.356   0.079  0.00  0.00    +0.000 C 
+ATOM      6  O   UNL     1     -26.560 -30.137  -0.058  0.00  0.00    +0.000 OA
+ATOM      7  C   UNL     1     -25.507 -28.534   1.359  0.00  0.00    +0.000 C 
+ATOM      8  H   UNL     1     -24.850 -29.856  -1.692  0.00  0.00    +0.000 HD
+ENDROOT
+BRANCH   2   9
+ATOM      9  C   UNL     1     -22.499 -28.881  -1.748  0.00  0.00    +0.000 C 
+ATOM     10  O   UNL     1     -21.426 -28.342  -1.652  0.00  0.00    +0.000 OA
+ATOM     11  OXT UNL     1     -22.681 -29.872  -2.434  0.00  0.00    +0.000 OA
+ENDBRANCH   2   9
+BRANCH   3  12
+ATOM     12  O   UNL     1     -22.403 -26.737   0.340  0.00  0.00    +0.000 OA
+ATOM     13  H   UNL     1     -21.665 -26.961  -0.249  0.00  0.00    +0.000 HD
+ENDBRANCH   3  12
+BRANCH   7  14
+ATOM     14  O   UNL     1     -26.773 -28.007   1.727  0.00  0.00    +0.000 OA
+ATOM     15  H   UNL     1     -27.468 -28.444   1.211  0.00  0.00    +0.000 HD
+ENDBRANCH   7  14
+BRANCH   4  16
+ATOM     16  O   UNL     1     -24.146 -26.965   2.443  0.00  0.00    +0.000 OA
+ATOM     17  H   UNL     1     -23.351 -27.458   2.700  0.00  0.00    +0.000 HD
+ENDBRANCH   4  16
+TORSDOF 4
+ENDMDL
+MODEL 4
+REMARK VINA RESULT:    -6.177      1.491      2.828
+REMARK INTER + INTRA:          -7.376
+REMARK INTER:                  -7.090
+REMARK INTRA:                  -0.287
+REMARK UNBOUND:                -0.297
+REMARK  Name = /tmp/claude-0/-home-user/bde23901-8fc5-5e4a-871f-365783a07a7b/scratchpad/dock/ligands/EVA_xtal.pdb
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_1  and  CA_4
+REMARK    2  A    between atoms: C_5  and  O_7
+REMARK    3  A    between atoms: C_6  and  O_12
+REMARK    4  A    between atoms: O_9  and  C_11
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  N   UNL     1     -25.212 -28.502  -0.547  0.00  0.00    +0.000 N 
+ATOM      2  CA  UNL     1     -24.814 -29.176  -1.778  0.00  0.00    +0.000 C 
+ATOM      3  C   UNL     1     -23.361 -29.581  -1.681  0.00  0.00    +0.000 C 
+ATOM      4  C   UNL     1     -22.516 -28.369  -1.290  0.00  0.00    +0.000 C 
+ATOM      5  C   UNL     1     -24.376 -27.871   0.302  0.00  0.00    +0.000 C 
+ATOM      6  O   UNL     1     -24.863 -27.258   1.232  0.00  0.00    +0.000 OA
+ATOM      7  C   UNL     1     -22.862 -27.909   0.109  0.00  0.00    +0.000 C 
+ATOM      8  H   UNL     1     -26.170 -28.508  -0.318  0.00  0.00    +0.000 HD
+ENDROOT
+BRANCH   2   9
+ATOM      9  C   UNL     1     -25.745 -30.356  -2.016  0.00  0.00    +0.000 C 
+ATOM     10  O   UNL     1     -25.921 -30.708  -3.155  0.00  0.00    +0.000 OA
+ATOM     11  OXT UNL     1     -26.295 -30.890  -1.068  0.00  0.00    +0.000 OA
+ENDBRANCH   2   9
+BRANCH   3  12
+ATOM     12  O   UNL     1     -22.920 -30.036  -2.953  0.00  0.00    +0.000 OA
+ATOM     13  H   UNL     1     -23.676 -30.086  -3.558  0.00  0.00    +0.000 HD
+ENDBRANCH   3  12
+BRANCH   7  14
+ATOM     14  O   UNL     1     -22.319 -26.609   0.294  0.00  0.00    +0.000 OA
+ATOM     15  H   UNL     1     -21.657 -26.633   1.002  0.00  0.00    +0.000 HD
+ENDBRANCH   7  14
+BRANCH   4  16
+ATOM     16  O   UNL     1     -21.169 -28.808  -1.238  0.00  0.00    +0.000 OA
+ATOM     17  H   UNL     1     -20.770 -28.730  -2.118  0.00  0.00    +0.000 HD
+ENDBRANCH   4  16
+TORSDOF 4
+ENDMDL
+MODEL 5
+REMARK VINA RESULT:    -6.120      2.336      3.557
+REMARK INTER + INTRA:          -7.311
+REMARK INTER:                  -7.048
+REMARK INTRA:                  -0.263
+REMARK UNBOUND:                -0.297
+REMARK  Name = /tmp/claude-0/-home-user/bde23901-8fc5-5e4a-871f-365783a07a7b/scratchpad/dock/ligands/EVA_xtal.pdb
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_1  and  CA_4
+REMARK    2  A    between atoms: C_5  and  O_7
+REMARK    3  A    between atoms: C_6  and  O_12
+REMARK    4  A    between atoms: O_9  and  C_11
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  N   UNL     1     -25.167 -27.062  -0.516  0.00  0.00    +0.000 N 
+ATOM      2  CA  UNL     1     -24.129 -26.762  -1.497  0.00  0.00    +0.000 C 
+ATOM      3  C   UNL     1     -22.951 -27.684  -1.279  0.00  0.00    +0.000 C 
+ATOM      4  C   UNL     1     -22.514 -27.619   0.184  0.00  0.00    +0.000 C 
+ATOM      5  C   UNL     1     -24.962 -27.648   0.681  0.00  0.00    +0.000 C 
+ATOM      6  O   UNL     1     -25.906 -27.735   1.442  0.00  0.00    +0.000 OA
+ATOM      7  C   UNL     1     -23.591 -28.182   1.086  0.00  0.00    +0.000 C 
+ATOM      8  H   UNL     1     -26.092 -26.816  -0.748  0.00  0.00    +0.000 HD
+ENDROOT
+BRANCH   2   9
+ATOM      9  C   UNL     1     -24.724 -26.878  -2.893  0.00  0.00    +0.000 C 
+ATOM     10  O   UNL     1     -24.589 -27.925  -3.472  0.00  0.00    +0.000 OA
+ATOM     11  OXT UNL     1     -25.293 -25.919  -3.387  0.00  0.00    +0.000 OA
+ENDBRANCH   2   9
+BRANCH   3  12
+ATOM     12  O   UNL     1     -21.865 -27.247  -2.084  0.00  0.00    +0.000 OA
+ATOM     13  H   UNL     1     -21.436 -26.485  -1.663  0.00  0.00    +0.000 HD
+ENDBRANCH   3  12
+BRANCH   7  14
+ATOM     14  O   UNL     1     -23.297 -27.794   2.420  0.00  0.00    +0.000 OA
+ATOM     15  H   UNL     1     -22.435 -27.350   2.446  0.00  0.00    +0.000 HD
+ENDBRANCH   7  14
+BRANCH   4  16
+ATOM     16  O   UNL     1     -21.398 -28.483   0.317  0.00  0.00    +0.000 OA
+ATOM     17  H   UNL     1     -21.273 -28.709   1.252  0.00  0.00    +0.000 HD
+ENDBRANCH   4  16
+TORSDOF 4
+ENDMDL
+MODEL 6
+REMARK VINA RESULT:    -6.098      1.816      2.998
+REMARK INTER + INTRA:          -7.286
+REMARK INTER:                  -7.030
+REMARK INTRA:                  -0.256
+REMARK UNBOUND:                -0.297
+REMARK  Name = /tmp/claude-0/-home-user/bde23901-8fc5-5e4a-871f-365783a07a7b/scratchpad/dock/ligands/EVA_xtal.pdb
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_1  and  CA_4
+REMARK    2  A    between atoms: C_5  and  O_7
+REMARK    3  A    between atoms: C_6  and  O_12
+REMARK    4  A    between atoms: O_9  and  C_11
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  N   UNL     1     -25.540 -29.463  -0.577  0.00  0.00    +0.000 N 
+ATOM      2  CA  UNL     1     -24.480 -29.181  -1.538  0.00  0.00    +0.000 C 
+ATOM      3  C   UNL     1     -23.305 -28.555  -0.821  0.00  0.00    +0.000 C 
+ATOM      4  C   UNL     1     -23.785 -27.359   0.000  0.00  0.00    +0.000 C 
+ATOM      5  C   UNL     1     -25.708 -28.835   0.605  0.00  0.00    +0.000 C 
+ATOM      6  O   UNL     1     -26.701 -29.098   1.254  0.00  0.00    +0.000 OA
+ATOM      7  C   UNL     1     -24.696 -27.815   1.119  0.00  0.00    +0.000 C 
+ATOM      8  H   UNL     1     -26.185 -30.170  -0.809  0.00  0.00    +0.000 HD
+ENDROOT
+BRANCH   2   9
+ATOM      9  C   UNL     1     -24.116 -30.470  -2.261  0.00  0.00    +0.000 C 
+ATOM     10  O   UNL     1     -23.007 -30.557  -2.724  0.00  0.00    +0.000 OA
+ATOM     11  OXT UNL     1     -24.947 -31.355  -2.369  0.00  0.00    +0.000 OA
+ENDBRANCH   2   9
+BRANCH   3  12
+ATOM     12  O   UNL     1     -22.372 -28.084  -1.783  0.00  0.00    +0.000 OA
+ATOM     13  H   UNL     1     -22.784 -27.390  -2.321  0.00  0.00    +0.000 HD
+ENDBRANCH   3  12
+BRANCH   7  14
+ATOM     14  O   UNL     1     -25.375 -26.675   1.627  0.00  0.00    +0.000 OA
+ATOM     15  H   UNL     1     -25.794 -26.898   2.473  0.00  0.00    +0.000 HD
+ENDBRANCH   7  14
+BRANCH   4  16
+ATOM     16  O   UNL     1     -22.639 -26.806   0.626  0.00  0.00    +0.000 OA
+ATOM     17  H   UNL     1     -22.187 -27.494   1.138  0.00  0.00    +0.000 HD
+ENDBRANCH   4  16
+TORSDOF 4
+ENDMDL
+MODEL 7
+REMARK VINA RESULT:    -6.075      1.571      3.802
+REMARK INTER + INTRA:          -7.259
+REMARK INTER:                  -6.985
+REMARK INTRA:                  -0.274
+REMARK UNBOUND:                -0.297
+REMARK  Name = /tmp/claude-0/-home-user/bde23901-8fc5-5e4a-871f-365783a07a7b/scratchpad/dock/ligands/EVA_xtal.pdb
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_1  and  CA_4
+REMARK    2  A    between atoms: C_5  and  O_7
+REMARK    3  A    between atoms: C_6  and  O_12
+REMARK    4  A    between atoms: O_9  and  C_11
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  N   UNL     1     -23.028 -29.024  -1.086  0.00  0.00    +0.000 N 
+ATOM      2  CA  UNL     1     -23.369 -27.766  -0.430  0.00  0.00    +0.000 C 
+ATOM      3  C   UNL     1     -24.760 -27.344  -0.846  0.00  0.00    +0.000 C 
+ATOM      4  C   UNL     1     -24.860 -27.340  -2.371  0.00  0.00    +0.000 C 
+ATOM      5  C   UNL     1     -23.572 -29.477  -2.234  0.00  0.00    +0.000 C 
+ATOM      6  O   UNL     1     -23.111 -30.489  -2.722  0.00  0.00    +0.000 OA
+ATOM      7  C   UNL     1     -24.726 -28.745  -2.915  0.00  0.00    +0.000 C 
+ATOM      8  H   UNL     1     -22.345 -29.587  -0.655  0.00  0.00    +0.000 HD
+ENDROOT
+BRANCH   2   9
+ATOM      9  C   UNL     1     -23.226 -27.942   1.075  0.00  0.00    +0.000 C 
+ATOM     10  O   UNL     1     -22.287 -28.581   1.475  0.00  0.00    +0.000 OA
+ATOM     11  OXT UNL     1     -24.061 -27.459   1.820  0.00  0.00    +0.000 OA
+ENDBRANCH   2   9
+BRANCH   3  12
+ATOM     12  O   UNL     1     -25.001 -26.022  -0.384  0.00  0.00    +0.000 OA
+ATOM     13  H   UNL     1     -25.831 -25.693  -0.764  0.00  0.00    +0.000 HD
+ENDBRANCH   3  12
+BRANCH   7  14
+ATOM     14  O   UNL     1     -24.482 -28.656  -4.312  0.00  0.00    +0.000 OA
+ATOM     15  H   UNL     1     -25.327 -28.580  -4.783  0.00  0.00    +0.000 HD
+ENDBRANCH   7  14
+BRANCH   4  16
+ATOM     16  O   UNL     1     -26.173 -26.917  -2.695  0.00  0.00    +0.000 OA
+ATOM     17  H   UNL     1     -26.790 -27.226  -2.014  0.00  0.00    +0.000 HD
+ENDBRANCH   4  16
+TORSDOF 4
+ENDMDL
+MODEL 8
+REMARK VINA RESULT:    -6.040      1.738      2.119
+REMARK INTER + INTRA:          -7.219
+REMARK INTER:                  -6.947
+REMARK INTRA:                  -0.272
+REMARK UNBOUND:                -0.297
+REMARK  Name = /tmp/claude-0/-home-user/bde23901-8fc5-5e4a-871f-365783a07a7b/scratchpad/dock/ligands/EVA_xtal.pdb
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_1  and  CA_4
+REMARK    2  A    between atoms: C_5  and  O_7
+REMARK    3  A    between atoms: C_6  and  O_12
+REMARK    4  A    between atoms: O_9  and  C_11
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  N   UNL     1     -23.009 -27.844  -2.268  0.00  0.00    +0.000 N 
+ATOM      2  CA  UNL     1     -24.387 -28.295  -2.108  0.00  0.00    +0.000 C 
+ATOM      3  C   UNL     1     -24.870 -27.950  -0.717  0.00  0.00    +0.000 C 
+ATOM      4  C   UNL     1     -23.878 -28.482   0.316  0.00  0.00    +0.000 C 
+ATOM      5  C   UNL     1     -22.132 -27.645  -1.263  0.00  0.00    +0.000 C 
+ATOM      6  O   UNL     1     -20.984 -27.375  -1.554  0.00  0.00    +0.000 OA
+ATOM      7  C   UNL     1     -22.552 -27.762   0.200  0.00  0.00    +0.000 C 
+ATOM      8  H   UNL     1     -22.694 -27.670  -3.185  0.00  0.00    +0.000 HD
+ENDROOT
+BRANCH   2   9
+ATOM      9  C   UNL     1     -25.239 -27.672  -3.204  0.00  0.00    +0.000 C 
+ATOM     10  O   UNL     1     -25.871 -26.683  -2.927  0.00  0.00    +0.000 OA
+ATOM     11  OXT UNL     1     -25.277 -28.191  -4.306  0.00  0.00    +0.000 OA
+ENDBRANCH   2   9
+BRANCH   3  12
+ATOM     12  O   UNL     1     -26.123 -28.580  -0.492  0.00  0.00    +0.000 OA
+ATOM     13  H   UNL     1     -26.118 -29.007   0.379  0.00  0.00    +0.000 HD
+ENDBRANCH   3  12
+BRANCH   7  14
+ATOM     14  O   UNL     1     -21.581 -28.505   0.923  0.00  0.00    +0.000 OA
+ATOM     15  H   UNL     1     -21.756 -29.453   0.819  0.00  0.00    +0.000 HD
+ENDBRANCH   7  14
+BRANCH   4  16
+ATOM     16  O   UNL     1     -24.396 -28.148   1.592  0.00  0.00    +0.000 OA
+ATOM     17  H   UNL     1     -24.695 -28.953   2.041  0.00  0.00    +0.000 HD
+ENDBRANCH   4  16
+TORSDOF 4
+ENDMDL
+MODEL 9
+REMARK VINA RESULT:    -6.028      2.737      3.788
+REMARK INTER + INTRA:          -7.206
+REMARK INTER:                  -6.920
+REMARK INTRA:                  -0.286
+REMARK UNBOUND:                -0.297
+REMARK  Name = /tmp/claude-0/-home-user/bde23901-8fc5-5e4a-871f-365783a07a7b/scratchpad/dock/ligands/EVA_xtal.pdb
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_1  and  CA_4
+REMARK    2  A    between atoms: C_5  and  O_7
+REMARK    3  A    between atoms: C_6  and  O_12
+REMARK    4  A    between atoms: O_9  and  C_11
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  N   UNL     1     -22.805 -28.650   1.080  0.00  0.00    +0.000 N 
+ATOM      2  CA  UNL     1     -23.481 -28.358  -0.178  0.00  0.00    +0.000 C 
+ATOM      3  C   UNL     1     -24.876 -27.850   0.107  0.00  0.00    +0.000 C 
+ATOM      4  C   UNL     1     -25.598 -28.830   1.032  0.00  0.00    +0.000 C 
+ATOM      5  C   UNL     1     -23.418 -28.939   2.246  0.00  0.00    +0.000 C 
+ATOM      6  O   UNL     1     -22.725 -29.270   3.188  0.00  0.00    +0.000 OA
+ATOM      7  C   UNL     1     -24.936 -28.864   2.391  0.00  0.00    +0.000 C 
+ATOM      8  H   UNL     1     -21.820 -28.636   1.079  0.00  0.00    +0.000 HD
+ENDROOT
+BRANCH   2   9
+ATOM      9  C   UNL     1     -22.639 -27.368  -0.970  0.00  0.00    +0.000 C 
+ATOM     10  O   UNL     1     -23.056 -27.015  -2.045  0.00  0.00    +0.000 OA
+ATOM     11  OXT UNL     1     -21.577 -26.981  -0.516  0.00  0.00    +0.000 OA
+ENDBRANCH   2   9
+BRANCH   3  12
+ATOM     12  O   UNL     1     -25.602 -27.777  -1.112  0.00  0.00    +0.000 OA
+ATOM     13  H   UNL     1     -26.485 -28.156  -0.986  0.00  0.00    +0.000 HD
+ENDBRANCH   3  12
+BRANCH   7  14
+ATOM     14  O   UNL     1     -25.411 -30.009   3.085  0.00  0.00    +0.000 OA
+ATOM     15  H   UNL     1     -25.842 -30.611   2.459  0.00  0.00    +0.000 HD
+ENDBRANCH   7  14
+BRANCH   4  16
+ATOM     16  O   UNL     1     -26.901 -28.311   1.241  0.00  0.00    +0.000 OA
+ATOM     17  H   UNL     1     -27.485 -29.020   1.551  0.00  0.00    +0.000 HD
+ENDBRANCH   4  16
+TORSDOF 4
+ENDMDL

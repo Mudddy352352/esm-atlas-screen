@@ -1,0 +1,13 @@
+query	site_residues_in_window	same_fold	structure_only	so_site_complete	so_site_partial	so_site_lost	so_median_frac_id	so_site_complete_3d	so_catalytic_kept	so_median_frac_id_3d	seq_detectable	sd_site_complete	sd_median_frac_id	sd_site_complete_3d	sd_catalytic_kept	sd_median_frac_id_3d
+P05804_uidA_gus_w1-390	1	628	55	0	17	25	0.0	4	0	0.0	573	145	0.0	245	0	0.0
+P05804_uidA_gus_w214-603	7	803	28	0	5	23	0.286	0	16	0.357	775	205	0.571	204	581	0.571
+P07650_deoA_tp_w1-390	10	927	385	0	0	385	0.1	0	0	0.2	542	292	1.0	288	0	1.0
+P07650_deoA_tp_w51-440	10	848	0	0	0	0		0	0		848	428	1.0	421	0	0.9
+P0ABF6_cdd_ecoli	7	109	2	0	1	1	0.642	0	2	0.642	107	19	0.857	19	102	0.857
+P0DTQ4_tyrDC_control_w1-390	5	93	2	0	0	2	0.2	0	0	0.3	91	14	0.8	15	0	0.8
+P0DTQ4_tyrDC_control_w231-620	7	408	36	0	8	28	0.571	0	8	0.429	372	5	0.714	0	225	0.571
+P15888_nfsB_nitroreductase	11	995	296	0	0	296	0.273	0	0	0.273	699	5	0.545	5	0	0.545
+P17117_nfsA_nitroreductase	13	972	318	0	0	318	0.308	0	0	0.308	654	3	0.385	3	0	0.385
+P19079_cdd_tetrameric	7	994	5	0	0	5	0.286	0	4	0.286	989	255	0.857	255	974	0.857
+Q7A782_azo1_azoreductase	3	983	261	5	0	256	0.333	5	0	0.333	722	51	0.333	52	0	0.333
+Q8KU07_azoB_azoreductase	13	877	255	0	0	255	0.308	0	0	0.308	622	0	0.385	0	0	0.385

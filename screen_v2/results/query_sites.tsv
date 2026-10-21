@@ -1,0 +1,82 @@
+acc	protein	source	donor	pos	res	kind	ligand	evidence
+P05804	Beta-glucuronidase	direct		163	D	Binding site	D-glucuronate	ECO:0000305;ECO:0007744
+P05804	Beta-glucuronidase	direct		412	N	Binding site	D-glucuronate	ECO:0000305;ECO:0007744
+P05804	Beta-glucuronidase	direct		413	E	Active site	Proton donor	ECO:0000305
+P05804	Beta-glucuronidase	direct		466	N	Binding site	D-glucuronate	ECO:0000305;ECO:0007744
+P05804	Beta-glucuronidase	direct		472	Y	Binding site	D-glucuronate	ECO:0000305;ECO:0007744
+P05804	Beta-glucuronidase	direct		504	E	Active site	Nucleophile	ECO:0000269;ECO:0000305
+P05804	Beta-glucuronidase	direct		549	W	Binding site	D-glucuronate	ECO:0000305;ECO:0007744
+P05804	Beta-glucuronidase	direct		568	K	Binding site	D-glucuronate	ECO:0000305;ECO:0007744
+P07650	Thymidine phosphorylase	transferred	P77836	84	K	Binding site	phosphate	ECO:0000269;ECO:0007744
+P07650	Thymidine phosphorylase	transferred	P77836	85	H	Binding site	phosphate	ECO:0000269;ECO:0007744
+P07650	Thymidine phosphorylase	transferred	P77836	86	S	Binding site	phosphate	ECO:0000269;ECO:0007744
+P07650	Thymidine phosphorylase	transferred	P77836	91	G	Binding site	K(+)	ECO:0000269;ECO:0007744
+P07650	Thymidine phosphorylase	transferred	P77836	113	S	Binding site	phosphate	ECO:0000269;ECO:0007744
+P07650	Thymidine phosphorylase	transferred	P77836	123	T	Binding site	phosphate	ECO:0000269;ECO:0007744
+P07650	Thymidine phosphorylase	transferred	P77836	171	R	Binding site	substrate	ECO:0000269;ECO:0007744
+P07650	Thymidine phosphorylase	transferred	P77836	190	K	Binding site	substrate	ECO:0000269;ECO:0007744
+P07650	Thymidine phosphorylase	transferred	P77836	246	L	Binding site	K(+)	ECO:0000269;ECO:0007744
+P07650	Thymidine phosphorylase	transferred	P77836	258	E	Binding site	K(+)	ECO:0000269;ECO:0007744
+P0ABF6	Cytidine deaminase	direct		89	N	Binding site	substrate	ECO:0000305
+P0ABF6	Cytidine deaminase	direct		90	M	Binding site	substrate	ECO:0000305
+P0ABF6	Cytidine deaminase	direct		91	E	Binding site	substrate	ECO:0000305
+P0ABF6	Cytidine deaminase	direct		102	H	Binding site	Zn(2+)	ECO:0000305
+P0ABF6	Cytidine deaminase	direct		104	E	Active site	Proton donor	ECO:0000305
+P0ABF6	Cytidine deaminase	direct		129	C	Binding site	Zn(2+)	ECO:0000305
+P0ABF6	Cytidine deaminase	direct		132	C	Binding site	Zn(2+)	ECO:0000305
+P0DTQ4	L-tyrosine decarboxylase	direct		158	G	Binding site	pyridoxal 5'-phosphate	ECO:0000250
+P0DTQ4	L-tyrosine decarboxylase	direct		159	S	Binding site	pyridoxal 5'-phosphate	ECO:0000250
+P0DTQ4	L-tyrosine decarboxylase	direct		298	T	Binding site	pyridoxal 5'-phosphate	ECO:0000250
+P0DTQ4	L-tyrosine decarboxylase	direct		389	D	Binding site	pyridoxal 5'-phosphate	ECO:0000250
+P0DTQ4	L-tyrosine decarboxylase	direct		390	P	Binding site	pyridoxal 5'-phosphate	ECO:0000250
+P0DTQ4	L-tyrosine decarboxylase	direct		391	H	Binding site	pyridoxal 5'-phosphate	ECO:0000250
+P0DTQ4	L-tyrosine decarboxylase	direct		392	K	Modified residue	N6-(pyridoxal phosphate)lysine	ECO:0000250
+P0DTQ4	L-tyrosine decarboxylase	direct		420	Y	Active site	Proton donor	ECO:0000250
+P0DTQ4	L-tyrosine decarboxylase	direct		440	S	Binding site	pyridoxal 5'-phosphate	ECO:0000250
+P15888	NAD(P)H-dependent nitroreductase NfsB	direct		10	R	Binding site	FMN	ECO:0000250
+P15888	NAD(P)H-dependent nitroreductase NfsB	direct		12	S	Binding site	FMN	ECO:0000250
+P15888	NAD(P)H-dependent nitroreductase NfsB	direct		14	K	Binding site	FMN+NAD(+)	ECO:0000250
+P15888	NAD(P)H-dependent nitroreductase NfsB	direct		41	T	Binding site	NAD(+)	ECO:0000250
+P15888	NAD(P)H-dependent nitroreductase NfsB	direct		71	N	Binding site	FMN+NAD(+)	ECO:0000250
+P15888	NAD(P)H-dependent nitroreductase NfsB	direct		74	K	Binding site	FMN+NAD(+)	ECO:0000250
+P15888	NAD(P)H-dependent nitroreductase NfsB	direct		107	R	Binding site	NAD(+)	ECO:0000250
+P15888	NAD(P)H-dependent nitroreductase NfsB	direct		165	E	Binding site	FMN	ECO:0000250
+P15888	NAD(P)H-dependent nitroreductase NfsB	direct		166	G	Binding site	FMN	ECO:0000250
+P15888	NAD(P)H-dependent nitroreductase NfsB	direct		205	K	Binding site	FMN	ECO:0000250
+P15888	NAD(P)H-dependent nitroreductase NfsB	direct		207	R	Binding site	FMN	ECO:0000250
+P17117	NADPH-dependent nitroreductase NfsA	direct		11	H	Binding site	FMN	ECO:0000269;ECO:0007744
+P17117	NADPH-dependent nitroreductase NfsA	direct		13	S	Binding site	FMN	ECO:0000269;ECO:0007744
+P17117	NADPH-dependent nitroreductase NfsA	direct		15	R	Binding site	FMN	ECO:0000269;ECO:0007744
+P17117	NADPH-dependent nitroreductase NfsA	direct		39	S	Binding site	FMN	ECO:0000269;ECO:0007744
+P17117	NADPH-dependent nitroreductase NfsA	direct		41	S	Binding site	NADP(+)	ECO:0000250
+P17117	NADPH-dependent nitroreductase NfsA	direct		65	G	Binding site	NADP(+)	ECO:0000250
+P17117	NADPH-dependent nitroreductase NfsA	direct		67	Q	Binding site	FMN	ECO:0000269;ECO:0007744
+P17117	NADPH-dependent nitroreductase NfsA	direct		130	G	Binding site	FMN	ECO:0000269;ECO:0007744
+P17117	NADPH-dependent nitroreductase NfsA	direct		131	G	Binding site	FMN	ECO:0000269;ECO:0007744
+P17117	NADPH-dependent nitroreductase NfsA	direct		134	N	Binding site	NADP(+)	ECO:0000250
+P17117	NADPH-dependent nitroreductase NfsA	direct		167	K	Binding site	FMN	ECO:0000269;ECO:0007744
+P17117	NADPH-dependent nitroreductase NfsA	direct		169	R	Binding site	FMN	ECO:0000269;ECO:0007744
+P17117	NADPH-dependent nitroreductase NfsA	direct		225	R	Binding site	NADP(+)	ECO:0000250
+P19079	Cytidine deaminase	direct		42	N	Binding site	substrate	
+P19079	Cytidine deaminase	direct		43	I	Binding site	substrate	
+P19079	Cytidine deaminase	direct		44	E	Binding site	substrate	
+P19079	Cytidine deaminase	direct		53	C	Binding site	Zn(2+)	
+P19079	Cytidine deaminase	direct		55	E	Active site	Proton donor	
+P19079	Cytidine deaminase	direct		86	C	Binding site	Zn(2+)	
+P19079	Cytidine deaminase	direct		89	C	Binding site	Zn(2+)	
+Q7A782	FMN-dependent NADPH-azoreductase	transferred	O07529	16	T	Binding site	FMN	ECO:0000269
+Q7A782	FMN-dependent NADPH-azoreductase	transferred	O07529	83	Y	Binding site	FMN	ECO:0000269
+Q7A782	FMN-dependent NADPH-azoreductase	transferred	O07529	84	H	Binding site	FMN	ECO:0000269
+Q8KU07	NAD(P)H azoreductase	direct		6	G	Binding site	NADP(+)	ECO:0000250
+Q8KU07	NAD(P)H azoreductase	direct		7	G	Binding site	NADP(+)	ECO:0000250
+Q8KU07	NAD(P)H azoreductase	direct		8	T	Binding site	NADP(+)	ECO:0000250
+Q8KU07	NAD(P)H azoreductase	direct		9	G	Binding site	NADP(+)	ECO:0000250
+Q8KU07	NAD(P)H azoreductase	direct		10	T	Binding site	NADP(+)	ECO:0000250
+Q8KU07	NAD(P)H azoreductase	direct		11	I	Binding site	NADP(+)	ECO:0000250
+Q8KU07	NAD(P)H azoreductase	direct		31	R	Binding site	NADP(+)	ECO:0000250
+Q8KU07	NAD(P)H azoreductase	direct		136	G	Binding site	NADP(+)	ECO:0000250
+Q8KU07	NAD(P)H azoreductase	direct		137	F	Binding site	NADP(+)	ECO:0000250
+Q8KU07	NAD(P)H azoreductase	direct		138	F	Binding site	NADP(+)	ECO:0000250
+Q8KU07	NAD(P)H azoreductase	direct		139	M	Binding site	NADP(+)	ECO:0000250
+Q8KU07	NAD(P)H azoreductase	direct		140	Q	Binding site	NADP(+)	ECO:0000250
+Q8KU07	NAD(P)H azoreductase	direct		141	N	Binding site	NADP(+)	ECO:0000250

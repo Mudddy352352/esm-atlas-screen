@@ -1,0 +1,4 @@
+ligand	smiles	heavy_atoms	formula	n_torsions	sdf	pdbqt
+SN38G	CCc1c2c(nc3ccc(O[C@@H]4O[C@H](C(=O)O)[C@@H](O)[C@H](O)[C@H]4O)cc13)-c1cc3c(c(=O)n1C2)COC(=O)[C@]3(O)CC	41	C28H28N2O11	9	/tmp/claude-0/-home-user/bde23901-8fc5-5e4a-871f-365783a07a7b/scratchpad/dock/ligands/SN38G.sdf	/tmp/claude-0/-home-user/bde23901-8fc5-5e4a-871f-365783a07a7b/scratchpad/dock/ligands/SN38G.pdbqt
+SN38	CCc1c2c(nc3ccc(O)cc13)-c1cc3c(c(=O)n1C2)COC(=O)[C@]3(O)CC	29	C22H20N2O5	4	/tmp/claude-0/-home-user/bde23901-8fc5-5e4a-871f-365783a07a7b/scratchpad/dock/ligands/SN38.sdf	/tmp/claude-0/-home-user/bde23901-8fc5-5e4a-871f-365783a07a7b/scratchpad/dock/ligands/SN38.pdbqt
+GCU	O=C(O)[C@H]1O[C@@H](O)[C@H](O)[C@@H](O)[C@@H]1O	13	C6H10O7	5	/tmp/claude-0/-home-user/bde23901-8fc5-5e4a-871f-365783a07a7b/scratchpad/dock/ligands/GCU.sdf	/tmp/claude-0/-home-user/bde23901-8fc5-5e4a-871f-365783a07a7b/scratchpad/dock/ligands/GCU.pdbqt

@@ -1,0 +1,33 @@
+Pfam profile comparator, hmmscan at gathering thresholds
+Pfam file: Pfam-A.hmm
+
+candidate (query, protein) pairs: 1643
+distinct candidate proteins: 1640
+pairs where the candidate has any Pfam domain: 1613 (98.2%)
+pairs where candidate shares a Pfam family with its query: 1519 (92.5%)
+distinct proteins sharing a Pfam family with any query: 1516 (92.4%)
+distinct proteins with any Pfam domain: 1610 (98.2%)
+
+per query model: candidates, recovered by Pfam, percent
+  P05804_uidA_gus_w1-390              55    54   98.2%
+  P05804_uidA_gus_w214-603            28    26   92.9%
+  P07650_deoA_tp_w1-390              385   384   99.7%
+  P0ABF6_cdd_ecoli                     2     1   50.0%
+  P0DTQ4_tyrDC_control_w1-390          2     2  100.0%
+  P0DTQ4_tyrDC_control_w231-620       36    21   58.3%
+  P15888_nfsB_nitroreductase         296   295   99.7%
+  P17117_nfsA_nitroreductase         318   318  100.0%
+  P19079_cdd_tetrameric                5     1   20.0%
+  Q7A782_azo1_azoreductase           261   174   66.7%
+  Q8KU07_azoB_azoreductase           255   243   95.3%
+
+query Pfam domains:
+  P05804_uidA_gus                  Glyco_hydro_2;Glyco_hydro_2_C;Glyco_hydro_2_N;Glyco_hydro_2_N2
+  P07650_deoA_tp                   Glycos_trans_3N;Glycos_transf_3;PYNP_C
+  P0ABF6_cdd_ecoli                 dCMP_cyt_deam_1;dCMP_cyt_deam_2
+  P0DTQ4_tyrDC_control             Pyridoxal_deC;tyr_de_CO2_C
+  P15888_nfsB_nitroreductase       Nitroreductase
+  P17117_nfsA_nitroreductase       Nitroreductase;Nitroreductase_C
+  P19079_cdd_tetrameric            dCMP_cyt_deam_1;dCMP_cyt_deam_2
+  Q7A782_azo1_azoreductase         FMN_red;Flavodoxin_2
+  Q8KU07_azoB_azoreductase         Epimerase;NAD_binding_10;NmrA;TrkA_N

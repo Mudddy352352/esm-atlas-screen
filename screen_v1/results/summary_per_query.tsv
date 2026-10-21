@@ -1,0 +1,13 @@
+query	atlas_hits_returned	same_fold	same_fold_div	seq_detectable	structure_only	structure_only_div	min_seq_id	max_tm
+P05804_uidA_gus_w1-390	1000	628	607	573	55	55	3.5	0.928
+P05804_uidA_gus_w214-603	1000	803	720	775	28	28	8.1	0.954
+P07650_deoA_tp_w1-390	1000	927	533	542	385	385	9.2	0.989
+P07650_deoA_tp_w51-440	1000	848	171	848	0	0	16.9	0.991
+P0ABF6_cdd_ecoli	1000	109	23	107	2	2	12.6	0.993
+P0DTQ4_tyrDC_control_w1-390	1000	93	62	91	2	2	6.1	0.917
+P0DTQ4_tyrDC_control_w231-620	1000	408	383	372	36	36	4.4	0.964
+P15888_nfsB_nitroreductase	1000	995	881	699	296	296	7.6	0.98
+P17117_nfsA_nitroreductase	1000	972	883	654	318	318	10.8	0.975
+P19079_cdd_tetrameric	1000	994	59	989	5	5	12.7	0.94
+Q7A782_azo1_azoreductase	1000	983	947	722	261	261	8.0	0.95
+Q8KU07_azoB_azoreductase	1000	877	761	622	255	255	10.0	0.97
