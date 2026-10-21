@@ -5,11 +5,11 @@ title: "A structural screen of the ESM Metagenomic Atlas for microbial drug-meta
 type: software
 authors:
   # Fill in the full author list before release.
-  - given-names: "Mudasir"       # confirm / complete your name
-    family-names: "[SURNAME]"    # fill in
+  - given-names: "Mudasir"
+    family-names: "Changal"
     email: "mudddy352@gmail.com"
     # orcid: "https://orcid.org/0000-0000-0000-0000"  # add if you have one
-repository-code: "https://github.com/Mudddy352352/[REPO-NAME]"  # fill in repo name
+repository-code: "https://github.com/Mudddy352352/esm-atlas-screen"
 abstract: >-
   Code and data for a structural screen of the ESM Metagenomic Atlas with
   Foldseek, using ESMFold models of characterised bacterial drug-metabolising
