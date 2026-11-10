@@ -24,7 +24,7 @@ keywords:
   - remote homology
   - glycoside hydrolase family 2
   - cytidine deaminase
-license: MIT          # code; data under CC-BY-4.0 (see LICENSE-DATA)
+license: MIT          # code; data under CC-BY-4.0 (LICENSE-DATA)
 version: "1.0.0"
 date-released: "2026-10-25"
 doi: "10.5281/zenodo.23647974"

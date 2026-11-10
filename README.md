@@ -110,7 +110,7 @@ manuscript/
   figures/                 make_figures.py, make_tables.py, and the rendered
                            figures (300-dpi PNG + vector PDF)
 LICENSE-CODE               MIT (code)
-LICENSE-DATA               CC-BY-4.0 (data) — confirm before release, see below
+LICENSE-DATA               CC-BY-4.0 (data)
 CITATION.cff               citation metadata (fill in the full author list)
 EXCLUDED.md                large files not shipped, and how to regenerate them
 ```
@@ -208,9 +208,8 @@ here and with no network access:
 - **Code** (everything under `*/code/`, the `*.py` scripts) is offered under the
   MIT License (`LICENSE-CODE`).
 - **Data** (result tables, structures, cached records) is offered under
-  CC-BY-4.0 (`LICENSE-DATA`) as a sensible default. **Confirm this before
-  release.** Cached third-party records carry their own terms: UniProt
-  (CC-BY-4.0), MGnify / EMBL-EBI and RCSB PDB data, and ChEBI structures are
+  CC-BY-4.0 (`LICENSE-DATA`). Cached third-party records carry their own
+  terms: UniProt (CC-BY-4.0), MGnify / EMBL-EBI and RCSB PDB data, and ChEBI structures are
   redistributed here for reproducibility under those providers' terms, which
   take precedence over this repository's data licence for those files.
 
