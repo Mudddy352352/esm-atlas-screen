@@ -34,6 +34,7 @@ ROOT = os.environ.get("ESMATLAS_ROOT") or os.path.abspath(
 V1 = os.path.join(ROOT, "screen_v1", "results")
 V2 = os.path.join(ROOT, "screen_v2", "results")
 PFAM = os.path.join(ROOT, "screen_v2", "pfam")
+REV = os.path.join(ROOT, "screen_v3", "revision", "results")
 
 # Validated palette, light mode on a white print surface.
 # node validate_palette.js "#2a78d6,#eb6834" --mode light --surface "#ffffff" --pairs all -> all pass
@@ -199,8 +200,13 @@ def figure2(outdir):
     n_so, k_so = retention(so)
     pct = lambda k, n: 100.0 * k / n if n else float("nan")
 
-    fig, (ax1, ax2) = plt.subplots(
-        1, 2, figsize=(7.2, 3.1), gridspec_kw={"width_ratios": [1.0, 1.25]})
+    fig = plt.figure(figsize=(7.2, 5.1))
+    gs = fig.add_gridspec(2, 2, height_ratios=[1.0, 1.18],
+                          width_ratios=[1.0, 1.15], hspace=0.60, wspace=0.52,
+                          left=0.12, right=0.985, top=0.945, bottom=0.075)
+    ax1 = fig.add_subplot(gs[0, 0])
+    ax2 = fig.add_subplot(gs[0, 1])
+    ax3 = fig.add_subplot(gs[1, :])
 
     # Panel a: the headline comparison. One measure, two groups, so one hue with
     # emphasis on the structure-only bar rather than two competing colours.
@@ -266,8 +272,111 @@ def figure2(outdir):
                loc="upper center", bbox_to_anchor=(0.5, -0.20), ncol=2,
                fontsize=7.2, labelcolor=INK2)
 
-    fig.tight_layout()
+    motif_strip(ax3)
+
     save(fig, outdir, "figure2_active_site_retention")
+
+
+# Panel c of Figure 2. Why Arg562 is never kept.
+# The strip and the kept/lost verdicts both come from
+# screen_v3/revision/results/, which motif_alignment_strip.py wrote after
+# checking every motif column against specificity_motif.tsv. This function
+# re-checks the same thing and refuses to draw if the two disagree, so the
+# panel cannot drift from the measurement.
+MOTIF_LABEL = {472: "Y472", 562: "R562", 566: "N566", 568: "K568"}
+
+
+def motif_strip(ax):
+    strip = read_tsv(os.path.join(REV, "motif_alignment_strip.tsv"))
+    kept = {}
+    for r in read_tsv(os.path.join(REV, "specificity_motif.tsv")):
+        kept[(r["target"], r["motif_residue"])] = \
+            r["same_res"].strip().lower() == "true"
+
+    blocks = []
+    for window in ("loop 6", "loop 8"):
+        rows = sorted([r for r in strip if r["window"] == window],
+                      key=lambda r: r["target"])
+        if not rows:
+            raise SystemExit("no %s rows in motif_alignment_strip.tsv" % window)
+        blocks.append((window, int(rows[0]["q_start"]), rows[0]["query_seq"], rows))
+
+    targets = [r["target"] for r in blocks[0][3]]
+    for _, _, _, rows in blocks:
+        if [r["target"] for r in rows] != targets:
+            raise SystemExit("the two windows cover different proteins")
+
+    gap = 2.0
+    x0 = 0.0
+    for window, q_start, qseq, rows in blocks:
+        for col, qc in enumerate(qseq):
+            pos = q_start + col
+            x = x0 + col
+            label = MOTIF_LABEL.get(pos)
+            if label:
+                ax.add_patch(plt.Rectangle((x - 0.5, -0.5), 1, len(rows) + 1,
+                                           facecolor=GRID, edgecolor="none",
+                                           zorder=0))
+                ax.text(x, len(rows) + 0.75, label, ha="center", va="bottom",
+                        fontsize=6.4, color=INK2, rotation=90)
+            ax.text(x, len(rows), qc, ha="center", va="center", fontsize=6.8,
+                    family="monospace", color=INK, fontweight="bold", zorder=3)
+            for i, r in enumerate(rows):
+                tc = r["candidate_seq"][col]
+                y = len(rows) - 1 - i
+                if tc == "-":
+                    ax.add_patch(plt.Rectangle((x - 0.42, y - 0.40), 0.84, 0.80,
+                                               facecolor="#f0efe8",
+                                               edgecolor="none", zorder=1))
+                    ax.plot([x - 0.26, x + 0.26], [y, y], color=MUTED,
+                            lw=0.7, zorder=3)
+                    continue
+                if label:
+                    is_kept = kept[(r["target"], "%s%d" % (qc, pos))]
+                    if is_kept != (tc == qc):
+                        raise SystemExit(
+                            "panel c disagrees with specificity_motif.tsv at "
+                            "%s %s%d" % (r["target"], qc, pos))
+                    colour = BLUE if is_kept else ORANGE
+                    weight = "bold"
+                else:
+                    colour = INK2 if tc == qc else MUTED
+                    weight = "normal"
+                ax.text(x, y, tc, ha="center", va="center", fontsize=6.8,
+                        family="monospace", color=colour, fontweight=weight,
+                        zorder=3)
+        ax.text(x0 + (len(qseq) - 1) / 2.0, -1.35,
+                "%s  (query %d\u2013%d)" % (window, q_start,
+                                            q_start + len(qseq) - 1),
+                ha="center", va="top", fontsize=7.2, color=INK2)
+        x0 += len(qseq) + gap
+
+    # y runs from the bottom up: targets in reverse order, query on top
+    names = list(reversed(targets)) + ["E. coli \u03b2-glucuronidase (P05804)"]
+    ax.set_yticks(list(range(len(targets) + 1)))
+    ax.set_yticklabels(names, fontsize=6.2)
+    for tick, name in zip(ax.get_yticklabels(), names):
+        if name.startswith("E. coli"):
+            tick.set_fontweight("bold")
+            tick.set_color(INK)
+    ax.set_xticks([])
+    ax.set_xlim(-1.0, x0 - gap)
+    ax.set_ylim(-1.5, len(targets) + 1.6)
+    for side in ("top", "right", "bottom", "left"):
+        ax.spines[side].set_visible(False)
+    ax.set_title("c   Arg562 falls in a deletion, not a substitution: the "
+                 "structural alignment over loops 6 and 8",
+                 loc="left", color=INK, pad=16, fontsize=8.6)
+
+    handles = [plt.Line2D([], [], marker="s", ls="", color=BLUE),
+               plt.Line2D([], [], marker="s", ls="", color=ORANGE),
+               plt.Line2D([], [], marker="s", ls="", color="#f0efe8",
+                          markeredgecolor=MUTED, markeredgewidth=0.5)]
+    ax.legend(handles, ["Motif residue kept", "Motif residue replaced",
+                        "No aligned residue (gap)"],
+              loc="upper center", bbox_to_anchor=(0.5, -0.07), ncol=3,
+              fontsize=7.0, labelcolor=INK2, handletextpad=0.4,
+              columnspacing=1.6)
 
 
 # --------------------------------------------------------------------------
@@ -477,7 +586,7 @@ def figure_habitat(outdir):
 
 
 # --------------------------------------------------------------------------
-# Figure 6. Docking: the score does not separate, the pose geometry does
+# Figure 7. Docking: the score does not separate, the pose geometry does
 # --------------------------------------------------------------------------
 DOCK = os.path.join(ROOT, "screen_v2", "results", "docking")
 
@@ -637,7 +746,7 @@ def figure_docking(outdir):
           % (r_all, len(xs_all), corr(cx, cy)))
 
     fig.tight_layout(h_pad=2.2)
-    save(fig, outdir, "figure6_docking")
+    save(fig, outdir, "figure7_docking")
 
 
 def main():
@@ -651,8 +760,8 @@ def main():
     figure_habitat(args.outdir)
     figure_pfam(args.outdir)
     figure_docking(args.outdir)
-    print("\nFigure 7 (structural superposition) is not built here: it needs "
-          "PyMOL or ChimeraX, which this environment does not have.")
+    print("\nFigure 6 (pairwise sequence search) comes from make_blast_figures.py\n"
+          "in screen_v2/blast/, and Figure 8 (docked poses) from make_pose_figures.py.")
 
 
 if __name__ == "__main__":

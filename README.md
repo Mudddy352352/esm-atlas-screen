@@ -163,8 +163,10 @@ shipped (see EXCLUDED.md for each):
   match them, because nr grows between runs.
 - **The decoy null, the labelled benchmark and the M-CSA scan**
   (`decoy_site_null.py`, `score_labelled_hits.py`, `mcsa_retention_scan.py`)
-  read the same raw Foldseek JSON as the active-site geometry step, and the
-  M-CSA scan also fetches curated families from the M-CSA and AlphaFold DB. All
+  read the same raw Foldseek JSON as the active-site geometry step, as does
+  `motif_alignment_strip.py`, which writes the alignment strip behind
+  Figure 2c, and the M-CSA scan also fetches curated families from the M-CSA
+  and AlphaFold DB. All
   of their outputs are shipped, and the three analyses that produce the paper's
   numbers from those outputs (`analyse_retention.py`,
   `baseline_comparison.py`, `stats_for_revision.py`) run offline from this
