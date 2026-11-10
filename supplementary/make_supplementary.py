@@ -186,7 +186,7 @@ def data_s12(out):
 
 
 def note_s3_plddt(out):
-    """Model confidence of the sampled candidates (Supplementary Note S3)."""
+    """Model confidence of the sampled candidates (Supplementary Note S4)."""
     src = "screen_v1/results/candidate_plddt.tsv"
     recs = read(src)
     vals = sorted(v for v in (num(r["plddt_mean"]) for r in recs) if v is not None)
@@ -195,7 +195,7 @@ def note_s3_plddt(out):
             (vals[len(vals) // 2 - 1] + vals[len(vals) // 2]) / 2
         print("    pLDDT: n=%d, median %.1f, min %.1f, all above 70: %s"
               % (len(vals), mid, vals[0], vals[0] > 70))
-    return write(out, "Note_S3_candidate_plddt.tsv", src,
+    return write(out, "Note_S4_candidate_plddt.tsv", src,
                  ["target", "plddt_mean", "n_residues"],
                  [[r["target"], r["plddt_mean"], r["n_res"]] for r in recs])
 
