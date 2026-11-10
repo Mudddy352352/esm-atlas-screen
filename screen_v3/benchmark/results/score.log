@@ -1,0 +1,13 @@
+[bench] P05804_uidA_gus_w1-390: 1 site residues, 1426 labelled hits scored
+[bench] P05804_uidA_gus_w214-603: 7 site residues, 1851 labelled hits scored
+[bench] P07650_deoA_tp_w1-390: 10 site residues, 1266 labelled hits scored
+[bench] P07650_deoA_tp_w51-440: 10 site residues, 1277 labelled hits scored
+[bench] P0ABF6_cdd_ecoli: 7 site residues, 1262 labelled hits scored
+[bench] P0DTQ4_tyrDC_control_w1-390: 5 site residues, 1238 labelled hits scored
+[bench] P0DTQ4_tyrDC_control_w231-620: 7 site residues, 1724 labelled hits scored
+[bench] P15888_nfsB_nitroreductase: 11 site residues, 1130 labelled hits scored
+[bench] P17117_nfsA_nitroreductase: 13 site residues, 1129 labelled hits scored
+[bench] P19079_cdd_tetrameric: 7 site residues, 1365 labelled hits scored
+[bench] Q7A782_azo1_azoreductase: 3 site residues, 1777 labelled hits scored
+[bench] Q8KU07_azoB_azoreductase: 13 site residues, 1875 labelled hits scored
+wrote results/labelled_hits_scored.tsv (17320, 19)

@@ -1,0 +1,99 @@
+{
+ "MGYP000016927400": {
+  "rid": "EYY4V9SW016",
+  "done": true,
+  "status": "ready"
+ },
+ "MGYP000574843407": {
+  "rid": "EYY6JA2A016",
+  "done": true,
+  "status": "ready"
+ },
+ "MGYP001319153113": {
+  "rid": "F0F8W8KP016",
+  "done": true,
+  "query": "P19079_cdd_tetrameric",
+  "status": "ready",
+  "collected": "2026-11-08T11:49:24Z"
+ },
+ "MGYP000751766417": {
+  "rid": "F0S9FERV016",
+  "done": true,
+  "query": "P05804_uidA_gus_w214-603",
+  "submitted": "2026-11-08T11:46:56Z",
+  "status": "ready",
+  "collected": "2026-11-08T13:45:20Z"
+ },
+ "MGYP000574654335": {
+  "rid": "F0S9W5P5016",
+  "done": true,
+  "query": "P05804_uidA_gus_w214-603",
+  "submitted": "2026-11-08T11:47:09Z",
+  "status": "ready",
+  "collected": "2026-11-08T13:45:05Z"
+ },
+ "MGYP000968177834": {
+  "rid": "F0SA9HVU016",
+  "done": true,
+  "query": "P05804_uidA_gus_w214-603",
+  "submitted": "2026-11-08T11:47:22Z",
+  "status": "ready",
+  "collected": "2026-11-08T13:45:25Z"
+ },
+ "MGYP000245278657": {
+  "rid": "F0SAPSM0016",
+  "done": true,
+  "query": "P05804_uidA_gus_w214-603",
+  "submitted": "2026-11-08T11:47:35Z",
+  "status": "ready",
+  "collected": "2026-11-08T13:44:53Z"
+ },
+ "MGYP000729808394": {
+  "rid": "F0SB45FX016",
+  "done": true,
+  "query": "P05804_uidA_gus_w214-603",
+  "submitted": "2026-11-08T11:47:48Z",
+  "status": "ready",
+  "collected": "2026-11-08T13:45:12Z"
+ },
+ "MGYP001533818318": {
+  "rid": "F0SBH0SH016",
+  "done": true,
+  "query": "P05804_uidA_gus_w214-603",
+  "submitted": "2026-11-08T11:48:01Z",
+  "status": "ready",
+  "collected": "2026-11-08T13:45:43Z"
+ },
+ "MGYP000497510748": {
+  "rid": "F0SBYF32016",
+  "done": true,
+  "query": "P05804_uidA_gus_w214-603",
+  "submitted": "2026-11-08T11:48:15Z",
+  "status": "ready",
+  "collected": "2026-11-08T13:44:59Z"
+ },
+ "MGYP001050749229": {
+  "rid": "F0SCBT3R016",
+  "done": true,
+  "query": "P05804_uidA_gus_w214-603",
+  "submitted": "2026-11-08T11:48:28Z",
+  "status": "ready",
+  "collected": "2026-11-08T13:45:32Z"
+ },
+ "MGYP000051719573": {
+  "rid": "F0SCTTH9016",
+  "done": true,
+  "query": "P05804_uidA_gus_w214-603",
+  "submitted": "2026-11-08T11:48:41Z",
+  "status": "ready",
+  "collected": "2026-11-08T13:44:46Z"
+ },
+ "MGYP001178215973": {
+  "rid": "F0SD6Y38016",
+  "done": true,
+  "query": "P0ABF6_cdd_ecoli",
+  "submitted": "2026-11-08T11:48:54Z",
+  "status": "ready",
+  "collected": "2026-11-08T13:45:38Z"
+ }
+}

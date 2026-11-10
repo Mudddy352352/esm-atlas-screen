@@ -1,0 +1,10 @@
+[null] P05804_uidA_gus_w214-603: 24 candidate hits, 31 site sets
+[null] P0ABF6_cdd_ecoli: 1 candidate hits, 31 site sets
+[null] P0DTQ4_tyrDC_control_w231-620: 5 candidate hits, 31 site sets
+[null] P19079_cdd_tetrameric: 5 candidate hits, 31 site sets
+           n_hits  n_complete  n_partial  pct_complete  pct_partial
+site_kind                                                          
+clustered     343          27          8         7.872        2.332
+composed      330          14         12         4.242        3.636
+random        332           7          4         2.108        1.205
+real           35          20          2        57.143        5.714

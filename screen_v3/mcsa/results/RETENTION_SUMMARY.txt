@@ -1,0 +1,42 @@
+Families scored: 62   hits scored: 49735
+
+Pooled over all hits
+group                        hits     kept      pct             95% CI
+sequence-detectable         44120    16520    37.4%     37.0 - 37.9%
+structure-only               5615      571    10.2%      9.4 - 11.0%
+all same-fold hits          49735    17091    34.4%     33.9 - 34.8%
+
+Per family, both groups present: 52 families
+  median retention, sequence-detectable : 31.2%
+  median retention, structure-only      : 0.0%
+  median within-family difference       : +16.4 points
+  families where sequence-detectable is higher: 45 of 52
+  Wilcoxon signed-rank on the paired family rates: W=90.0, p=1.3e-07
+
+By sequence identity to the query, pooled
+identity band      hits     kept      pct             95% CI
+0-30%             28527     6245    21.9%     21.4 - 22.4%
+30-50%            16909     8486    50.2%     49.4 - 50.9%
+50-100%            4299     2360    54.9%     53.4 - 56.4%
+
+
+The confound: structure-only hits are remote by construction, so the gap
+above could be nothing but a sequence-identity effect. Within band:
+identity band     sequence-detectable         structure-only
+0-30%              22922 hits   24.8%      5605 hits   10.2%
+30-50%             16899 hits   50.2%        10 hits    0.0%
+50-100%             4299 hits   54.9%         0 hits    nan%
+Retention against site size (more curated residues is a harder test)
+n catalytic      families     hits pct kept
+2                       3     1321    56.4%
+3                       5     4728    42.1%
+4                       9     7639    45.3%
+5                      15    12086    30.3%
+6                      10     7256    30.6%
+7                       7     5550    35.5%
+8                       5     4024    30.0%
+9                       2     1899    61.6%
+10                      3     2702     1.1%
+11                      1      912    38.7%
+12                      1      924     7.3%
+14                      1      694    29.7%

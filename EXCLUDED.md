@@ -1,6 +1,6 @@
 # Files deliberately not included, and how to regenerate them
 
-This package is kept small (~30 MB) so it can live in git. A few large or
+This package is kept small (~60 MB) so it can live in git. A few large or
 third-party inputs are left out. In every case either the derived output they
 feed is shipped, or the file is freely downloadable from a public source. None
 of the paper's numbers depends on a file that is both excluded and
@@ -94,6 +94,27 @@ Prepped PDBQT receptors and scratch files produced by
   structures, then `run_dock.py` (needs AutoDock Vina 1.2.5). The crystal
   structures (3K4D, 6D4O, 6CXS, 193L, 1TIM) come from the RCSB PDB and the
   ligands from ChEBI; see `docking/README.md` for the exact accessions.
+
+## 6. Raw nr BLAST XML — `screen_v3/nr/results/*.xml` (~116 MB)
+
+The full NCBI BLAST XML returned for the thirteen shortlisted proteins and the
+query controls, one file per search, read by `screen_v3/nr/code/analyse_nr.py`
+and `classify_nr_hits.py`.
+
+- **Why excluded:** ~116 MB of verbose XML, and the searches are against a
+  database that moves, so a rerun will not match them anyway.
+- **Downstream output that is shipped:** the parsed and classified hit tables in
+  `screen_v3/nr/results/` (`nr_deep_activity.tsv`,
+  `nr_activity_classified.tsv`, `nr_activity_probe.tsv`,
+  `nr_shortlist_summary.tsv`), which every number in the paper's nr section is
+  taken from, together with the request-id state files that record which search
+  produced which result.
+- **To regenerate:** `python3 screen_v3/nr/code/submit_all.py` then
+  `collect_nr.py`, which submit the sequences to NCBI's BLAST URL API and
+  collect each request id later. NCBI queues a search for roughly ninety
+  minutes and holds a finished result for 24 hours, so submission and collection
+  are separate steps by design. Identities and E-values will differ from the
+  shipped tables, because nr grows.
 
 ## Note on duplicated structures
 

@@ -1,0 +1,8 @@
+unique AlphaFold accessions: 9875
+chunk 0: 2000 ids, 2000 rows
+chunk 2000: 2000 ids, 2000 rows
+chunk 4000: 2000 ids, 2000 rows
+chunk 6000: 2000 ids, 2000 rows
+chunk 8000: 1875 ids, 1875 rows
+wrote results/uniprot_labels.tsv (9875, 7)
+with an EC: 1364  reviewed: 10

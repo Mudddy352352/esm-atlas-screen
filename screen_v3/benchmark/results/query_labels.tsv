@@ -1,0 +1,10 @@
+Entry	EC number	Pfam	Protein names
+P05804	3.2.1.31	PF00703;PF02836;PF02837;	Beta-glucuronidase (GUS) (EC 3.2.1.31) (Beta-D-glucuronoside glucuronosohydrolase) (EcGUS) (UID)
+P19079	3.5.4.5	PF00383;	Cytidine deaminase (CDA) (EC 3.5.4.5) (Cytidine aminohydrolase)
+P17117	1.6.5.10; 1.7.1.-	PF00881;PF28600;	NADPH-dependent nitroreductase NfsA (EC 1.7.1.-) (Modulator of drug activity A) (NADPH-dependent quinone reductase) (EC 1.6.5.10) (Nitrofuran sensitivity A) (Oxygen-insensitive NADPH nitroreductase)
+P0ABF6	3.5.4.5	PF00383;PF08211;	Cytidine deaminase (EC 3.5.4.5) (Cytidine aminohydrolase) (CDA)
+P0DTQ4	4.1.1.-; 4.1.1.25	PF00282;PF21391;	L-tyrosine decarboxylase (TDC) (TyrDC) (EC 4.1.1.25) (Levodopa decarboxylase) (L-dopa decarboxylase) (EC 4.1.1.-)
+P07650	2.4.2.4	PF02885;PF00591;PF07831;	Thymidine phosphorylase (EC 2.4.2.4) (TdRPase)
+Q8KU07	1.7.-.-	PF05368;	NAD(P)H azoreductase (EC 1.7.-.-)
+P15888	1.7.1.-	PF00881;	NAD(P)H-dependent nitroreductase NfsB (EC 1.7.1.-)
+Q7A782	1.7.-.-	PF03358;	FMN-dependent NADPH-azoreductase (EC 1.7.-.-) (NADPH-dependent flavo-azoreductase) (NADPH-flavin azoreductase)

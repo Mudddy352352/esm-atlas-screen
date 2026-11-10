@@ -1,0 +1,17 @@
+[null] P05804_uidA_gus_w1-390: 58 candidate hits, 31 site sets
+[null] P05804_uidA_gus_w214-603: 28 candidate hits, 31 site sets
+[null] P07650_deoA_tp_w1-390: 385 candidate hits, 31 site sets
+[null] P0ABF6_cdd_ecoli: 2 candidate hits, 31 site sets
+[null] P0DTQ4_tyrDC_control_w1-390: 23 candidate hits, 31 site sets
+[null] P0DTQ4_tyrDC_control_w231-620: 36 candidate hits, 31 site sets
+[null] P15888_nfsB_nitroreductase: 375 candidate hits, 31 site sets
+[null] P17117_nfsA_nitroreductase: 324 candidate hits, 31 site sets
+[null] P19079_cdd_tetrameric: 5 candidate hits, 31 site sets
+[null] Q7A782_azo1_azoreductase: 261 candidate hits, 31 site sets
+[null] Q8KU07_azoB_azoreductase: 255 candidate hits, 31 site sets
+           n_hits  n_complete  n_partial  pct_complete  pct_partial
+site_kind                                                          
+clustered   17310         129        109         0.745        0.630
+composed    17438          78        115         0.447        0.659
+random      17362          27        101         0.156        0.582
+real         1736           5         37         0.288        2.131

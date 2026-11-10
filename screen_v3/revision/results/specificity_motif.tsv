@@ -1,0 +1,41 @@
+target	motif_residue	role	candidate_res	same_res	func_dist	note
+MGYP000751766417	R562	loop 8 arginine, assists the carboxylate	-	False		falls in a 7-residue stretch of the query (559-565) with no counterpart in the candidate
+MGYP000751766417	Y472	loop 6 tyrosine	Y	True	2.62	
+MGYP000751766417	N566	NxK asparagine, loop 8	W	False	2.81	
+MGYP000751766417	K568	NxK lysine, loop 8	K	True	0.5	
+MGYP000574654335	R562	loop 8 arginine, assists the carboxylate	-	False		falls in a 5-residue stretch of the query (560-564) with no counterpart in the candidate
+MGYP000574654335	Y472	loop 6 tyrosine	-	False		falls in a 7-residue stretch of the query (466-472) with no counterpart in the candidate
+MGYP000574654335	N566	NxK asparagine, loop 8	A	False	1.75	
+MGYP000574654335	K568	NxK lysine, loop 8	V	False	5.48	
+MGYP000968177834	R562	loop 8 arginine, assists the carboxylate	-	False		falls in a 7-residue stretch of the query (558-564) with no counterpart in the candidate
+MGYP000968177834	Y472	loop 6 tyrosine	Y	True	2.47	
+MGYP000968177834	N566	NxK asparagine, loop 8	W	False	2.82	
+MGYP000968177834	K568	NxK lysine, loop 8	K	True	1.15	
+MGYP000245278657	R562	loop 8 arginine, assists the carboxylate	-	False		falls in a 7-residue stretch of the query (559-565) with no counterpart in the candidate
+MGYP000245278657	Y472	loop 6 tyrosine	N	False	9.98	
+MGYP000245278657	N566	NxK asparagine, loop 8	W	False	3.54	
+MGYP000245278657	K568	NxK lysine, loop 8	K	True	0.42	
+MGYP000729808394	R562	loop 8 arginine, assists the carboxylate	-	False		falls in a 5-residue stretch of the query (559-563) with no counterpart in the candidate
+MGYP000729808394	Y472	loop 6 tyrosine	Y	True	1.97	
+MGYP000729808394	N566	NxK asparagine, loop 8	W	False	3.1	
+MGYP000729808394	K568	NxK lysine, loop 8	K	True	1.45	
+MGYP000016927400	R562	loop 8 arginine, assists the carboxylate	-	False		falls in a 7-residue stretch of the query (558-564) with no counterpart in the candidate
+MGYP000016927400	Y472	loop 6 tyrosine	Y	True	2.34	
+MGYP000016927400	N566	NxK asparagine, loop 8	W	False	4.68	
+MGYP000016927400	K568	NxK lysine, loop 8	K	True	0.43	
+MGYP001533818318	R562	loop 8 arginine, assists the carboxylate	-	False		falls in a 7-residue stretch of the query (560-566) with no counterpart in the candidate
+MGYP001533818318	Y472	loop 6 tyrosine	Y	True	1.29	
+MGYP001533818318	N566	NxK asparagine, loop 8	-	False		falls in a 7-residue stretch of the query (560-566) with no counterpart in the candidate
+MGYP001533818318	K568	NxK lysine, loop 8	K	True	0.38	
+MGYP000497510748	R562	loop 8 arginine, assists the carboxylate	-	False		falls in a 11-residue stretch of the query (554-564) with no counterpart in the candidate
+MGYP000497510748	Y472	loop 6 tyrosine	-	False		falls in a 7-residue stretch of the query (469-475) with no counterpart in the candidate
+MGYP000497510748	N566	NxK asparagine, loop 8	A	False	2.08	
+MGYP000497510748	K568	NxK lysine, loop 8	S	False	5.05	
+MGYP001050749229	R562	loop 8 arginine, assists the carboxylate	-	False		falls in a 5-residue stretch of the query (559-563) with no counterpart in the candidate
+MGYP001050749229	Y472	loop 6 tyrosine	Y	True	1.85	
+MGYP001050749229	N566	NxK asparagine, loop 8	V	False	7.91	
+MGYP001050749229	K568	NxK lysine, loop 8	W	False	2.04	
+MGYP000051719573	R562	loop 8 arginine, assists the carboxylate	-	False		falls in a 8-residue stretch of the query (555-562) with no counterpart in the candidate
+MGYP000051719573	Y472	loop 6 tyrosine	-	False		falls in a 5-residue stretch of the query (469-473) with no counterpart in the candidate
+MGYP000051719573	N566	NxK asparagine, loop 8	N	True	6.71	
+MGYP000051719573	K568	NxK lysine, loop 8	S	False	4.47	

@@ -1,0 +1,31 @@
+labelled_set	band	n_pos	n_neg	method	precision	recall	threshold	n_called	n_true	ci_low	ci_high	note
+EC-labelled	all	74	195	screen rule	0.77	0.635		61	47	0.651	0.858	catalytic residues kept, geometry ok, TM >= 0.6
+EC-labelled	all	74	195	sequence identity, at matched recall	1.0	0.635	39.9	47	47	0.924	1.0	threshold chosen to match the screen rule's recall
+EC-labelled	all	74	195	TM-score, at matched recall	1.0	0.635	0.819	47	47	0.924	1.0	threshold chosen to match the screen rule's recall
+EC-labelled	all	74	195	site retention, at matched recall	0.456	0.635	1.0	103	47	0.363	0.552	threshold chosen to match the screen rule's recall
+EC-labelled	all	74	195	Pfam same family	0.288	1.0		257	74	0.236	0.346	no threshold to tune
+EC-labelled	0-30	3	195	screen rule	0.176	1.0		17	3	0.062	0.41	catalytic residues kept, geometry ok, TM >= 0.6
+EC-labelled	0-30	3	195	sequence identity, at matched recall	0.125	1.0	24.2	24	3	0.043	0.31	threshold chosen to match the screen rule's recall
+EC-labelled	0-30	3	195	TM-score, at matched recall	1.0	1.0	0.793	3	3	0.438	1.0	threshold chosen to match the screen rule's recall
+EC-labelled	0-30	3	195	site retention, at matched recall	1.0	1.0	1.0	3	3	0.438	1.0	threshold chosen to match the screen rule's recall
+EC-labelled	0-30	3	195	Pfam same family	0.016	1.0		186	3	0.006	0.046	no threshold to tune
+EC-labelled	30+	71	0	screen rule	1.0	0.62		44	44	0.92	1.0	catalytic residues kept, geometry ok, TM >= 0.6
+EC-labelled	30+	71	0	sequence identity, at matched recall	1.0	0.62	40.3	44	44	0.92	1.0	threshold chosen to match the screen rule's recall
+EC-labelled	30+	71	0	TM-score, at matched recall	1.0	0.62	0.829	44	44	0.92	1.0	threshold chosen to match the screen rule's recall
+EC-labelled	30+	71	0	site retention, at matched recall	1.0	0.62	1.0	44	44	0.92	1.0	threshold chosen to match the screen rule's recall
+EC-labelled	30+	71	0	Pfam same family	1.0	1.0		71	71	0.949	1.0	no threshold to tune
+name-labelled	all	107	251	screen rule	0.686	0.551		86	59	0.582	0.774	catalytic residues kept, geometry ok, TM >= 0.6
+name-labelled	all	107	251	sequence identity, at matched recall	0.967	0.551	39.8	61	59	0.888	0.991	threshold chosen to match the screen rule's recall
+name-labelled	all	107	251	TM-score, at matched recall	0.983	0.551	0.794	60	59	0.911	0.997	threshold chosen to match the screen rule's recall
+name-labelled	all	107	251	site retention, at matched recall	0.492	0.551	1.0	120	59	0.404	0.58	threshold chosen to match the screen rule's recall
+name-labelled	all	107	251	Pfam same family	0.309	0.963		333	103	0.262	0.361	no threshold to tune
+name-labelled	0-30	12	247	screen rule	0.156	0.417		32	5	0.069	0.318	catalytic residues kept, geometry ok, TM >= 0.6
+name-labelled	0-30	12	247	sequence identity, at matched recall	0.106	0.417	23.2	47	5	0.046	0.226	threshold chosen to match the screen rule's recall
+name-labelled	0-30	12	247	TM-score, at matched recall	0.294	0.417	0.753	17	5	0.133	0.531	threshold chosen to match the screen rule's recall
+name-labelled	0-30	12	247	site retention, at matched recall	0.088	0.417	1.0	57	5	0.038	0.189	threshold chosen to match the screen rule's recall
+name-labelled	0-30	12	247	Pfam same family	0.034	0.667		234	8	0.017	0.066	no threshold to tune
+name-labelled	30+	95	4	screen rule	1.0	0.568		54	54	0.934	1.0	catalytic residues kept, geometry ok, TM >= 0.6
+name-labelled	30+	95	4	sequence identity, at matched recall	0.964	0.568	40.3	56	54	0.879	0.99	threshold chosen to match the screen rule's recall
+name-labelled	30+	95	4	TM-score, at matched recall	1.0	0.568	0.815	54	54	0.934	1.0	threshold chosen to match the screen rule's recall
+name-labelled	30+	95	4	site retention, at matched recall	1.0	0.568	1.0	54	54	0.934	1.0	threshold chosen to match the screen rule's recall
+name-labelled	30+	95	4	Pfam same family	0.96	1.0		99	95	0.901	0.984	no threshold to tune

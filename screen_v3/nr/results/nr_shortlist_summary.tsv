@@ -1,0 +1,14 @@
+protein	query	query_activity	n_hits	best_evalue	best_pct_id	best_desc	best_is_generic	n_naming_activity	named_best_evalue	named_best_pct_id	named_best_desc
+MGYP000016927400	P05804_uidA_gus_w214-603	beta-glucuronidase	50	0.0	99.6	glycoside hydrolase family 2 [Planctomycetota bacterium]	True	0			
+MGYP000051719573	P05804_uidA_gus_w214-603	beta-glucuronidase	100	0.0	67.1	PA14 domain-containing protein [bacterium]	True	0			
+MGYP000245278657	P05804_uidA_gus_w214-603	beta-glucuronidase	100	0.0	74.1	glycoside hydrolase family 2 TIM barrel-domain containing protein [Clostridia ba	True	0			
+MGYP000497510748	P05804_uidA_gus_w214-603	beta-glucuronidase	100	0.0	99.5	hypothetical protein [Lachnospiraceae bacterium]	True	0			
+MGYP000574654335	P05804_uidA_gus_w214-603	beta-glucuronidase	100	0.0	91.1	DUF8487 domain-containing protein [Flagellimonas chongwuensis] >gb|NVN19071.1| g	True	0			
+MGYP000574843407	P19079_cdd_tetrameric	cytidine deaminase	100	2.93335e-99	51.7	MAG: hypothetical protein COV18_02415 [Candidatus Woesearchaeota archaeon CG10_b	True	63	1.10185e-97	53.1	cytidine deaminase [Candidatus Woesearchaeota archaeon]
+MGYP000729808394	P05804_uidA_gus_w214-603	beta-glucuronidase	100	0.0	88.8	glycoside hydrolase family 2 [Terriglobia bacterium]	True	0			
+MGYP000751766417	P05804_uidA_gus_w214-603	beta-glucuronidase	100	0.0	81.1	glycoside hydrolase family 2 TIM barrel-domain containing protein [Candidatus Ba	True	0			
+MGYP000968177834	P05804_uidA_gus_w214-603	beta-glucuronidase	100	0.0	62.2	glycoside hydrolase family 2 [Bacillota bacterium]	True	0			
+MGYP001050749229	P05804_uidA_gus_w214-603	beta-glucuronidase	100	2.32495e-149	53.3	sugar-binding domain-containing protein [Pseudomonadota bacterium]	True	2	3.76747e-141	48.6	glycoside hydrolase family 2 protein [Chamaesiphon minutus] >gb|AFY92151.1| beta
+MGYP001178215973	P0ABF6_cdd_ecoli	cytidine deaminase	100	6.206e-08	34.1	cytidine deaminase [Meiothermus sp.]	False	96	6.206e-08	34.1	cytidine deaminase [Meiothermus sp.]
+MGYP001319153113	P19079_cdd_tetrameric	cytidine deaminase	38	3.45498e-40	47.2	ASCH domain-containing protein [Minisyncoccota bacterium]	True	8	3.68847e-28	36.2	cytidine deaminase [Patescibacteria group bacterium]
+MGYP001533818318	P05804_uidA_gus_w214-603	beta-glucuronidase	100	0.0	94.3	beta galactosidase jelly roll domain-containing protein [Clostridiales bacterium	True	0			

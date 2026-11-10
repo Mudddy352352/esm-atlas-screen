@@ -1,0 +1,61 @@
+exclusion	band	method	n_pos	n_neg	precision	recall	ci_low	ci_high	n_called	n_true
+as published	all	screen rule	107	251	0.686	0.551	0.582	0.774	86	59
+as published	all	sequence identity, at matched recall	107	251	0.967	0.551	0.888	0.991	61	59
+as published	all	TM-score, at matched recall	107	251	0.983	0.551	0.911	0.997	60	59
+as published	all	site retention, at matched recall	107	251	0.492	0.551	0.404	0.58	120	59
+as published	all	Pfam same family	107	251	0.309	0.963	0.262	0.361	333	103
+as published	0-30	screen rule	12	247	0.156	0.417	0.069	0.318	32	5
+as published	0-30	sequence identity, at matched recall	12	247	0.106	0.417	0.046	0.226	47	5
+as published	0-30	TM-score, at matched recall	12	247	0.294	0.417	0.133	0.531	17	5
+as published	0-30	site retention, at matched recall	12	247	0.088	0.417	0.038	0.189	57	5
+as published	0-30	Pfam same family	12	247	0.034	0.667	0.017	0.066	234	8
+as published	30+	screen rule	95	4	1.0	0.568	0.934	1.0	54	54
+as published	30+	sequence identity, at matched recall	95	4	0.964	0.568	0.879	0.99	56	54
+as published	30+	TM-score, at matched recall	95	4	1.0	0.568	0.934	1.0	54	54
+as published	30+	site retention, at matched recall	95	4	1.0	0.568	0.934	1.0	54	54
+as published	30+	Pfam same family	95	4	0.96	1.0	0.901	0.984	99	95
+deleted records only	all	screen rule	107	369	0.551	0.551	0.457	0.642	107	59
+deleted records only	all	sequence identity, at matched recall	107	369	0.843	0.551	0.74	0.91	70	59
+deleted records only	all	TM-score, at matched recall	107	369	0.894	0.551	0.797	0.948	66	59
+deleted records only	all	site retention, at matched recall	107	369	0.401	0.551	0.326	0.482	147	59
+deleted records only	all	Pfam same family	107	369	0.236	0.963	0.198	0.278	437	103
+deleted records only	0-30	screen rule	12	341	0.114	0.417	0.05	0.24	44	5
+deleted records only	0-30	sequence identity, at matched recall	12	341	0.082	0.417	0.036	0.178	61	5
+deleted records only	0-30	TM-score, at matched recall	12	341	0.208	0.417	0.092	0.405	24	5
+deleted records only	0-30	site retention, at matched recall	12	341	0.075	0.417	0.032	0.163	67	5
+deleted records only	0-30	Pfam same family	12	341	0.025	0.667	0.013	0.049	314	8
+deleted records only	30+	screen rule	95	28	0.857	0.568	0.75	0.923	63	54
+deleted records only	30+	sequence identity, at matched recall	95	28	0.831	0.568	0.722	0.903	65	54
+deleted records only	30+	TM-score, at matched recall	95	28	0.964	0.568	0.879	0.99	56	54
+deleted records only	30+	site retention, at matched recall	95	28	0.9	0.568	0.799	0.953	60	54
+deleted records only	30+	Pfam same family	95	28	0.772	1.0	0.691	0.838	123	95
+no family-name exclusion	all	screen rule	107	306	0.641	0.551	0.539	0.732	92	59
+no family-name exclusion	all	sequence identity, at matched recall	107	306	0.908	0.551	0.813	0.957	65	59
+no family-name exclusion	all	TM-score, at matched recall	107	306	0.952	0.551	0.867	0.983	62	59
+no family-name exclusion	all	site retention, at matched recall	107	306	0.444	0.551	0.362	0.528	133	59
+no family-name exclusion	all	Pfam same family	107	306	0.267	0.963	0.225	0.313	386	103
+no family-name exclusion	0-30	screen rule	12	295	0.139	0.417	0.061	0.287	36	5
+no family-name exclusion	0-30	sequence identity, at matched recall	12	295	0.093	0.417	0.04	0.199	54	5
+no family-name exclusion	0-30	TM-score, at matched recall	12	295	0.238	0.417	0.106	0.451	21	5
+no family-name exclusion	0-30	site retention, at matched recall	12	295	0.093	0.417	0.04	0.199	54	5
+no family-name exclusion	0-30	Pfam same family	12	295	0.029	0.667	0.015	0.055	280	8
+no family-name exclusion	30+	screen rule	95	11	0.964	0.568	0.879	0.99	56	54
+no family-name exclusion	30+	sequence identity, at matched recall	95	11	0.9	0.568	0.799	0.953	60	54
+no family-name exclusion	30+	TM-score, at matched recall	95	11	0.982	0.568	0.904	0.997	55	54
+no family-name exclusion	30+	site retention, at matched recall	95	11	0.964	0.568	0.879	0.99	56	54
+no family-name exclusion	30+	Pfam same family	95	11	0.896	1.0	0.824	0.941	106	95
+also drop putative and probable	all	screen rule	105	247	0.682	0.552	0.577	0.772	85	58
+also drop putative and probable	all	sequence identity, at matched recall	105	247	0.967	0.552	0.886	0.991	60	58
+also drop putative and probable	all	TM-score, at matched recall	105	247	0.983	0.552	0.91	0.997	59	58
+also drop putative and probable	all	site retention, at matched recall	105	247	0.468	0.552	0.382	0.555	124	58
+also drop putative and probable	all	Pfam same family	105	247	0.308	0.962	0.26	0.36	328	101
+also drop putative and probable	0-30	screen rule	12	244	0.156	0.417	0.069	0.318	32	5
+also drop putative and probable	0-30	sequence identity, at matched recall	12	244	0.109	0.417	0.047	0.23	46	5
+also drop putative and probable	0-30	TM-score, at matched recall	12	244	0.294	0.417	0.133	0.531	17	5
+also drop putative and probable	0-30	site retention, at matched recall	12	244	0.25	0.417	0.112	0.469	20	5
+also drop putative and probable	0-30	Pfam same family	12	244	0.034	0.667	0.018	0.067	232	8
+also drop putative and probable	30+	screen rule	93	3	1.0	0.57	0.932	1.0	53	53
+also drop putative and probable	30+	sequence identity, at matched recall	93	3	0.964	0.57	0.877	0.99	55	53
+also drop putative and probable	30+	TM-score, at matched recall	93	3	1.0	0.57	0.932	1.0	53	53
+also drop putative and probable	30+	site retention, at matched recall	93	3	1.0	0.57	0.932	1.0	53	53
+also drop putative and probable	30+	Pfam same family	93	3	0.969	1.0	0.912	0.989	96	93

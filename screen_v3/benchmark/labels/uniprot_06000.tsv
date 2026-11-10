@@ -1,0 +1,2001 @@
+From	Entry	Reviewed	Protein names	EC number	Pfam	Organism
+A0A7Z0SAW6	A0A7Z0SAW6		deleted			
+A0A7Z0UDH6	A0A7Z0UDH6		deleted			
+A0A7Z0WT37	A0A7Z0WT37	unreviewed	3-beta hydroxysteroid dehydrogenase		PF01370;	Actinophytocola xinjiangensis
+A0A7Z1R2W6	A0A7Z1R2W6		deleted			
+A0A7Z2VW13	A0A7Z2VW13	unreviewed	Oxygen-insensitive NAD(P)H nitroreductase (EC 1.5.1.34)	1.5.1.34	PF00881;	Massilia forsythiae
+A0A7Z8E022	A0A7Z8E022		deleted			
+A0A7Z8RIA9	A0A7Z8RIA9		deleted			
+A0A7Z9J210	A0A7Z9J210		deleted			
+A0A7Z9M5E4	A0A7Z9M5E4		deleted			
+A0A7Z9PQ50	A0A7Z9PQ50		deleted			
+A0A7Z9SBH2	A0A7Z9SBH2		deleted			
+A0A7Z9TF15	A0A7Z9TF15		deleted			
+A0A7Z9TGG2	A0A7Z9TGG2		deleted			
+A0A7Z9UDV2	A0A7Z9UDV2		deleted			
+A0A7Z9WQ66	A0A7Z9WQ66		deleted			
+A0A7Z9XL43	A0A7Z9XL43		deleted			
+A0A800A7X7	A0A800A7X7		deleted			
+A0A800F256	A0A800F256		deleted			
+A0A800F2S7	A0A800F2S7		deleted			
+A0A800FHI9	A0A800FHI9		deleted			
+A0A800IG51	A0A800IG51		deleted			
+A0A800JMZ3	A0A800JMZ3		deleted			
+A0A800LSQ8	A0A800LSQ8		deleted			
+A0A800LSW7	A0A800LSW7		deleted			
+A0A800M6Y0	A0A800M6Y0		deleted			
+A0A803NT55	A0A803NT55	unreviewed	cytidine deaminase (EC 3.5.4.5)	3.5.4.5	PF00383;PF08211;	Cannabis sativa (Hemp) (Marijuana)
+A0A803TBN8	A0A803TBN8	unreviewed	Glutamate decarboxylase 1 (EC 4.1.1.15)	4.1.1.15	PF00282;	Anolis carolinensis (Green anole) (American chameleon)
+A0A803V2B5	A0A803V2B5	unreviewed	cytidine deaminase (EC 3.5.4.5) (Cytidine aminohydrolase)	3.5.4.5	PF00383;	Ficedula albicollis (Collared flycatcher) (Muscicapa albicollis)
+A0A804K800	A0A804K800	unreviewed	cytidine deaminase (EC 3.5.4.5)	3.5.4.5	PF00383;PF08211;	Musa acuminata subsp. malaccensis (Wild banana) (Musa malaccensis)
+A0A806XCF5	A0A806XCF5		deleted			
+A0A810E2A0	A0A810E2A0		deleted			
+A0A811KPH4	A0A811KPH4	unreviewed	Cytidine deaminase (EC 3.5.4.5) (Cytidine aminohydrolase)	3.5.4.5	PF00383;	Bursaphelenchus okinawaensis
+A0A811TBX6	A0A811TBX6		deleted			
+A0A812E6X0	A0A812E6X0	unreviewed	Cysteine sulfinic acid decarboxylase,Glutamate decarboxylase 1,Acidic amino acid decarboxylase GADL1		PF00282;	Acanthosepion pharaonis (Pharaoh cuttlefish) (Sepia pharaonis)
+A0A812ILC0	A0A812ILC0	unreviewed	Cdd protein		PF00383;PF07690;	Symbiodinium pilosum (Dinoflagellate)
+A0A812ITD6	A0A812ITD6	unreviewed	beta-galactosidase (EC 3.2.1.23)	3.2.1.23	PF02836;PF16353;	Symbiodinium pilosum (Dinoflagellate)
+A0A812K9W8	A0A812K9W8	unreviewed	ELI5 protein		PF00282;	Symbiodinium necroappetens
+A0A812MKC6	A0A812MKC6	unreviewed	KefB protein		PF27452;PF00999;PF00881;PF02678;PF17954;PF02254;	Symbiodinium necroappetens
+A0A812RMT5	A0A812RMT5	unreviewed	anthranilate phosphoribosyltransferase (EC 2.4.2.18)	2.4.2.18	PF02885;PF00591;	Symbiodinium natans
+A0A812TPD4	A0A812TPD4		deleted			
+A0A812TPE2	A0A812TPE2	unreviewed	Nitroreductase domain-containing protein		PF00881;	Symbiodinium pilosum (Dinoflagellate)
+A0A812VDE2	A0A812VDE2	unreviewed	beta-galactosidase (EC 3.2.1.23) (Lactase)	3.2.1.23	PF02929;PF00703;PF02836;PF02837;PF16353;	Symbiodinium natans
+A0A812W0K7	A0A812W0K7		deleted			
+A0A812WPE8	A0A812WPE8		deleted			
+A0A812XIN0	A0A812XIN0	unreviewed	Beta-glucuronidase (EC 3.2.1.31)	3.2.1.31	PF00703;PF02836;	Symbiodinium pilosum (Dinoflagellate)
+A0A813DVZ3	A0A813DVZ3	unreviewed	Uncharacterized protein			Polarella glacialis (Dinoflagellate)
+A0A813GNQ7	A0A813GNQ7	unreviewed	Beta-galactosidase		PF00703;PF02836;PF02837;	Polarella glacialis (Dinoflagellate)
+A0A813GSS5	A0A813GSS5	unreviewed	beta-galactosidase (EC 3.2.1.23) (Lactase)	3.2.1.23	PF02929;PF00703;PF02836;PF02837;	Polarella glacialis (Dinoflagellate)
+A0A813J6W1	A0A813J6W1		deleted			
+A0A813JEC1	A0A813JEC1		deleted			
+A0A813KIG1	A0A813KIG1		deleted			
+A0A813LR20	A0A813LR20		deleted			
+A0A813ZZV1	A0A813ZZV1		deleted			
+A0A814BXM0	A0A814BXM0	unreviewed	Pyridoxal phosphate-dependent decarboxylase major domain-containing protein		PF00282;	Didymodactylos carnosus
+A0A814G3S1	A0A814G3S1	unreviewed	NAD(P)(+)--arginine ADP-ribosyltransferase (EC 2.4.2.31) (Mono(ADP-ribosyl)transferase)	2.4.2.31	PF01129;PF05368;	Adineta steineri
+A0A814NNH6	A0A814NNH6		deleted			
+A0A814S2G3	A0A814S2G3	unreviewed	Phosphoribosylanthranilate isomerase		PF00591;PF00697;	Adineta steineri
+A0A814SJ48	A0A814SJ48	unreviewed	WAP domain-containing protein		PF00282;PF00095;	Adineta steineri
+A0A814T751	A0A814T751		deleted			
+A0A815CLV6	A0A815CLV6		deleted			
+A0A815NGJ0	A0A815NGJ0		deleted			
+A0A815NI49	A0A815NI49	unreviewed	NADPH-dependent FMN reductase-like domain-containing protein		PF03358;	Didymodactylos carnosus
+A0A815P3Q4	A0A815P3Q4		deleted			
+A0A815TZX4	A0A815TZX4		deleted			
+A0A816ETW8	A0A816ETW8	unreviewed	CMP/dCMP-type deaminase domain-containing protein		PF00383;PF08211;	Didymodactylos carnosus
+A0A816H1B7	A0A816H1B7	unreviewed	Pyridoxal phosphate-dependent decarboxylase major domain-containing protein		PF00282;	Adineta ricciae (Rotifer)
+A0A816HYI4	A0A816HYI4	unreviewed	Uncharacterized protein			Adineta ricciae (Rotifer)
+A0A816TES2	A0A816TES2		deleted			
+A0A816Y6K9	A0A816Y6K9		deleted			
+A0A817GAC1	A0A817GAC1		deleted			
+A0A817H476	A0A817H476		deleted			
+A0A817WMT7	A0A817WMT7		deleted			
+A0A818UPX1	A0A818UPX1		deleted			
+A0A819B118	A0A819B118		deleted			
+A0A819BAT6	A0A819BAT6		deleted			
+A0A819CIF9	A0A819CIF9	unreviewed	cytidine deaminase (EC 3.5.4.5) (Cytidine aminohydrolase)	3.5.4.5	PF00383;PF02862;PF02121;PF24694;	Rotaria magnacalcarata
+A0A819G6L1	A0A819G6L1		deleted			
+A0A819ITJ5	A0A819ITJ5		deleted			
+A0A820IU38	A0A820IU38		deleted			
+A0A820MRU8	A0A820MRU8		deleted			
+A0A821ALZ0	A0A821ALZ0	unreviewed	Pyridoxal phosphate-dependent decarboxylase major domain-containing protein		PF00282;	Rotaria socialis
+A0A821D6R2	A0A821D6R2		deleted			
+A0A821EJD6	A0A821EJD6		deleted			
+A0A821M0V7	A0A821M0V7		deleted			
+A0A821TUP3	A0A821TUP3	unreviewed	Cytidine deaminase (EC 3.5.4.5) (Cytidine aminohydrolase)	3.5.4.5	PF00383;	Pieris macdunnoughi
+A0A822HLA8	A0A822HLA8		deleted			
+A0A822XWJ6	A0A822XWJ6	unreviewed	cytidine deaminase (EC 3.5.4.5)	3.5.4.5	PF00383;PF08211;	Nelumbo nucifera (Sacred lotus)
+A0A822Z0Y6	A0A822Z0Y6	unreviewed	CMP/dCMP-type deaminase domain-containing protein		PF00383;PF08211;	Nelumbo nucifera (Sacred lotus)
+A0A822ZS27	A0A822ZS27	unreviewed	CMP/dCMP-type deaminase domain-containing protein		PF08211;	Nelumbo nucifera (Sacred lotus)
+A0A828PU40	A0A828PU40		deleted			
+A0A828RYI4	A0A828RYI4		deleted			
+A0A828T605	A0A828T605		deleted			
+A0A829GD80	A0A829GD80		deleted			
+A0A830ECL4	A0A830ECL4	unreviewed	cytidine deaminase (EC 3.5.4.5) (Cytidine aminohydrolase)	3.5.4.5	PF00383;	Halobellus salinus
+A0A830H9C6	A0A830H9C6	unreviewed	CMP/dCMP-type deaminase domain-containing protein		PF00383;PF08211;	Pycnococcus provasolii
+A0A830HNF0	A0A830HNF0	unreviewed	Glycoside hydrolase family 2 catalytic domain-containing protein		PF02836;PF13344;PF13242;	Pycnococcus provasolii
+A0A830HZM9	A0A830HZM9	unreviewed	cystathionine beta-synthase (EC 4.2.1.22)	4.2.1.22	PF00291;PF00282;	Pycnococcus provasolii
+A0A831PUX0	A0A831PUX0		deleted			
+A0A831T5D2	A0A831T5D2		deleted			
+A0A831UR90	A0A831UR90		deleted			
+A0A831WP25	A0A831WP25		deleted			
+A0A831XAD3	A0A831XAD3		deleted			
+A0A831XD05	A0A831XD05		deleted			
+A0A831Y540	A0A831Y540		deleted			
+A0A831Z7P0	A0A831Z7P0		deleted			
+A0A832AQK7	A0A832AQK7		deleted			
+A0A832AVA3	A0A832AVA3		deleted			
+A0A832BX22	A0A832BX22		deleted			
+A0A832CGU8	A0A832CGU8		deleted			
+A0A832CT20	A0A832CT20		deleted			
+A0A832D7E1	A0A832D7E1		deleted			
+A0A832G860	A0A832G860		deleted			
+A0A832G9H2	A0A832G9H2		deleted			
+A0A832GRY7	A0A832GRY7		deleted			
+A0A832H828	A0A832H828		deleted			
+A0A832H9T9	A0A832H9T9		deleted			
+A0A832HRL0	A0A832HRL0		deleted			
+A0A832JK13	A0A832JK13		deleted			
+A0A832JKG0	A0A832JKG0		deleted			
+A0A832NUH5	A0A832NUH5		deleted			
+A0A832QCE4	A0A832QCE4		deleted			
+A0A832T6N7	A0A832T6N7		deleted			
+A0A832TKJ7	A0A832TKJ7		deleted			
+A0A832TMY7	A0A832TMY7		deleted			
+A0A833ATA6	A0A833ATA6		deleted			
+A0A833ATD8	A0A833ATD8		deleted			
+A0A833D2G0	A0A833D2G0		deleted			
+A0A833E836	A0A833E836		deleted			
+A0A833ERI9	A0A833ERI9		deleted			
+A0A833ESH2	A0A833ESH2		deleted			
+A0A833G8G0	A0A833G8G0		deleted			
+A0A833HQ66	A0A833HQ66	unreviewed	Nitroreductase domain-containing protein		PF00881;	Alkaliphilus serpentinus
+A0A833JDA8	A0A833JDA8	unreviewed	NADPH-dependent oxidoreductase		PF03358;	Fluviispira multicolorata
+A0A833JE95	A0A833JE95	unreviewed	NADPH-dependent oxidoreductase		PF03358;	Fluviispira multicolorata
+A0A833N1V3	A0A833N1V3	unreviewed	Aminotransferase class V-fold PLP-dependent enzyme		PF00282;	Fluviispira multicolorata
+A0A834D9B9	A0A834D9B9		deleted			
+A0A835C565	A0A835C565	unreviewed	NAD(P)H dehydrogenase (quinone) (EC 1.6.5.2)	1.6.5.2	PF03358;	Digitaria exilis
+A0A835HIW2	A0A835HIW2	unreviewed	NmrA-like domain-containing protein		PF05368;	Coptis chinensis
+A0A835IDX6	A0A835IDX6	unreviewed	cytidine deaminase (EC 3.5.4.5)	3.5.4.5	PF00383;PF08211;	Coptis chinensis
+A0A835R749	A0A835R749	unreviewed	cytidine deaminase (EC 3.5.4.5)	3.5.4.5	PF00383;PF08211;	Vanilla planifolia (Vanilla)
+A0A835TJM3	A0A835TJM3	unreviewed	NAD(P)H dehydrogenase (quinone) (EC 1.6.5.2)	1.6.5.2	PF03358;	Salix dunnii
+A0A835V472	A0A835V472		deleted			
+A0A835XLY5	A0A835XLY5	unreviewed	NAD(P)H dehydrogenase (quinone) (EC 1.6.5.2)	1.6.5.2	PF03358;	Edaphochlamys debaryana
+A0A835Y4M3	A0A835Y4M3	unreviewed	CMP/dCMP-type deaminase domain-containing protein		PF00383;PF08211;	Edaphochlamys debaryana
+A0A836BIB7	A0A836BIB7		deleted			
+A0A836HLI0	A0A836HLI0	unreviewed	Nitroreductase domain-containing protein		PF00881;	Leishmania enriettii
+A0A836L389	A0A836L389	unreviewed	Nitroreductase domain-containing protein		PF00881;	Leishmania martiniquensis
+A0A836PXT8	A0A836PXT8		deleted			
+A0A836SRR0	A0A836SRR0		deleted			
+A0A836VVT9	A0A836VVT9		deleted			
+A0A836VZ71	A0A836VZ71		deleted			
+A0A836W217	A0A836W217		deleted			
+A0A836W4H1	A0A836W4H1		deleted			
+A0A836YUK7	A0A836YUK7		deleted			
+A0A838AFS4	A0A838AFS4	unreviewed	Cytidine deaminase (EC 3.5.4.5)	3.5.4.5	PF00383;	Haloechinothrix aidingensis
+A0A838D3K4	A0A838D3K4		deleted			
+A0A838H4I2	A0A838H4I2		deleted			
+A0A838HH59	A0A838HH59		deleted			
+A0A838IGD4	A0A838IGD4		deleted			
+A0A838IZE8	A0A838IZE8		deleted			
+A0A838J3W0	A0A838J3W0		deleted			
+A0A838LX97	A0A838LX97		deleted			
+A0A838MTA3	A0A838MTA3		deleted			
+A0A838NU34	A0A838NU34		deleted			
+A0A838Q8Z8	A0A838Q8Z8		deleted			
+A0A838QC06	A0A838QC06		deleted			
+A0A838QSI3	A0A838QSI3		deleted			
+A0A838RG71	A0A838RG71		deleted			
+A0A838S304	A0A838S304		deleted			
+A0A838UPL1	A0A838UPL1		deleted			
+A0A838WM05	A0A838WM05		deleted			
+A0A838Y080	A0A838Y080	unreviewed	Cytidine deaminase (EC 3.5.4.5) (Cytidine aminohydrolase)	3.5.4.5	PF00383;	Aquitalea aquatica
+A0A839CY78	A0A839CY78		deleted			
+A0A839JC02	A0A839JC02		deleted			
+A0A839JTQ2	A0A839JTQ2		deleted			
+A0A839PSD9	A0A839PSD9		deleted			
+A0A839QQ85	A0A839QQ85	unreviewed	Cytidine deaminase (EC 3.5.4.5) (Cytidine aminohydrolase)	3.5.4.5	PF00383;	Helcobacillus massiliensis
+A0A839QU50	A0A839QU50	unreviewed	FMN reductase (EC 1.5.1.38)	1.5.1.38	PF03358;	Helcobacillus massiliensis
+A0A839UTG8	A0A839UTG8	unreviewed	Nitroreductase		PF00881;PF28600;	Endobacter medicaginis
+A0A839W379	A0A839W379		deleted			
+A0A839WWJ8	A0A839WWJ8		deleted			
+A0A840BHN1	A0A840BHN1	unreviewed	FMN reductase (EC 1.5.1.38)	1.5.1.38	PF03358;	Niveibacterium umoris
+A0A840C7C8	A0A840C7C8	unreviewed	NAD(P)H dehydrogenase (Quinone) (EC 1.6.5.2)	1.6.5.2	PF13460;	Chelatococcus caeni
+A0A840CNU5	A0A840CNU5	unreviewed	Nitroreductase		PF00881;	Dysgonomonas hofstadii
+A0A840I5A7	A0A840I5A7	unreviewed	Sialate O-acetylesterase (EC 3.1.1.53)	3.1.1.53	PF03629;	Parvularcula dongshanensis
+A0A840I688	A0A840I688	unreviewed	Beta-galactosidase (EC 3.2.1.23) (Lactase)	3.2.1.23	PF02929;PF00703;PF02836;PF02837;PF16353;	Parvularcula dongshanensis
+A0A840IQ17	A0A840IQ17	unreviewed	Beta-mannosidase-like galactose-binding domain-containing protein		PF22666;	Amycolatopsis jiangsuensis
+A0A840LAQ8	A0A840LAQ8	unreviewed	NAD(P)H-dependent FMN reductase		PF03358;	Roseateles oligotrophus
+A0A840LET1	A0A840LET1	unreviewed	NAD(P)H dehydrogenase (Quinone) (EC 1.6.5.2)	1.6.5.2	PF13460;	Roseateles oligotrophus
+A0A840Q680	A0A840Q680	unreviewed	Uncharacterized protein YbjT (DUF2867 family)		PF13460;	Saccharopolyspora phatthalungensis
+A0A840QNM2	A0A840QNM2	unreviewed	Pyrimidine-nucleoside phosphorylase (EC 2.4.2.2)	2.4.2.2	PF02885;PF00591;PF07831;	Texcoconibacillus texcoconensis
+A0A840VBJ8	A0A840VBJ8	unreviewed	beta-galactosidase (EC 3.2.1.23) (Lactase)	3.2.1.23	PF02929;PF00703;PF02836;PF02837;PF16353;PF13385;	Haloferula luteola
+A0A840VDU5	A0A840VDU5	unreviewed	Beta-galactosidase (EC 3.2.1.23)	3.2.1.23	PF00703;PF02836;PF02837;	Haloferula luteola
+A0A841HIX3	A0A841HIX3	unreviewed	Cytidine deaminase (EC 3.5.4.5) (Cytidine aminohydrolase)	3.5.4.5	PF00383;	Povalibacter uvarum
+A0A841I2S8	A0A841I2S8	unreviewed	Nucleoside-diphosphate-sugar epimerase		PF01370;	Deinobacterium chartae
+A0A841KB43	A0A841KB43	unreviewed	FMN reductase (EC 1.5.1.38)	1.5.1.38	PF03358;	Chelatococcus composti
+A0A841MUI4	A0A841MUI4	unreviewed	Pyrimidine-nucleoside phosphorylase (EC 2.4.2.2)	2.4.2.2		Algoriphagus iocasae
+A0A841R072	A0A841R072	unreviewed	Pyrimidine-nucleoside phosphorylase (EC 2.4.2.2)	2.4.2.2	PF02885;PF00591;PF07831;	Negativicoccus succinicivorans
+A0A841R333	A0A841R333	unreviewed	Beta-galactosidase (EC 3.2.1.23)	3.2.1.23	PF00703;PF02836;PF02837;	Spirochaeta isovalerica
+A0A841REQ8	A0A841REQ8	unreviewed	thymidine phosphorylase (EC 2.4.2.4)	2.4.2.4	PF02885;PF00591;PF07831;	Spirochaeta isovalerica
+A0A841T3Q2	A0A841T3Q2	unreviewed	NAD(P)H-dependent oxidoreductase		PF03358;	Cohnella thailandensis
+A0A841TFK6	A0A841TFK6	unreviewed	Cytidine deaminase (EC 3.5.4.5) (Cytidine aminohydrolase)	3.5.4.5	PF00383;	Cohnella lubricantis
+A0A841Z369	A0A841Z369		deleted			
+A0A842H9Y3	A0A842H9Y3	unreviewed	Anthranilate phosphoribosyltransferase (EC 2.4.2.18)	2.4.2.18	PF00591;	Ruficoccus amylovorans
+A0A842HDE5	A0A842HDE5	unreviewed	Cytidine deaminase (EC 3.5.4.5)	3.5.4.5	PF00383;PF08211;	Ruficoccus amylovorans
+A0A842LDU7	A0A842LDU7		deleted			
+A0A842P7E8	A0A842P7E8		deleted			
+A0A842PVD6	A0A842PVD6		deleted			
+A0A842SM25	A0A842SM25		deleted			
+A0A842U6R5	A0A842U6R5		deleted			
+A0A842UGT9	A0A842UGT9		deleted			
+A0A842V530	A0A842V530		deleted			
+A0A842VCC5	A0A842VCC5		deleted			
+A0A842VVB0	A0A842VVB0		deleted			
+A0A842W270	A0A842W270		deleted			
+A0A842WGS1	A0A842WGS1		deleted			
+A0A842X5D6	A0A842X5D6		deleted			
+A0A842XE41	A0A842XE41		deleted			
+A0A842XMR6	A0A842XMR6		deleted			
+A0A842YDF9	A0A842YDF9		deleted			
+A0A843ACP4	A0A843ACP4		deleted			
+A0A843AMP6	A0A843AMP6		deleted			
+A0A843D522	A0A843D522		deleted			
+A0A843I2E2	A0A843I2E2		deleted			
+A0A843J828	A0A843J828		deleted			
+A0A843S527	A0A843S527		deleted			
+A0A843T6I0	A0A843T6I0		deleted			
+A0A843Z2I2	A0A843Z2I2		deleted			
+A0A844C7Y7	A0A844C7Y7		deleted			
+A0A844DY51	A0A844DY51		deleted			
+A0A844FK43	A0A844FK43		deleted			
+A0A844MQY2	A0A844MQY2		deleted			
+A0A844QAW3	A0A844QAW3		deleted			
+A0A845DCL4	A0A845DCL4		deleted			
+A0A845JWH4	A0A845JWH4		deleted			
+A0A845LF04	A0A845LF04	unreviewed	Pyrimidine-nucleoside phosphorylase (EC 2.4.2.2)	2.4.2.2	PF02885;PF00591;PF07831;	Heliomicrobium gestii (Heliobacterium gestii)
+A0A845LQC8	A0A845LQC8		deleted			
+A0A845PUZ8	A0A845PUZ8	unreviewed	Cytidine deaminase (EC 3.5.4.5) (Cytidine aminohydrolase)	3.5.4.5	PF00383;	Elizabethkingia argenteiflava
+A0A845XYB9	A0A845XYB9		deleted			
+A0A846HWN6	A0A846HWN6		deleted			
+A0A846P778	A0A846P778		deleted			
+A0A846S594	A0A846S594	unreviewed	Cytidine deaminase (EC 3.5.4.5)	3.5.4.5	PF00383;	Brevibacterium marinum
+A0A846STH5	A0A846STH5		deleted			
+A0A846TTG6	A0A846TTG6	unreviewed	Cytidine deaminase (EC 3.5.4.5) (Cytidine aminohydrolase)	3.5.4.5	PF00383;	Kocuria subflava
+A0A846U4A4	A0A846U4A4	unreviewed	Thymidine phosphorylase (EC 2.4.2.4)	2.4.2.4	PF02885;PF00591;PF07831;	Spiroplasma platyhelix PALS-1
+A0A846U4J3	A0A846U4J3	unreviewed	Nitroreductase domain-containing protein		PF00881;	Spiroplasma platyhelix PALS-1
+A0A846XA40	A0A846XA40	unreviewed	NADH-dependent FMN reductase		PF03358;	Nocardia speluncae
+A0A846ZQ02	A0A846ZQ02	unreviewed	Cytidine deaminase (EC 3.5.4.5) (Cytidine aminohydrolase)	3.5.4.5	PF00383;	Oleiagrimonas citrea
+A0A847AWY6	A0A847AWY6		deleted			
+A0A847BN68	A0A847BN68		deleted			
+A0A847DNQ5	A0A847DNQ5		deleted			
+A0A847E3G5	A0A847E3G5		deleted			
+A0A847FD21	A0A847FD21		deleted			
+A0A847GA39	A0A847GA39		deleted			
+A0A847HW50	A0A847HW50		deleted			
+A0A847KQD9	A0A847KQD9		deleted			
+A0A847LZ87	A0A847LZ87		deleted			
+A0A847N2T8	A0A847N2T8		deleted			
+A0A847PCM1	A0A847PCM1		deleted			
+A0A847Q222	A0A847Q222		deleted			
+A0A847QL38	A0A847QL38		deleted			
+A0A847VZ90	A0A847VZ90		deleted			
+A0A847W2D8	A0A847W2D8		deleted			
+A0A847WHR8	A0A847WHR8		deleted			
+A0A847WXI2	A0A847WXI2		deleted			
+A0A847XY96	A0A847XY96		deleted			
+A0A847Y8W9	A0A847Y8W9		deleted			
+A0A848AV53	A0A848AV53		deleted			
+A0A848DTE4	A0A848DTE4	unreviewed	NAD(P)H-dependent oxidoreductase		PF03358;	Pseudonocardia bannensis
+A0A848I0H2	A0A848I0H2		deleted			
+A0A848LGN5	A0A848LGN5	unreviewed	Pyridoxal-dependent decarboxylase		PF00282;	Pyxidicoccus fallax
+A0A848MLB4	A0A848MLB4	unreviewed	Oxygen-insensitive NADPH nitroreductase (EC 1.5.1.38)	1.5.1.38	PF00881;PF28600;	Rouxiella aceris
+A0A848RTF9	A0A848RTF9		deleted			
+A0A848RUB5	A0A848RUB5		deleted			
+A0A848T8B5	A0A848T8B5		deleted			
+A0A848VSA5	A0A848VSA5		deleted			
+A0A848W711	A0A848W711		deleted			
+A0A848XVC6	A0A848XVC6		deleted			
+A0A848Y1Z3	A0A848Y1Z3		deleted			
+A0A849DU38	A0A849DU38		deleted			
+A0A849FJN3	A0A849FJN3		deleted			
+A0A849GVC3	A0A849GVC3		deleted			
+A0A849Q2R1	A0A849Q2R1		deleted			
+A0A849R881	A0A849R881		deleted			
+A0A849WFX2	A0A849WFX2		deleted			
+A0A849WPA5	A0A849WPA5		deleted			
+A0A849WR16	A0A849WR16		deleted			
+A0A850BBN6	A0A850BBN6		deleted			
+A0A850C5W5	A0A850C5W5		deleted			
+A0A850CFK8	A0A850CFK8		deleted			
+A0A850DIY3	A0A850DIY3		deleted			
+A0A850H689	A0A850H689	unreviewed	NAD-dependent epimerase/dehydratase family protein		PF01370;	Altererythrobacter lutimaris
+A0A850K8K8	A0A850K8K8		deleted			
+A0A850KTN6	A0A850KTN6		deleted			
+A0A850LW71	A0A850LW71		deleted			
+A0A850M1F4	A0A850M1F4		deleted			
+A0A850M5S5	A0A850M5S5		deleted			
+A0A850MCW2	A0A850MCW2		deleted			
+A0A850ME15	A0A850ME15		deleted			
+A0A850MHY8	A0A850MHY8		deleted			
+A0A850PQK0	A0A850PQK0	unreviewed	Putative NADH dehydrogenase/NAD(P)H nitroreductase		PF00881;	Mycolicibacterium hippocampi
+A0A850Q656	A0A850Q656		deleted			
+A0A850QZL8	A0A850QZL8		deleted			
+A0A850X0K1	A0A850X0K1	unreviewed	BGLR glucuronidase		PF00703;PF02836;PF02837;	Piaya cayana (Common squirrel cuckoo)
+A0A851GH65	A0A851GH65	unreviewed	Discoidin domain-containing protein		PF16355;PF00754;PF00703;PF02836;PF02837;	Oceaniferula marina
+A0A851GLC3	A0A851GLC3	unreviewed	beta-galactosidase (EC 3.2.1.23) (Lactase)	3.2.1.23	PF02929;PF00703;PF02836;PF02837;	Oceaniferula marina
+A0A851H1N6	A0A851H1N6		deleted			
+A0A851INB9	A0A851INB9		deleted			
+A0A851UV54	A0A851UV54	unreviewed	TYPH phosphorylase		PF07831;	Elachura formosa (spotted wren-babbler)
+A0A852TED7	A0A852TED7		deleted			
+A0A852TKN0	A0A852TKN0		deleted			
+A0A852U6J4	A0A852U6J4		deleted			
+A0A852WEE0	A0A852WEE0	unreviewed	Cytidine deaminase (EC 3.5.4.5)	3.5.4.5	PF00383;	Pedococcus badiiscoriae
+A0A852WGY8	A0A852WGY8	unreviewed	Nitroreductase		PF00881;	Pedococcus badiiscoriae
+A0A852Z4V9	A0A852Z4V9	unreviewed	SagB-type dehydrogenase family enzyme		PF00881;	Actinopolyspora biskrensis
+A0A853BKS4	A0A853BKS4	unreviewed	Uncharacterized protein YbjT (DUF2867 family)		PF05368;	Streptomonospora nanhaiensis
+A0A853I4Z0	A0A853I4Z0	unreviewed	tyrosine decarboxylase (EC 4.1.1.25)	4.1.1.25	PF00282;PF21391;	Spartinivicinus marinus
+A0A853I604	A0A853I604	unreviewed	NAD-dependent epimerase/dehydratase family protein		PF01370;	Spartinivicinus marinus
+A0A853KB59	A0A853KB59		deleted			
+A0A853PPN8	A0A853PPN8		deleted			
+A0A853U7S1	A0A853U7S1		deleted			
+A0A853V272	A0A853V272		deleted			
+A0A859FB41	A0A859FB41	unreviewed	Glycosyl hydrolases family 2 sugar binding domain-containing protein			Paenalkalicoccus suaedae
+A0A895XSU6	A0A895XSU6	unreviewed	Anthranilate phosphoribosyltransferase (EC 2.4.2.18)	2.4.2.18	PF02885;PF00591;	Natronoglycomyces albus
+A0A8A1LN56	A0A8A1LN56		deleted			
+A0A8A1M1R9	A0A8A1M1R9		deleted			
+A0A8A4TK64	A0A8A4TK64	unreviewed	Aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme		PF00282;	Sulfidibacter corallicola
+A0A8A4TLR6	A0A8A4TLR6	unreviewed	NAD(P)H-dependent oxidoreductase		PF03358;	Sulfidibacter corallicola
+A0A8A4TNV7	A0A8A4TNV7	unreviewed	Pyridoxal phosphate-dependent decarboxylase major domain-containing protein		PF00282;	Sulfidibacter corallicola
+A0A8B2U683	A0A8B2U683		deleted			
+A0A8B3LQP4	A0A8B3LQP4		deleted			
+A0A8B4Q9D3	A0A8B4Q9D3	unreviewed	Nitroreductase domain-containing protein		PF00881;	Kurthia zopfii
+A0A8B6CK06	A0A8B6CK06	unreviewed	Glutamate decarboxylase (EC 4.1.1.15)	4.1.1.15	PF00282;	Mytilus galloprovincialis (Mediterranean mussel)
+A0A8B6FAM4	A0A8B6FAM4	unreviewed	Pyridoxal phosphate-dependent decarboxylase major domain-containing protein		PF00282;	Mytilus galloprovincialis (Mediterranean mussel)
+A0A8B6FLW0	A0A8B6FLW0	unreviewed	Pyridoxal phosphate-dependent decarboxylase major domain-containing protein		PF00282;	Mytilus galloprovincialis (Mediterranean mussel)
+A0A8B6X490	A0A8B6X490	unreviewed	Nitroreductase family protein (EC 1.-.-.-)	1.-.-.-	PF00881;	Derxia gummosa DSM 723
+A0A8B7NI37	A0A8B7NI37	unreviewed	Beta-glucuronidase (EC 3.2.1.31)	3.2.1.31	PF00703;PF02836;PF02837;	Hyalella azteca (Mexican freshwater shrimp) (Ampithoe aztecus)
+A0A8B7NP44	A0A8B7NP44	unreviewed	Thymidine phosphorylase (TP) (EC 2.4.2.4) (TdRPase)	2.4.2.4	PF02885;PF00591;PF07831;	Hyalella azteca (Mexican freshwater shrimp) (Ampithoe aztecus)
+A0A8B7YCM9	A0A8B7YCM9	unreviewed	Cytidine deaminase (EC 3.5.4.5) (Cytidine aminohydrolase)	3.5.4.5	PF00383;	Acanthaster planci (Crown-of-thorns starfish)
+A0A8B8CXJ3	A0A8B8CXJ3	unreviewed	Glutamate decarboxylase 1-like isoform X1		PF00282;	Crassostrea virginica (Eastern oyster)
+A0A8B8PU07	A0A8B8PU07		deleted			
+A0A8B8QRN7	A0A8B8QRN7		deleted			
+A0A8B8RBA6	A0A8B8RBA6	unreviewed	Acidic amino acid decarboxylase GADL1 isoform X1		PF00282;	Camelus ferus (Wild bactrian camel) (Camelus bactrianus ferus)
+A0A8B8RE46	A0A8B8RE46	unreviewed	Beta-glucuronidase (EC 3.2.1.31)	3.2.1.31	PF00703;PF02836;PF02837;	Camelus ferus (Wild bactrian camel) (Camelus bactrianus ferus)
+A0A8B9CX80	A0A8B9CX80	unreviewed	Thymidine phosphorylase		PF00591;PF07831;	Anser brachyrhynchus (Pink-footed goose)
+A0A8B9DL40	A0A8B9DL40	unreviewed	Cytidine deaminase (EC 3.5.4.5) (Cytidine aminohydrolase)	3.5.4.5	PF00383;	Anser cygnoides (Swan goose)
+A0A8B9ECY6	A0A8B9ECY6	unreviewed	Glutamate decarboxylase 1 (EC 4.1.1.15)	4.1.1.15	PF00282;	Anser cygnoides (Swan goose)
+A0A8B9G242	A0A8B9G242	unreviewed	Glutamate decarboxylase 1 (EC 4.1.1.15)	4.1.1.15	PF00282;	Amazona collaria (yellow-billed parrot)
+A0A8B9I064	A0A8B9I064		deleted			
+A0A8B9LI32	A0A8B9LI32		deleted			
+A0A8B9LW66	A0A8B9LW66		deleted			
+A0A8B9SB12	A0A8B9SB12	unreviewed	Serine/threonine-protein kinase PINK1, mitochondrial (EC 2.7.11.1) (EC 3.5.4.5) (Cytidine aminohydrolase) (Serine/threonine-protein kinase Pink1, mitochondrial)	2.7.11.1; 3.5.4.5	PF00383;PF00069;	Apteryx owenii (Little spotted kiwi)
+A0A8B9UDA0	A0A8B9UDA0	unreviewed	Cytidine deaminase (EC 3.5.4.5) (Cytidine aminohydrolase)	3.5.4.5	PF00383;	Anas zonorhyncha (Eastern spot-billed duck)
+A0A8B9V7X5	A0A8B9V7X5	unreviewed	cytidine deaminase (EC 3.5.4.5) (Cytidine aminohydrolase)	3.5.4.5	PF00383;	Anas zonorhyncha (Eastern spot-billed duck)
+A0A8C0Q0H6	A0A8C0Q0H6		deleted			
+A0A8C0QB44	A0A8C0QB44		deleted			
+A0A8C0T153	A0A8C0T153		deleted			
+A0A8C0TGM2	A0A8C0TGM2		deleted			
+A0A8C1DHJ0	A0A8C1DHJ0	unreviewed	Glutamate decarboxylase 1 (EC 4.1.1.15)	4.1.1.15	PF00282;	Cyprinus carpio carpio
+A0A8C1GCH4	A0A8C1GCH4	unreviewed	Cytidine deaminase (EC 3.5.4.5) (Cytidine aminohydrolase)	3.5.4.5	PF00383;	Cyprinus carpio (Common carp)
+A0A8C1H9T2	A0A8C1H9T2	unreviewed	Glutamate decarboxylase 1b		PF00282;	Cyprinus carpio carpio
+A0A8C1I871	A0A8C1I871	unreviewed	Cytidine deaminase (EC 3.5.4.5) (Cytidine aminohydrolase)	3.5.4.5	PF00383;	Cyprinus carpio (Common carp)
+A0A8C1QIB4	A0A8C1QIB4	unreviewed	Glutamate decarboxylase 1b		PF00282;	Cyprinus carpio (Common carp)
+A0A8C1ULA6	A0A8C1ULA6		deleted			
+A0A8C1YBX5	A0A8C1YBX5	unreviewed	Glutamate decarboxylase 2 (EC 4.1.1.15) (65 kDa glutamic acid decarboxylase) (Glutamate decarboxylase 65 kDa isoform)	4.1.1.15	PF00282;	Cyprinus carpio (Common carp)
+A0A8C1ZID0	A0A8C1ZID0		deleted			
+A0A8C2EXW4	A0A8C2EXW4		deleted			
+A0A8C2HHQ0	A0A8C2HHQ0		deleted			
+A0A8C2ICW6	A0A8C2ICW6		deleted			
+A0A8C2KGU6	A0A8C2KGU6		deleted			
+A0A8C2KL67	A0A8C2KL67		deleted			
+A0A8C2PV84	A0A8C2PV84		deleted			
+A0A8C2TLK5	A0A8C2TLK5	unreviewed	Glutamate decarboxylase like 1		PF00282;	Coturnix japonica (Japanese quail) (Coturnix coturnix japonica)
+A0A8C2WKC6	A0A8C2WKC6	unreviewed	Cytidine deaminase (EC 3.5.4.5) (Cytidine aminohydrolase)	3.5.4.5	PF00383;	Cyclopterus lumpus (Lumpsucker)
+A0A8C3BKG8	A0A8C3BKG8	unreviewed	cytidine deaminase (EC 3.5.4.5) (Cytidine aminohydrolase)	3.5.4.5	PF00383;	Cairina moschata (Muscovy duck)
+A0A8C3GM28	A0A8C3GM28	unreviewed	Glutamate decarboxylase like 1		PF00282;	Cairina moschata (Muscovy duck)
+A0A8C3HQD0	A0A8C3HQD0	unreviewed	Glutamate decarboxylase 2 (EC 4.1.1.15) (65 kDa glutamic acid decarboxylase) (Glutamate decarboxylase 65 kDa isoform)	4.1.1.15	PF00282;	Chrysemys picta bellii (Western painted turtle) (Emys bellii)
+A0A8C3HQT6	A0A8C3HQT6	unreviewed	Glutamate decarboxylase 2 (EC 4.1.1.15) (65 kDa glutamic acid decarboxylase) (Glutamate decarboxylase 65 kDa isoform)	4.1.1.15	PF00282;	Chrysemys picta bellii (Western painted turtle) (Emys bellii)
+A0A8C3IH31	A0A8C3IH31	unreviewed	Cytidine deaminase (EC 3.5.4.5) (Cytidine aminohydrolase)	3.5.4.5	PF00383;	Chrysemys picta bellii (Western painted turtle) (Emys bellii)
+A0A8C3K0H2	A0A8C3K0H2	unreviewed	Cytidine deaminase (EC 3.5.4.5) (Cytidine aminohydrolase)	3.5.4.5	PF00383;	Calidris pygmaea (Spoon-billed sandpiper)
+A0A8C3RHK3	A0A8C3RHK3	unreviewed	Glutamate decarboxylase 1 (EC 4.1.1.15)	4.1.1.15	PF00282;	Cyanoderma ruficeps (rufous-capped babbler)
+A0A8C3T0V4	A0A8C3T0V4	unreviewed	Thymidine phosphorylase (TP) (EC 2.4.2.4) (TdRPase)	2.4.2.4	PF02885;PF00591;PF07831;	Chelydra serpentina (Snapping turtle) (Testudo serpentina)
+A0A8C4CEU8	A0A8C4CEU8	unreviewed	Cytidine deaminase (EC 3.5.4.5) (Cytidine aminohydrolase)	3.5.4.5	PF00383;	Denticeps clupeoides (denticle herring)
+A0A8C4DC18	A0A8C4DC18	unreviewed	Glutamate decarboxylase 1b		PF00282;	Dicentrarchus labrax (European seabass) (Morone labrax)
+A0A8C4JMW5	A0A8C4JMW5	unreviewed	Glutamate decarboxylase 2 (EC 4.1.1.15) (65 kDa glutamic acid decarboxylase) (Glutamate decarboxylase 65 kDa isoform)	4.1.1.15	PF00282;	Dromaius novaehollandiae (Emu)
+A0A8C4NF72	A0A8C4NF72	unreviewed	Cytidine deaminase (EC 3.5.4.5) (Cytidine aminohydrolase)	3.5.4.5	PF00383;	Eptatretus burgeri (Inshore hagfish)
+A0A8C4NKM1	A0A8C4NKM1	unreviewed	Cytidine deaminase (EC 3.5.4.5) (Cytidine aminohydrolase)	3.5.4.5	PF00383;	Eptatretus burgeri (Inshore hagfish)
+A0A8C4P648	A0A8C4P648	unreviewed	Glutamate decarboxylase 2 (EC 4.1.1.15) (65 kDa glutamic acid decarboxylase) (Glutamate decarboxylase 65 kDa isoform)	4.1.1.15	PF00282;	Dromaius novaehollandiae (Emu)
+A0A8C4PLG7	A0A8C4PLG7		deleted			
+A0A8C4Q4U5	A0A8C4Q4U5	unreviewed	Glutamate decarboxylase 1 (EC 4.1.1.15)	4.1.1.15	PF00282;	Eptatretus burgeri (Inshore hagfish)
+A0A8C4R398	A0A8C4R398	unreviewed	Thymidine phosphorylase (TP) (EC 2.4.2.4) (TdRPase)	2.4.2.4	PF02885;PF00591;	Eptatretus burgeri (Inshore hagfish)
+A0A8C5A9P5	A0A8C5A9P5	unreviewed	Pyridoxal phosphate-dependent decarboxylase major domain-containing protein		PF00282;	Gadus morhua (Atlantic cod)
+A0A8C5FTB3	A0A8C5FTB3	unreviewed	Pyridoxal phosphate-dependent decarboxylase major domain-containing protein		PF00282;	Gadus morhua (Atlantic cod)
+A0A8C5HSN8	A0A8C5HSN8	unreviewed	Glutamate decarboxylase 2 (EC 4.1.1.15) (65 kDa glutamic acid decarboxylase) (Glutamate decarboxylase 65 kDa isoform)	4.1.1.15	PF00282;	Gouania willdenowi (Blunt-snouted clingfish) (Lepadogaster willdenowi)
+A0A8C5I444	A0A8C5I444	unreviewed	Glutamate decarboxylase 1-like		PF00282;	Gouania willdenowi (Blunt-snouted clingfish) (Lepadogaster willdenowi)
+A0A8C5I473	A0A8C5I473	unreviewed	Glutamate decarboxylase 1-like		PF00282;	Gouania willdenowi (Blunt-snouted clingfish) (Lepadogaster willdenowi)
+A0A8C5QRZ1	A0A8C5QRZ1	unreviewed	Thymidine phosphorylase (TP) (EC 2.4.2.4) (TdRPase)	2.4.2.4	PF02885;PF00591;PF07831;	Leptobrachium leishanense (Leishan spiny toad)
+A0A8C5V7G4	A0A8C5V7G4	unreviewed	Glucuronidase beta		PF02836;PF02837;	Microcebus murinus (Gray mouse lemur) (Lemur murinus)
+A0A8C5WIH6	A0A8C5WIH6	unreviewed	Thymidine phosphorylase (TP) (EC 2.4.2.4) (TdRPase)	2.4.2.4	PF02885;PF00591;PF07831;	Leptobrachium leishanense (Leishan spiny toad)
+A0A8C5WQZ4	A0A8C5WQZ4	unreviewed	Serine/threonine-protein kinase PINK1, mitochondrial (EC 2.7.11.1) (EC 3.5.4.5) (Cytidine aminohydrolase) (Serine/threonine-protein kinase Pink1, mitochondrial)	2.7.11.1; 3.5.4.5	PF00383;PF00069;	Laticauda laticaudata (Blue-ringed sea krait) (Blue-lipped sea krait)
+A0A8C6EPV3	A0A8C6EPV3	unreviewed	Thymidine phosphorylase		PF02885;PF00591;	Marmota marmota marmota (Alpine marmot)
+A0A8C6Q3R5	A0A8C6Q3R5	unreviewed	Glutamate decarboxylase 1 (EC 4.1.1.15)	4.1.1.15	PF00282;	Nothobranchius furzeri (Turquoise killifish)
+A0A8C6SN67	A0A8C6SN67	unreviewed	Glutamate decarboxylase 1b		PF00282;	Neogobius melanostomus (round goby)
+A0A8C7ES67	A0A8C7ES67	unreviewed	Cytidine deaminase (EC 3.5.4.5) (Cytidine aminohydrolase)	3.5.4.5	PF00383;	Neogale vison (American mink) (Mustela vison)
+A0A8C7G3R0	A0A8C7G3R0	unreviewed	Glutamate decarboxylase like 1		PF00282;	Oncorhynchus kisutch (Coho salmon) (Salmo kisutch)
+A0A8C7LAH8	A0A8C7LAH8	unreviewed	Glutamate decarboxylase 1b		PF00282;	Oncorhynchus kisutch (Coho salmon) (Salmo kisutch)
+A0A8C7M8A9	A0A8C7M8A9	unreviewed	Cytidine deaminase (EC 3.5.4.5) (Cytidine aminohydrolase)	3.5.4.5	PF00383;	Oncorhynchus kisutch (Coho salmon) (Salmo kisutch)
+A0A8C7PBE7	A0A8C7PBE7	unreviewed	Beta-glucuronidase (EC 3.2.1.31)	3.2.1.31	PF02836;PF02837;	Oncorhynchus mykiss (Rainbow trout) (Salmo gairdneri)
+A0A8C7TTU8	A0A8C7TTU8	unreviewed	Glutamate decarboxylase like 1		PF00282;	Oncorhynchus mykiss (Rainbow trout) (Salmo gairdneri)
+A0A8C7VTI3	A0A8C7VTI3	unreviewed	Glycosyl transferase family 3 domain-containing protein		PF00591;	Oncorhynchus mykiss (Rainbow trout) (Salmo gairdneri)
+A0A8C7XH86	A0A8C7XH86	unreviewed	Glutamate decarboxylase 1b		PF00282;	Oryzias sinensis (Chinese medaka)
+A0A8C8S8I9	A0A8C8S8I9	unreviewed	Thymidine phosphorylase (TP) (EC 2.4.2.4) (TdRPase)	2.4.2.4	PF02885;PF00591;PF07831;	Pelusios castaneus (West African mud turtle)
+A0A8C9FZ92	A0A8C9FZ92	unreviewed	Glutamate decarboxylase like 1		PF00282;	Pavo cristatus (Indian peafowl) (Blue peafowl)
+A0A8C9GGJ9	A0A8C9GGJ9	unreviewed	cytidine deaminase (EC 3.5.4.5) (Cytidine aminohydrolase)	3.5.4.5	PF00383;	Piliocolobus tephrosceles (Ugandan red Colobus)
+A0A8C9GKC9	A0A8C9GKC9	unreviewed	Cytidine deaminase		PF00383;	Piliocolobus tephrosceles (Ugandan red Colobus)
+A0A8C9H6T8	A0A8C9H6T8	unreviewed	Thymidine phosphorylase		PF02885;PF00591;	Piliocolobus tephrosceles (Ugandan red Colobus)
+A0A8C9UBE8	A0A8C9UBE8	unreviewed	Glutamate decarboxylase 1 (EC 4.1.1.15)	4.1.1.15	PF00282;	Scleropages formosus (Asian bonytongue) (Osteoglossum formosum)
+A0A8C9YBS4	A0A8C9YBS4	unreviewed	Thymidine phosphorylase (TP) (EC 2.4.2.4) (TdRPase)	2.4.2.4	PF02885;PF00591;PF07831;	Sander lucioperca (Pike-perch) (Perca lucioperca)
+A0A8D0CEE7	A0A8D0CEE7	unreviewed	Glutamate decarboxylase 1 (EC 4.1.1.15)	4.1.1.15	PF00282;	Scleropages formosus (Asian bonytongue) (Osteoglossum formosum)
+A0A8D0GS29	A0A8D0GS29	unreviewed	Thymidine phosphorylase (TP) (EC 2.4.2.4) (TdRPase)	2.4.2.4	PF02885;PF00591;	Sphenodon punctatus (Tuatara) (Hatteria punctata)
+A0A8D0HPA8	A0A8D0HPA8	unreviewed	Cytidine deaminase		PF00383;	Sphenodon punctatus (Tuatara) (Hatteria punctata)
+A0A8D1E120	A0A8D1E120		deleted			
+A0A8D1FGD3	A0A8D1FGD3		deleted			
+A0A8D2E753	A0A8D2E753	unreviewed	Thymidine phosphorylase		PF02885;PF00591;	Theropithecus gelada (Gelada baboon)
+A0A8D2MZF9	A0A8D2MZF9	unreviewed	Beta-glucuronidase (EC 3.2.1.31)	3.2.1.31	PF00703;PF02836;PF02837;	Zonotrichia albicollis (White-throated sparrow) (Fringilla albicollis)
+A0A8D2PZS3	A0A8D2PZS3	unreviewed	Cytidine deaminase (EC 3.5.4.5) (Cytidine aminohydrolase)	3.5.4.5	PF00383;	Varanus komodoensis (Komodo dragon)
+A0A8D3D6V2	A0A8D3D6V2		deleted			
+A0A8D5ZFN7	A0A8D5ZFN7		deleted			
+A0A8D7F663	A0A8D7F663		deleted			
+A0A8D8G2L1	A0A8D8G2L1		deleted			
+A0A8D8GUG0	A0A8D8GUG0		deleted			
+A0A8D8LEE9	A0A8D8LEE9		deleted			
+A0A8D8LS61	A0A8D8LS61		deleted			
+A0A8D8TNR0	A0A8D8TNR0		deleted			
+A0A8D8Z2T0	A0A8D8Z2T0		deleted			
+A0A8D9DBS4	A0A8D9DBS4	unreviewed	NAD(P)H dehydrogenase (quinone) (EC 1.6.5.2)	1.6.5.2	PF03358;	Brassica campestris (Field mustard)
+A0A8D9DKN3	A0A8D9DKN3	unreviewed	Uncharacterized protein			Brassica campestris (Field mustard)
+A0A8D9PAF5	A0A8D9PAF5		deleted			
+A0A8E0ISE3	A0A8E0ISE3		deleted			
+A0A8E0UZC9	A0A8E0UZC9		deleted			
+A0A8E0V5K1	A0A8E0V5K1		deleted			
+A0A8E0V770	A0A8E0V770		deleted			
+A0A8E1WKM9	A0A8E1WKM9		deleted			
+A0A8E2KUM9	A0A8E2KUM9		deleted			
+A0A8E6B1C4	A0A8E6B1C4	unreviewed	NAD(P)H-dependent oxidoreductase		PF00881;	Telmatocola sphagniphila
+A0A8F4FZL1	A0A8F4FZL1		deleted			
+A0A8F6TZQ8	A0A8F6TZQ8	unreviewed	Amino acid decarboxylase		PF00282;	Gymnodinialimonas ceratoperidinii
+A0A8G0PNY3	A0A8G0PNY3	unreviewed	NAD(P)-binding domain-containing protein		PF13460;	Trichoderma simmonsii
+A0A8G1H722	A0A8G1H722		deleted			
+A0A8G1YTU6	A0A8G1YTU6		deleted			
+A0A8H1L6Q7	A0A8H1L6Q7		deleted			
+A0A8H2XUI2	A0A8H2XUI2		deleted			
+A0A8H2ZXH9	A0A8H2ZXH9	unreviewed	cytidine deaminase (EC 3.5.4.5) (Cytidine aminohydrolase)	3.5.4.5	PF00383;	Sclerotinia trifoliorum
+A0A8H3AWD8	A0A8H3AWD8		deleted			
+A0A8H3FFK0	A0A8H3FFK0	unreviewed	Cytidine deaminase (EC 3.5.4.5) (Cytidine aminohydrolase)	3.5.4.5	PF00383;	Imshaugia aleurites
+A0A8H3FQL4	A0A8H3FQL4	unreviewed	Pyridoxal phosphate-dependent decarboxylase major domain-containing protein		PF00282;	Gomphillus americanus
+A0A8H3FRB7	A0A8H3FRB7	unreviewed	NmrA-like domain-containing protein		PF05368;	Gomphillus americanus
+A0A8H3FWS1	A0A8H3FWS1	unreviewed	Pyridoxal phosphate-dependent decarboxylase major domain-containing protein		PF00282;	Gomphillus americanus
+A0A8H3GCS3	A0A8H3GCS3		deleted			
+A0A8H3HE99	A0A8H3HE99		deleted			
+A0A8H3X9D1	A0A8H3X9D1	unreviewed	PLP-dependent transferase		PF31265;PF31270;PF00282;	Gigaspora margarita
+A0A8H4AWP6	A0A8H4AWP6	unreviewed	PLP-dependent transferase		PF00282;	Gigaspora margarita
+A0A8H4GJW2	A0A8H4GJW2	unreviewed	CMP/dCMP-type deaminase domain-containing protein		PF00383;	Aspergillus fumigatiaffinis
+A0A8H4UB18	A0A8H4UB18	unreviewed	Nitroreductase domain-containing protein		PF00881;	Fusarium sarcochroum
+A0A8H4UYU8	A0A8H4UYU8		deleted			
+A0A8H5KMP8	A0A8H5KMP8	unreviewed	Nitroreductase		PF00881;PF28600;	Fusarium pseudocircinatum
+A0A8H5LRN1	A0A8H5LRN1	unreviewed	PLP-dependent transferase		PF31265;PF31270;PF00282;	Tetrapyrgos nigripes
+A0A8H5MCY1	A0A8H5MCY1	unreviewed	NAD(P)-binding domain-containing protein		PF13460;	Collybiopsis confluens
+A0A8H5NM10	A0A8H5NM10	unreviewed	tyrosine decarboxylase (EC 4.1.1.25)	4.1.1.25	PF31265;PF31270;PF00282;PF21391;	Fusarium phyllophilum
+A0A8H5RB63	A0A8H5RB63		deleted			
+A0A8H5TS17	A0A8H5TS17	unreviewed	Nucleoside-diphosphate-sugar epimerase		PF05368;	Fusarium circinatum (Pitch canker fungus) (Gibberella circinata)
+A0A8H5Y6E0	A0A8H5Y6E0	unreviewed	Nitroreductase domain-containing protein		PF00881;	Fusarium globosum
+A0A8H6A829	A0A8H6A829	unreviewed	Pyridoxal phosphate-dependent decarboxylase major domain-containing protein		PF00282;	Petromyces alliaceus (Aspergillus alliaceus)
+A0A8H6ABG0	A0A8H6ABG0	unreviewed	Pyridoxal phosphate-dependent decarboxylase major domain-containing protein		PF00282;	Petromyces alliaceus (Aspergillus alliaceus)
+A0A8H6RJB5	A0A8H6RJB5	unreviewed	Nucleolar protein 9		PF22493;PF00282;	Pseudocercospora fuligena
+A0A8H6WBQ7	A0A8H6WBQ7		deleted			
+A0A8H6Z516	A0A8H6Z516	unreviewed	tyrosine decarboxylase (EC 4.1.1.25)	4.1.1.25	PF31265;PF31270;PF21391;	Mycena sanguinolenta
+A0A8H6ZAG5	A0A8H6ZAG5	unreviewed	tyrosine decarboxylase (EC 4.1.1.25)	4.1.1.25	PF31265;PF31270;PF21391;	Mycena sanguinolenta
+A0A8H6ZXF8	A0A8H6ZXF8	unreviewed	tyrosine decarboxylase (EC 4.1.1.25)	4.1.1.25	PF00282;PF21391;	Pleurotus ostreatus (Oyster mushroom) (Agaricus ostreatus)
+A0A8H6ZYF6	A0A8H6ZYF6	unreviewed	Delta(14)-sterol reductase ERG24 (EC 1.3.1.70) (EC 3.5.4.5) (C-14 sterol reductase ERG24) (Cytidine aminohydrolase) (Sterol C14-reductase ERG24)	1.3.1.70; 3.5.4.5	PF00383;PF01222;	Pleurotus ostreatus (Oyster mushroom) (Agaricus ostreatus)
+A0A8H7DXU4	A0A8H7DXU4	unreviewed	Cytidine deaminase (EC 3.5.4.5) (Cytidine aminohydrolase)	3.5.4.5	PF00383;	Pleurotus ostreatus (Oyster mushroom) (Agaricus ostreatus)
+A0A8H7HAB0	A0A8H7HAB0		deleted			
+A0A8H7N4L9	A0A8H7N4L9		deleted			
+A0A8H7Q6X3	A0A8H7Q6X3	unreviewed	NmrA-like domain-containing protein		PF05368;	Mortierella isabellina (Filamentous fungus) (Umbelopsis isabellina)
+A0A8H7RR56	A0A8H7RR56	unreviewed	Cytidine deaminase (EC 3.5.4.5) (Cytidine aminohydrolase)	3.5.4.5	PF00383;	Mucor saturninus
+A0A8H7SMV6	A0A8H7SMV6	unreviewed	NmrA-like domain-containing protein		PF05368;	Thamnidium elegans
+A0A8H7Y357	A0A8H7Y357		deleted			
+A0A8H8A326	A0A8H8A326		deleted			
+A0A8H8U8T1	A0A8H8U8T1	unreviewed	beta-mannosidase (EC 3.2.1.25)	3.2.1.25	PF00703;PF22666;	Lachnellula subtilissima
+A0A8H8UA56	A0A8H8UA56	unreviewed	Putative nitroreductase		PF00881;	Lachnellula occidentalis
+A0A8H8WVN8	A0A8H8WVN8		deleted			
+A0A8H9F7A4	A0A8H9F7A4		deleted			
+A0A8H9HCJ8	A0A8H9HCJ8	unreviewed	NADPH-dependent oxidoreductase		PF00881;PF28600;	Actinomyces gaoshouyii
+A0A8H9L1F4	A0A8H9L1F4		deleted			
+A0A8H9WCB3	A0A8H9WCB3		deleted			
+A0A8H9Y9R4	A0A8H9Y9R4		deleted			
+A0A8I0TQA0	A0A8I0TQA0	unreviewed	NAD(P)H dehydrogenase (Quinone) (EC 1.6.5.2)	1.6.5.2	PF13460;	Streptomyces stelliscabiei
+A0A8I1AB51	A0A8I1AB51	unreviewed	NADPH-dependent FMN reductase (EC 1.5.1.38)	1.5.1.38	PF03358;	Thermoactinomyces intermedius
+A0A8I1GU90	A0A8I1GU90		deleted			
+A0A8I1KJG8	A0A8I1KJG8	unreviewed	Anthranilate phosphoribosyltransferase (EC 2.4.2.18)	2.4.2.18	PF02885;PF00591;	Rhodomicrobium udaipurense
+A0A8I1Q9Q4	A0A8I1Q9Q4		deleted			
+A0A8I1S666	A0A8I1S666		deleted			
+A0A8I1SAR2	A0A8I1SAR2		deleted			
+A0A8I1SNR1	A0A8I1SNR1		deleted			
+A0A8I2BBZ3	A0A8I2BBZ3		deleted			
+A0A8I2CUY4	A0A8I2CUY4		deleted			
+A0A8I2K046	A0A8I2K046		deleted			
+A0A8I6SUL2	A0A8I6SUL2	unreviewed	Thymidine phosphorylase (TP) (EC 2.4.2.4) (TdRPase)	2.4.2.4	PF00591;PF07831;	Cimex lectularius (Bed bug) (Acanthia lectularia)
+A0A8I6XQZ7	A0A8I6XQZ7	unreviewed	cytidine deaminase (EC 3.5.4.5)	3.5.4.5	PF00383;	Hordeum vulgare subsp. vulgare (Domesticated barley)
+A0A8J1Y9N2	A0A8J1Y9N2	unreviewed	Cytidine deaminase (EC 3.5.4.5) (Cytidine aminohydrolase)	3.5.4.5	PF00383;	Owenia fusiformis (Polychaete worm)
+A0A8J2HRZ6	A0A8J2HRZ6	unreviewed	Similar to cdd: Cytidine deaminase (Bacillus subtilis (Strain 168))		PF00383;	Cotesia congregata (Parasitoid wasp) (Apanteles congregatus)
+A0A8J2JRX7	A0A8J2JRX7	unreviewed	Pyridoxal phosphate-dependent decarboxylase major domain-containing protein		PF00282;	Allacma fusca
+A0A8J2K032	A0A8J2K032	unreviewed	Thymidine phosphorylase (TP) (EC 2.4.2.4) (TdRPase)	2.4.2.4	PF02885;PF00591;PF07831;	Allacma fusca
+A0A8J2LEN6	A0A8J2LEN6	unreviewed	Pyridoxal phosphate-dependent decarboxylase major domain-containing protein		PF00282;	Allacma fusca
+A0A8J2LN99	A0A8J2LN99	unreviewed	Cytidine deaminase (EC 3.5.4.5) (Cytidine aminohydrolase)	3.5.4.5	PF00383;	Allacma fusca
+A0A8J2SEC5	A0A8J2SEC5	unreviewed	Nitroreductase domain-containing protein		PF00881;	Pelagomonas calceolata
+A0A8J2WPQ9	A0A8J2WPQ9	unreviewed	Nitroreductase domain-containing protein		PF00881;	Pelagomonas calceolata
+A0A8J2Z5I9	A0A8J2Z5I9	unreviewed	Cytidine deaminase (EC 3.5.4.5) (Cytidine aminohydrolase)	3.5.4.5	PF00383;	Cysteiniphilum litorale
+A0A8J3AD86	A0A8J3AD86	unreviewed	Cytidine deaminase (EC 3.5.4.5) (Cytidine aminohydrolase)	3.5.4.5	PF00383;	Egicoccus halophilus
+A0A8J3EBB7	A0A8J3EBB7	unreviewed	NAD-dependent epimerase/dehydratase domain-containing protein		PF01370;	Caldovatus sediminis
+A0A8J3H2H9	A0A8J3H2H9	unreviewed	Nitroreductase		PF00881;	Seohaeicola zhoushanensis
+A0A8J3I4T6	A0A8J3I4T6	unreviewed	NAD(P)-dependent oxidoreductase		PF05368;	Ktedonospora formicarum
+A0A8J3IW57	A0A8J3IW57	unreviewed	Beta-galactosidase		PF00703;PF22666;	Reticulibacter mediterranei
+A0A8J3KBR5	A0A8J3KBR5	unreviewed	FMN reductase		PF03358;	Catellatospora citrea
+A0A8J3MRH7	A0A8J3MRH7	unreviewed	Thymidine phosphorylase		PF02885;PF00591;PF07831;	Ktedonospora formicarum
+A0A8J3QGS4	A0A8J3QGS4	unreviewed	NAD(P)-dependent oxidoreductase		PF05368;	Rhizocola hellebori
+A0A8J3TRN3	A0A8J3TRN3	unreviewed	Anthranilate phosphoribosyltransferase (EC 2.4.2.18)	2.4.2.18	PF02885;PF00591;	Planotetraspora mira
+A0A8J3UBJ3	A0A8J3UBJ3	unreviewed	Nucleotide-diphosphate-sugar epimerase		PF05368;	Planotetraspora phitsanulokensis
+A0A8J3VPL8	A0A8J3VPL8	unreviewed	Nucleotide-diphosphate-sugar epimerase		PF13460;	Rugosimonospora africana
+A0A8J3YP06	A0A8J3YP06	unreviewed	L-2,4-diaminobutyrate decarboxylase		PF00282;	Virgisporangium aliadipatigenens
+A0A8J3ZBL7	A0A8J3ZBL7	unreviewed	Nitroreductase domain-containing protein		PF00881;	Virgisporangium aurantiacum
+A0A8J4G9V7	A0A8J4G9V7	unreviewed	CMP/dCMP-type deaminase domain-containing protein		PF00383;PF08211;	Volvox reticuliferus
+A0A8J4H3R4	A0A8J4H3R4	unreviewed	Cytidine deaminase (EC 3.5.4.5) (Cytidine aminohydrolase)	3.5.4.5	PF01219;PF00383;	Xylanibacillus composti
+A0A8J4U4M6	A0A8J4U4M6	unreviewed	Glutamate decarboxylase 1-like isoform X1		PF00282;	Clarias magur (Asian catfish) (Macropteronotus magur)
+A0A8J4UL84	A0A8J4UL84	unreviewed	Cytidine deaminase (EC 3.5.4.5) (Cytidine aminohydrolase)	3.5.4.5	PF00383;	Clarias magur (Asian catfish) (Macropteronotus magur)
+A0A8J4UMF3	A0A8J4UMF3	unreviewed	cytidine deaminase (EC 3.5.4.5) (Cytidine aminohydrolase)	3.5.4.5	PF00383;	Clarias magur (Asian catfish) (Macropteronotus magur)
+A0A8J5CQX8	A0A8J5CQX8	unreviewed	Thymidine phosphorylase (TP) (EC 2.4.2.4) (TdRPase)	2.4.2.4	PF02885;PF00591;PF07831;	Chionoecetes opilio (Atlantic snow crab) (Cancer opilio)
+A0A8J5MHW1	A0A8J5MHW1	unreviewed	Nitroreductase domain-containing protein		PF00881;	Phytophthora aleatoria
+A0A8J5XSE0	A0A8J5XSE0	unreviewed	Pyridoxal phosphate-dependent decarboxylase major domain-containing protein		PF00282;	Diacronema lutheri (Unicellular marine alga) (Monochrysis lutheri)
+A0A8J5ZSL7	A0A8J5ZSL7	unreviewed	cytidine deaminase (EC 3.5.4.5) (Cytidine aminohydrolase)	3.5.4.5	PF00383;	Galemys pyrenaicus (Iberian desman) (Pyrenean desman)
+A0A8J6AXK9	A0A8J6AXK9	unreviewed	Nitroreductase family		PF00881;	Carpediemonas membranifera
+A0A8J6DJY8	A0A8J6DJY8	unreviewed	Glutamate decarboxylase 1 (EC 4.1.1.15)	4.1.1.15	PF00282;	Galemys pyrenaicus (Iberian desman) (Pyrenean desman)
+A0A8J6DTR9	A0A8J6DTR9	unreviewed	Acidic amino acid decarboxylase GADL1		PF00282;	Galemys pyrenaicus (Iberian desman) (Pyrenean desman)
+A0A8J6HNR2	A0A8J6HNR2	unreviewed	Beta-glucuronidase		PF02836;PF02837;	Tenebrio molitor (Yellow mealworm beetle)
+A0A8J6HRH9	A0A8J6HRH9	unreviewed	Glycosyl hydrolases family 2 sugar binding domain-containing protein		PF02837;	Tenebrio molitor (Yellow mealworm beetle)
+A0A8J6LFN1	A0A8J6LFN1	unreviewed	Beta-glucuronidase (EC 3.2.1.31)	3.2.1.31	PF00703;PF02836;PF02837;	Tenebrio molitor (Yellow mealworm beetle)
+A0A8J6MSN5	A0A8J6MSN5		deleted			
+A0A8J6P7W3	A0A8J6P7W3	unreviewed	NAD(P)H-dependent oxidoreductase		PF00881;	Taishania pollutisoli
+A0A8J6T560	A0A8J6T560		deleted			
+A0A8J6T5P0	A0A8J6T5P0		deleted			
+A0A8J6VTW8	A0A8J6VTW8		deleted			
+A0A8J6WV63	A0A8J6WV63		deleted			
+A0A8J6Y0N8	A0A8J6Y0N8		deleted			
+A0A8J7CXP5	A0A8J7CXP5	unreviewed	Nitroreductase family protein		PF00881;	Mangrovicoccus algicola
+A0A8J7GLH4	A0A8J7GLH4	unreviewed	Nitroreductase family protein		PF00881;	Savagea serpentis
+A0A8J7GM81	A0A8J7GM81	unreviewed	Nitroreductase family protein		PF00881;	Savagea serpentis
+A0A8J7HZR6	A0A8J7HZR6	unreviewed	NAD(P)-dependent oxidoreductase		PF01073;	Amazonocrinis nigriterrae CENA67
+A0A8J7KDP5	A0A8J7KDP5	unreviewed	Nitroreductase family protein		PF00881;	Faecalibacter rhinopitheci
+A0A8J7KY69	A0A8J7KY69		deleted			
+A0A8J7MEF8	A0A8J7MEF8	unreviewed	beta-galactosidase (EC 3.2.1.23) (Lactase)	3.2.1.23	PF02929;PF00703;PF02836;PF02837;PF16353;	Persicirhabdus sediminis
+A0A8J7MKI8	A0A8J7MKI8		deleted			
+A0A8J7NM58	A0A8J7NM58	unreviewed	Mitochondrial fission 1 protein (EC 3.5.4.5) (Cytidine aminohydrolase) (FIS1 homolog)	3.5.4.5	PF00383;PF14853;PF14852;	Atractosteus spatula (Alligator gar) (Lepisosteus spatula)
+A0A8J7QAB4	A0A8J7QAB4	unreviewed	Anthranilate phosphoribosyltransferase (EC 2.4.2.18)	2.4.2.18	PF00591;	Acanthopleuribacter pedis
+A0A8J7QT36	A0A8J7QT36		deleted			
+A0A8J7QWS7	A0A8J7QWS7		deleted			
+A0A8J7QWX9	A0A8J7QWX9		deleted			
+A0A8J7R760	A0A8J7R760	unreviewed	NAD(P)H-dependent oxidoreductase		PF03358;	Tianweitania sediminis
+A0A8J7RPF1	A0A8J7RPF1		deleted			
+A0A8J7S584	A0A8J7S584		deleted			
+A0A8J7SZN2	A0A8J7SZN2		deleted			
+A0A8J7TXJ4	A0A8J7TXJ4		deleted			
+A0A8J7UDY4	A0A8J7UDY4		deleted			
+A0A8J7XE50	A0A8J7XE50		deleted			
+A0A8J7YN74	A0A8J7YN74		deleted			
+A0A8J8BRQ5	A0A8J8BRQ5		deleted			
+A0A8J8BZG7	A0A8J8BZG7		deleted			
+A0A8J8G368	A0A8J8G368		deleted			
+A0A8J8H2M0	A0A8J8H2M0		deleted			
+A0A8J8JQB7	A0A8J8JQB7		deleted			
+A0A8J8KYU0	A0A8J8KYU0		deleted			
+A0A8J8MNJ0	A0A8J8MNJ0	unreviewed	Glycoside hydrolase family 2 protein		PF16355;PF18565;PF00703;PF02836;PF02837;	Vallitalea pronyensis
+A0A8J8SIN2	A0A8J8SIN2	unreviewed	Glycoside hydrolase family 2 protein		PF16355;PF18565;PF00703;PF02836;PF22666;	Vallitalea pronyensis
+A0A8J9SBT5	A0A8J9SBT5		deleted			
+A0A8J9YNL7	A0A8J9YNL7	unreviewed	HDC protein		PF00282;	Branchiostoma lanceolatum (Common lancelet) (Amphioxus lanceolatum)
+A0A8K0KHM5	A0A8K0KHM5	unreviewed	Pyridoxal phosphate-dependent decarboxylase major domain-containing protein		PF00282;	Ladona fulva (Scarce chaser dragonfly) (Libellula fulva)
+A0A8K0KIV4	A0A8K0KIV4	unreviewed	Pyridoxal phosphate-dependent decarboxylase major domain-containing protein		PF00282;	Ladona fulva (Scarce chaser dragonfly) (Libellula fulva)
+A0A8K0N8L1	A0A8K0N8L1	unreviewed	Uncharacterized protein			Cocos nucifera (Coconut palm)
+A0A8K0NM28	A0A8K0NM28	unreviewed	L-aspartate decarboxylase dtxS4		PF00282;	Claviceps africana
+A0A8K0RLT6	A0A8K0RLT6	unreviewed	Glycoside hydrolase superfamily		PF00703;PF02836;PF02837;	Fusarium tricinctum
+A0A8K1LT80	A0A8K1LT80	unreviewed	cytidine deaminase (EC 3.5.4.5) (Cytidine aminohydrolase)	3.5.4.5	PF00383;	Zosterops borbonicus
+A0A8K9UWX0	A0A8K9UWX0	unreviewed	Glutamate decarboxylase 1b		PF00282;	Oncorhynchus mykiss (Rainbow trout) (Salmo gairdneri)
+A0A8K9WTV7	A0A8K9WTV7	unreviewed	Glycosyl transferase family 3 domain-containing protein		PF00591;	Oncorhynchus mykiss (Rainbow trout) (Salmo gairdneri)
+A0A8K9X2C8	A0A8K9X2C8	unreviewed	Glutamate decarboxylase 1b		PF00282;	Oncorhynchus mykiss (Rainbow trout) (Salmo gairdneri)
+A0A8K9XYE4	A0A8K9XYE4	unreviewed	Thymidine phosphorylase		PF02885;PF00591;	Oncorhynchus mykiss (Rainbow trout) (Salmo gairdneri)
+A0A8R2D6T0	A0A8R2D6T0	unreviewed	Glycoside hydrolase family 2 catalytic domain-containing protein		PF02836;	Acyrthosiphon pisum (Pea aphid)
+A0A8R7U2C5	A0A8R7U2C5	unreviewed	NAD(P)H dehydrogenase (quinone) (EC 1.6.5.2)	1.6.5.2	PF03358;	Triticum urartu (Red wild einkorn) (Crithodium urartu)
+A0A8S0FQL0	A0A8S0FQL0		deleted			
+A0A8S0FTN5	A0A8S0FTN5		deleted			
+A0A8S0FUW5	A0A8S0FUW5		deleted			
+A0A8S0FX52	A0A8S0FX52		deleted			
+A0A8S0G587	A0A8S0G587		deleted			
+A0A8S1EUI2	A0A8S1EUI2	unreviewed	Pyridoxal phosphate-dependent decarboxylase major domain-containing protein		PF00282;	Caenorhabditis bovis
+A0A8S1IWC0	A0A8S1IWC0	unreviewed	cytidine deaminase (EC 3.5.4.5)	3.5.4.5	PF00383;PF08211;	Ostreobium quekettii
+A0A8S1J6U8	A0A8S1J6U8	unreviewed	beta-galactosidase (EC 3.2.1.23) (Lactase)	3.2.1.23	PF02929;PF00703;PF02836;PF02837;PF16353;	Ostreobium quekettii
+A0A8S2ARA2	A0A8S2ARA2	unreviewed	cytidine deaminase (EC 3.5.4.5)	3.5.4.5	PF00383;PF08211;	Arabidopsis arenosa (Sand rock-cress) (Cardaminopsis arenosa)
+A0A8S2AU21	A0A8S2AU21	unreviewed	cytidine deaminase (EC 3.5.4.5)	3.5.4.5	PF08211;PF04776;	Arabidopsis arenosa (Sand rock-cress) (Cardaminopsis arenosa)
+A0A8S2P5Y7	A0A8S2P5Y7		deleted			
+A0A8S2UR33	A0A8S2UR33		deleted			
+A0A8S3S044	A0A8S3S044	unreviewed	Pyridoxal phosphate-dependent decarboxylase major domain-containing protein		PF00282;	Mytilus edulis (Blue mussel)
+A0A8S3Z300	A0A8S3Z300	unreviewed	Cytidine deaminase (EC 3.5.4.5) (Cytidine aminohydrolase)	3.5.4.5	PF00383;	Candidula unifasciata
+A0A8S4C1R3	A0A8S4C1R3	unreviewed	NAD(P)H-dependent oxidoreductase		PF03358;	Hyalomma marginatum
+A0A8S4GTM1	A0A8S4GTM1		deleted			
+A0A8S4N278	A0A8S4N278	unreviewed	Pyridoxal phosphate-dependent decarboxylase major domain-containing protein		PF00282;	Owenia fusiformis (Polychaete worm)
+A0A8S7FBJ9	A0A8S7FBJ9		deleted			
+A0A8S7FG03	A0A8S7FG03		deleted			
+A0A8S8XMT5	A0A8S8XMT5		deleted			
+A0A8S8YKH9	A0A8S8YKH9		deleted			
+A0A8S8Z6Y6	A0A8S8Z6Y6		deleted			
+A0A8S9FL46	A0A8S9FL46		deleted			
+A0A8S9H7M2	A0A8S9H7M2		deleted			
+A0A8S9MYQ1	A0A8S9MYQ1		deleted			
+A0A8S9SDL4	A0A8S9SDL4		deleted			
+A0A8S9X546	A0A8S9X546	unreviewed	Beta-glucuronidase (EC 3.2.1.31)	3.2.1.31	PF00703;PF02836;PF02837;	Apolygus lucorum (Small green plant bug) (Lygocoris lucorum)
+A0A8S9Y6N6	A0A8S9Y6N6	unreviewed	Thymidine phosphorylase (TP) (EC 2.4.2.4) (TdRPase)	2.4.2.4	PF02885;PF00591;PF07831;	Apolygus lucorum (Small green plant bug) (Lygocoris lucorum)
+A0A8T0CEL2	A0A8T0CEL2	unreviewed	CMP/dCMP-type deaminase domain-containing protein		PF00383;	Corymbia citriodora subsp. variegata
+A0A8T0EZX0	A0A8T0EZX0	unreviewed	Chaperone protein ClpB 2 like protein		PF00004;PF07724;PF00591;	Argiope bruennichi (Wasp spider) (Aranea bruennichi)
+A0A8T0GTQ0	A0A8T0GTQ0	unreviewed	cytidine deaminase (EC 3.5.4.5)	3.5.4.5	PF00383;PF08211;	Ceratodon purpureus (Fire moss) (Dicranum purpureum)
+A0A8T0SC86	A0A8T0SC86	unreviewed	NAD(P)H dehydrogenase (quinone) (EC 1.6.5.2)	1.6.5.2	PF03358;	Panicum virgatum (Blackwell switchgrass)
+A0A8T1ICX9	A0A8T1ICX9		deleted			
+A0A8T1T6R2	A0A8T1T6R2	unreviewed	Cytidine deaminase (EC 3.5.4.5) (Cytidine aminohydrolase)	3.5.4.5	PF00383;	Chelydra serpentina (Snapping turtle) (Testudo serpentina)
+A0A8T1Y7Y7	A0A8T1Y7Y7	unreviewed	cytidine deaminase (EC 3.5.4.5)	3.5.4.5	PF00383;PF08211;	Arabidopsis thaliana x Arabidopsis arenosa
+A0A8T1Y921	A0A8T1Y921	unreviewed	cytidine deaminase (EC 3.5.4.5)	3.5.4.5	PF08211;	Arabidopsis thaliana x Arabidopsis arenosa
+A0A8T1YB74	A0A8T1YB74	unreviewed	cytidine deaminase (EC 3.5.4.5)	3.5.4.5	PF08211;	Arabidopsis thaliana x Arabidopsis arenosa
+A0A8T1YBH2	A0A8T1YBH2	unreviewed	Cytidine deaminase-like			Arabidopsis thaliana x Arabidopsis arenosa
+A0A8T2E3W6	A0A8T2E3W6	unreviewed	Cytidine and deoxycytidylate deaminase domain		PF08211;PF04776;	Arabidopsis thaliana x Arabidopsis arenosa
+A0A8T2E5T3	A0A8T2E5T3	unreviewed	cytidine deaminase (EC 3.5.4.5)	3.5.4.5	PF00383;PF08211;	Arabidopsis thaliana x Arabidopsis arenosa
+A0A8T2EDS2	A0A8T2EDS2	unreviewed	cytidine deaminase (EC 3.5.4.5)	3.5.4.5	PF00383;PF08211;	Arabidopsis thaliana x Arabidopsis arenosa
+A0A8T2EG34	A0A8T2EG34	unreviewed	cytidine deaminase (EC 3.5.4.5)	3.5.4.5	PF00383;PF08211;	Arabidopsis suecica (Swedish thale-cress) (Cardaminopsis suecica)
+A0A8T2HXB9	A0A8T2HXB9		deleted			
+A0A8T2IGC4	A0A8T2IGC4	unreviewed	CMP/dCMP-type deaminase domain-containing protein		PF00383;	Hymenochirus boettgeri (Congo dwarf clawed frog)
+A0A8T2MQJ5	A0A8T2MQJ5	unreviewed	Glutamate decarboxylase 1		PF00282;	Albula glossodonta (roundjaw bonefish)
+A0A8T2NHJ7	A0A8T2NHJ7	unreviewed	Glutamate decarboxylase 2 (EC 4.1.1.15) (65 kDa glutamic acid decarboxylase) (Glutamate decarboxylase 65 kDa isoform)	4.1.1.15	PF00282;	Albula glossodonta (roundjaw bonefish)
+A0A8T2NHS0	A0A8T2NHS0	unreviewed	Cytidine deaminase (EC 3.5.4.5) (Cytidine aminohydrolase)	3.5.4.5	PF00383;	Albula glossodonta (roundjaw bonefish)
+A0A8T2P1Q1	A0A8T2P1Q1	unreviewed	Mitochondrial fission 1 protein (EC 3.5.4.5) (Cytidine aminohydrolase) (FIS1 homolog)	3.5.4.5	PF00383;PF14853;PF14852;	Albula glossodonta (roundjaw bonefish)
+A0A8T2QIH5	A0A8T2QIH5	unreviewed	cytidine deaminase (EC 3.5.4.5)	3.5.4.5	PF00383;PF08211;	Ceratopteris richardii (Triangle waterfern)
+A0A8T2ZZN8	A0A8T2ZZN8	unreviewed	NAD(P)H dehydrogenase (quinone) (EC 1.6.5.2)	1.6.5.2	PF03358;	Populus deltoides (Eastern poplar) (Eastern cottonwood)
+A0A8T3D7K7	A0A8T3D7K7	unreviewed	cytidine deaminase (EC 3.5.4.5) (Cytidine aminohydrolase)	3.5.4.5	PF00383;	Albula goreensis
+A0A8T3MWC1	A0A8T3MWC1		deleted			
+A0A8T3NEZ3	A0A8T3NEZ3		deleted			
+A0A8T3RXB0	A0A8T3RXB0		deleted			
+A0A8T3S066	A0A8T3S066		deleted			
+A0A8T3S7M8	A0A8T3S7M8		deleted			
+A0A8T3SX86	A0A8T3SX86		deleted			
+A0A8T3U5G8	A0A8T3U5G8		deleted			
+A0A8T3U889	A0A8T3U889		deleted			
+A0A8T3UR21	A0A8T3UR21		deleted			
+A0A8T3WIY7	A0A8T3WIY7		deleted			
+A0A8T3WTT6	A0A8T3WTT6		deleted			
+A0A8T3XPG0	A0A8T3XPG0		deleted			
+A0A8T3YDX6	A0A8T3YDX6		deleted			
+A0A8T3YFL8	A0A8T3YFL8		deleted			
+A0A8T3YS88	A0A8T3YS88		deleted			
+A0A8T3ZXR0	A0A8T3ZXR0		deleted			
+A0A8T4BRH1	A0A8T4BRH1		deleted			
+A0A8T4C811	A0A8T4C811		deleted			
+A0A8T4CK17	A0A8T4CK17		deleted			
+A0A8T4EKJ4	A0A8T4EKJ4		deleted			
+A0A8T4FQ88	A0A8T4FQ88		deleted			
+A0A8T4GIX8	A0A8T4GIX8	unreviewed	Cytidine deaminase (EC 3.5.4.5)	3.5.4.5	PF00383;	Halorubrum alkaliphilum
+A0A8T4HTS7	A0A8T4HTS7		deleted			
+A0A8T4JED9	A0A8T4JED9		deleted			
+A0A8T4JKD3	A0A8T4JKD3		deleted			
+A0A8T4KSN0	A0A8T4KSN0		deleted			
+A0A8T4KUF9	A0A8T4KUF9		deleted			
+A0A8T4L256	A0A8T4L256		deleted			
+A0A8T4M640	A0A8T4M640		deleted			
+A0A8T4M9N6	A0A8T4M9N6		deleted			
+A0A8T4MH46	A0A8T4MH46		deleted			
+A0A8T4MY77	A0A8T4MY77		deleted			
+A0A8T4NLG6	A0A8T4NLG6		deleted			
+A0A8T4PVF8	A0A8T4PVF8		deleted			
+A0A8T4Q090	A0A8T4Q090		deleted			
+A0A8T4QAX4	A0A8T4QAX4		deleted			
+A0A8T4QN29	A0A8T4QN29		deleted			
+A0A8T4QV10	A0A8T4QV10		deleted			
+A0A8T4RBC6	A0A8T4RBC6		deleted			
+A0A8T4RBE1	A0A8T4RBE1		deleted			
+A0A8T4SMF5	A0A8T4SMF5		deleted			
+A0A8T4T6K7	A0A8T4T6K7		deleted			
+A0A8T4UBI8	A0A8T4UBI8		deleted			
+A0A8T4UG87	A0A8T4UG87		deleted			
+A0A8T4UML5	A0A8T4UML5		deleted			
+A0A8T4UNI1	A0A8T4UNI1		deleted			
+A0A8T4UQS9	A0A8T4UQS9		deleted			
+A0A8T4UTM4	A0A8T4UTM4		deleted			
+A0A8T4V371	A0A8T4V371		deleted			
+A0A8T4V649	A0A8T4V649		deleted			
+A0A8T4VEY8	A0A8T4VEY8		deleted			
+A0A8T4WMP6	A0A8T4WMP6		deleted			
+A0A8T4X0H1	A0A8T4X0H1		deleted			
+A0A8T4Y1U7	A0A8T4Y1U7		deleted			
+A0A8T4Z7T2	A0A8T4Z7T2		deleted			
+A0A8T5A4B5	A0A8T5A4B5		deleted			
+A0A8T5AU67	A0A8T5AU67		deleted			
+A0A8T5BBW2	A0A8T5BBW2		deleted			
+A0A8T5BLY1	A0A8T5BLY1		deleted			
+A0A8T5DYR4	A0A8T5DYR4		deleted			
+A0A8T5GLT1	A0A8T5GLT1		deleted			
+A0A8T5IBY2	A0A8T5IBY2		deleted			
+A0A8T5JBU2	A0A8T5JBU2		deleted			
+A0A8T5LG46	A0A8T5LG46		deleted			
+A0A8T5LUY6	A0A8T5LUY6		deleted			
+A0A8T5LZL6	A0A8T5LZL6		deleted			
+A0A8T5MEK5	A0A8T5MEK5		deleted			
+A0A8T5NVH8	A0A8T5NVH8		deleted			
+A0A8T5SW86	A0A8T5SW86		deleted			
+A0A8T5T0E7	A0A8T5T0E7		deleted			
+A0A8T5UF56	A0A8T5UF56		deleted			
+A0A8T5ZL89	A0A8T5ZL89		deleted			
+A0A8T6AYI1	A0A8T6AYI1		deleted			
+A0A8T6C6W4	A0A8T6C6W4		deleted			
+A0A8T6E7C0	A0A8T6E7C0		deleted			
+A0A8T6GCN2	A0A8T6GCN2		deleted			
+A0A8T6HM58	A0A8T6HM58		deleted			
+A0A8T6RN31	A0A8T6RN31		deleted			
+A0A8T6RQX9	A0A8T6RQX9		deleted			
+A0A8T6VCS7	A0A8T6VCS7		deleted			
+A0A8T7A3B8	A0A8T7A3B8		deleted			
+A0A8T7AZX0	A0A8T7AZX0		deleted			
+A0A8T7B5T7	A0A8T7B5T7		deleted			
+A0A8T7BA34	A0A8T7BA34		deleted			
+A0A8T7BI85	A0A8T7BI85		deleted			
+A0A8T7C5W4	A0A8T7C5W4		deleted			
+A0A8T7EKP3	A0A8T7EKP3		deleted			
+A0A8T7GRV8	A0A8T7GRV8		deleted			
+A0A8T7HI16	A0A8T7HI16		deleted			
+A0A8T7J9W1	A0A8T7J9W1		deleted			
+A0A8T7K8K9	A0A8T7K8K9		deleted			
+A0A8T7LG26	A0A8T7LG26		deleted			
+A0A8T8I958	A0A8T8I958		deleted			
+A0A8U0A5X8	A0A8U0A5X8	unreviewed	beta-galactosidase (EC 3.2.1.23) (Lactase)	3.2.1.23	PF02929;PF00703;PF02836;PF02837;PF16353;PF13385;	Halocatena salina
+A0A8U0QAS6	A0A8U0QAS6	unreviewed	Acidic amino acid decarboxylase GADL1-like		PF00282;	Salvelinus namaycush (Lake trout) (Salmo namaycush)
+A0A8U1C2U0	A0A8U1C2U0	unreviewed	Cytidine deaminase (EC 3.5.4.5) (Cytidine aminohydrolase)	3.5.4.5	PF00383;	Salvelinus namaycush (Lake trout) (Salmo namaycush)
+A0A8U7M5B1	A0A8U7M5B1	unreviewed	Glutamate decarboxylase 2 (EC 4.1.1.15) (65 kDa glutamic acid decarboxylase) (Glutamate decarboxylase 65 kDa isoform)	4.1.1.15	PF00282;	Corvus moneduloides (New Caledonian crow)
+A0A8U7NA10	A0A8U7NA10	unreviewed	Thymidine phosphorylase		PF02885;PF00591;	Corvus moneduloides (New Caledonian crow)
+A0A8V0XNI8	A0A8V0XNI8	unreviewed	Thymidine phosphorylase		PF00591;	Gallus gallus (Chicken)
+A0A8V0ZG12	A0A8V0ZG12	unreviewed	Cytidine deaminase (EC 3.5.4.5) (Cytidine aminohydrolase)	3.5.4.5	PF00383;	Gallus gallus (Chicken)
+A0A8W8J398	A0A8W8J398	unreviewed	Pyrimidine nucleoside phosphorylase C-terminal domain-containing protein		PF00591;PF07831;	Magallana gigas (Pacific oyster) (Crassostrea gigas)
+A0A8W8N9T1	A0A8W8N9T1	unreviewed	Pyridoxal phosphate-dependent decarboxylase major domain-containing protein		PF00282;	Magallana gigas (Pacific oyster) (Crassostrea gigas)
+A0A8W8NCL3	A0A8W8NCL3	unreviewed	Pyridoxal phosphate-dependent decarboxylase major domain-containing protein		PF00282;	Magallana gigas (Pacific oyster) (Crassostrea gigas)
+A0A8X6YYN9	A0A8X6YYN9	unreviewed	diaminopimelate epimerase (EC 5.1.1.7)	5.1.1.7	PF01678;PF00881;	Trichonephila inaurata madagascariensis
+A0A8X7CEA1	A0A8X7CEA1	unreviewed	FMN_red domain-containing protein		PF03358;	Trichonephila inaurata madagascariensis
+A0A8X7N0K1	A0A8X7N0K1	unreviewed	Cytidine deaminase (EC 3.5.4.5) (Cytidine aminohydrolase)	3.5.4.5	PF00383;	Tilletia controversa (dwarf bunt fungus)
+A0A8X7QB10	A0A8X7QB10	unreviewed	CMP/dCMP-type deaminase domain-containing protein		PF08211;	Brassica carinata (Ethiopian mustard) (Abyssinian cabbage)
+A0A8X7WYQ0	A0A8X7WYQ0	unreviewed	CDD deaminase		PF00383;PF04500;	Polypterus senegalus (Senegal bichir)
+A0A8X7X0X0	A0A8X7X0X0	unreviewed	Beta-glucuronidase (EC 3.2.1.31)	3.2.1.31	PF00703;PF02836;PF02837;PF10195;	Polypterus senegalus (Senegal bichir)
+A0A8X7XI93	A0A8X7XI93	unreviewed	GADL1 decarboxylase		PF00619;PF00282;	Polypterus senegalus (Senegal bichir)
+A0A8X8H0T0	A0A8X8H0T0	unreviewed	Glycosyl transferase family 3 domain-containing protein		PF00591;	Fertoeibacter niger
+A0A8X8YKM8	A0A8X8YKM8	unreviewed	CMP/dCMP-type deaminase domain-containing protein		PF08211;	Salvia splendens (Scarlet sage)
+A0A914BFK3	A0A914BFK3	unreviewed	Cytidine deaminase (EC 3.5.4.5) (Cytidine aminohydrolase)	3.5.4.5	PF00383;	Patiria miniata (Bat star) (Asterina miniata)
+A0A914BI97	A0A914BI97	unreviewed	CMP/dCMP-type deaminase domain-containing protein		PF00383;	Patiria miniata (Bat star) (Asterina miniata)
+A0A914GEQ7	A0A914GEQ7		deleted			
+A0A914HUC8	A0A914HUC8	unreviewed	cytidine deaminase (EC 3.5.4.5) (Cytidine aminohydrolase)	3.5.4.5	PF00651;PF00383;	Globodera rostochiensis (Golden nematode worm) (Heterodera rostochiensis)
+A0A914PGD6	A0A914PGD6	unreviewed	Cytidine deaminase (EC 3.5.4.5) (Cytidine aminohydrolase)	3.5.4.5	PF00383;	Panagrolaimus davidi
+A0A914UZP8	A0A914UZP8	unreviewed	Beta-glucuronidase (EC 3.2.1.31)	3.2.1.31	PF00703;PF02836;PF02837;	Plectus sambesii
+A0A914W520	A0A914W520	unreviewed	Glutamate decarboxylase		PF00282;	Plectus sambesii
+A0A914XRP6	A0A914XRP6	unreviewed	Cytidine deaminase (EC 3.5.4.5) (Cytidine aminohydrolase)	3.5.4.5	PF00383;	Panagrolaimus superbus
+A0A914XSF0	A0A914XSF0	unreviewed	Deoxyribose-phosphate aldolase		PF01791;PF02885;PF00591;	Panagrolaimus superbus
+A0A915EBV0	A0A915EBV0	unreviewed	Pyridoxal phosphate-dependent decarboxylase major domain-containing protein		PF00282;	Ditylenchus dipsaci
+A0A915NS65	A0A915NS65	unreviewed	Beta-glucuronidase		PF00703;PF02836;PF02837;PF07885;	Meloidogyne floridensis
+A0A915UQU3	A0A915UQU3		deleted			
+A0A915V1S1	A0A915V1S1		deleted			
+A0A916BMC1	A0A916BMC1		deleted			
+A0A916CWR4	A0A916CWR4		deleted			
+A0A916DFY7	A0A916DFY7		deleted			
+A0A916FMF8	A0A916FMF8		deleted			
+A0A916FRR1	A0A916FRR1		deleted			
+A0A916GMD9	A0A916GMD9		deleted			
+A0A916HMZ1	A0A916HMZ1		deleted			
+A0A916NJC8	A0A916NJC8	unreviewed	FMN-dependent NADPH-azoreductase (EC 1.7.1.17)	1.7.1.17	PF03358;	Paenibacillus solanacearum
+A0A916NJI2	A0A916NJI2	unreviewed	NAD(P)H nitroreductase YfkO (EC 1.-.-.-)	1.-.-.-	PF00881;	Parvicella tangerina
+A0A916NMK8	A0A916NMK8	unreviewed	NADPH-flavin oxidoreductase (EC 1.5.1.38)	1.5.1.38	PF00881;PF28600;	Leucobacter soli
+A0A916QG35	A0A916QG35	unreviewed	NADPH-dependent oxidoreductase		PF00881;PF28600;	Insulibacter thermoxylanivorax
+A0A916R7V7	A0A916R7V7	unreviewed	FMN reductase		PF03358;	Pelagibacterium lentulum
+A0A916RPV3	A0A916RPV3	unreviewed	Putative thymidine phosphorylase (EC 2.4.2.4) (TdRPase)	2.4.2.4	PF02885;PF00591;PF07831;	Pelagibacterium lentulum
+A0A916S3U8	A0A916S3U8	unreviewed	NADPH-dependent FMN reductase-like domain-containing protein		PF03358;	Nitratireductor aestuarii
+A0A916TG31	A0A916TG31	unreviewed	FMN reductase		PF03358;	Sphingomonas metalli
+A0A916VEN9	A0A916VEN9	unreviewed	Cytidine deaminase (EC 3.5.4.5) (Cytidine aminohydrolase)	3.5.4.5	PF00383;	Insulibacter thermoxylanivorax
+A0A916VH80	A0A916VH80	unreviewed	Nitroreductase		PF00881;	Lactobacillus corticis
+A0A916XIL3	A0A916XIL3	unreviewed	FMN reductase (NADPH)		PF03358;	Chelatococcus reniformis
+A0A916Z8W8	A0A916Z8W8	unreviewed	beta-mannosidase (EC 3.2.1.25)	3.2.1.25	PF00703;PF02836;PF22666;	Paenibacillus nasutitermitis
+A0A917A9L1	A0A917A9L1	unreviewed	Nitrobenzoate reductase		PF00881;	Streptococcus himalayensis
+A0A917AWH0	A0A917AWH0	unreviewed	Cytidine deaminase (EC 3.5.4.5) (Cytidine aminohydrolase)	3.5.4.5	PF00383;	Nesterenkonia cremea
+A0A917B0C0	A0A917B0C0	unreviewed	Cytidine deaminase (EC 3.5.4.5) (Cytidine aminohydrolase)	3.5.4.5	PF00383;	Subtercola lobariae
+A0A917EWM8	A0A917EWM8	unreviewed	Beta-galactosidase		PF00703;PF02836;PF02837;	Halobacillus andaensis
+A0A917FUP7	A0A917FUP7	unreviewed	Cytidine deaminase (EC 3.5.4.5) (Cytidine aminohydrolase)	3.5.4.5	PF00383;	Paenibacillus abyssi
+A0A917G5D6	A0A917G5D6	unreviewed	Anthranilate phosphoribosyltransferase (EC 2.4.2.18)	2.4.2.18	PF00117;PF02885;PF00591;	Lysinibacillus alkalisoli
+A0A917GAS1	A0A917GAS1	unreviewed	NADPH-dependent FMN reductase		PF03358;	Lysinibacillus alkalisoli
+A0A917J1A0	A0A917J1A0	unreviewed	NmrA family transcriptional regulator		PF13460;	Filimonas zeae
+A0A917JEU5	A0A917JEU5	unreviewed	Beta-galactosidase (EC 3.2.1.23) (Lactase)	3.2.1.23	PF02929;PF00703;PF02836;PF02837;	Enterococcus alcedinis
+A0A917KDT8	A0A917KDT8	unreviewed	NADPH-dependent FMN reductase-like domain-containing protein		PF03358;	Paenalicyclobacillus cellulosilyticus
+A0A917LMW9	A0A917LMW9	unreviewed	Nitroreductase		PF00881;	Bizionia arctica
+A0A917NGK5	A0A917NGK5	unreviewed	Anthranilate phosphoribosyltransferase		PF02885;PF00591;	Paenalicyclobacillus cellulosilyticus
+A0A917QNN9	A0A917QNN9	unreviewed	FMN reductase (NADPH)		PF03358;	Streptomyces flaveus
+A0A917R6K7	A0A917R6K7	unreviewed	NADPH-dependent FMN reductase-like domain-containing protein		PF03358;	Nocardia jinanensis
+A0A917UNU8	A0A917UNU8	unreviewed	3-beta hydroxysteroid dehydrogenase		PF01370;	Streptomyces brasiliensis
+A0A917W224	A0A917W224	unreviewed	NAD(P)H-dependent FMN reductase		PF03358;	Sporolactobacillus putidus
+A0A917W9B5	A0A917W9B5	unreviewed	Nitroreductase domain-containing protein		PF00881;	Microlunatus endophyticus
+A0A917WQA9	A0A917WQA9	unreviewed	SagB/ThcOx family dehydrogenase		PF14028;PF00881;	Micromonospora sonchi
+A0A917XIM1	A0A917XIM1	unreviewed	UDP-glucose 4-epimerase		PF01370;	Streptomyces fuscichromogenes
+A0A917XN59	A0A917XN59	unreviewed	3-beta hydroxysteroid dehydrogenase		PF01370;	Streptomyces fuscichromogenes
+A0A918ADR5	A0A918ADR5	unreviewed	Oxidoreductase		PF03358;	Nonomuraea glycinis
+A0A918AUV9	A0A918AUV9	unreviewed	Epimerase		PF01370;	Saccharothrix coeruleofusca
+A0A918BCC5	A0A918BCC5	unreviewed	NADPH-dependent FMN reductase-like domain-containing protein		PF03358;	Streptomyces ruber
+A0A918D0W7	A0A918D0W7	unreviewed	Nitroreductase domain-containing protein		PF00881;	Oceanobacillus indicireducens
+A0A918DPL5	A0A918DPL5	unreviewed	Coenzyme F420:L-glutamate ligase		PF01996;PF00881;	Nonomuraea cavernae
+A0A918GXM0	A0A918GXM0	unreviewed	Pyridoxal phosphate-dependent decarboxylase major domain-containing protein		PF00282;	Streptomyces purpureus
+A0A918J8R1	A0A918J8R1	unreviewed	FMN reductase		PF03358;	Streptomyces lucensis JCM 4490
+A0A918JML7	A0A918JML7	unreviewed	Cytidine deaminase (EC 3.5.4.5) (Cytidine aminohydrolase)	3.5.4.5	PF00383;	Alteromonas halophila
+A0A918LGZ2	A0A918LGZ2	unreviewed	Nitroreductase domain-containing protein		PF00881;	Actinokineospora fastidiosa
+A0A918NMX5	A0A918NMX5	unreviewed	LysR family transcriptional regulator		PF13460;	Streptomyces fructofermentans
+A0A918P473	A0A918P473	unreviewed	Cytidine deaminase (EC 3.5.4.5) (Cytidine aminohydrolase)	3.5.4.5	PF00383;	Paludibacterium paludis
+A0A918P541	A0A918P541	unreviewed	Decarboxylase		PF00282;	Paludibacterium paludis
+A0A918PFN3	A0A918PFN3	unreviewed	FMN reductase		PF03358;	Streptomyces poonensis
+A0A918PY25	A0A918PY25	unreviewed	Beta-galactosidase		PF00703;PF02836;PF02837;	Asticcacaulis endophyticus
+A0A918Q604	A0A918Q604	unreviewed	Oxygen-insensitive NAD(P)H-dependent nitroreductase NfsB		PF00881;	Echinicola pacifica
+A0A918TTQ8	A0A918TTQ8	unreviewed	Beta-galactosidase (EC 3.2.1.23) (Lactase)	3.2.1.23	PF02929;PF00703;PF02836;PF02837;PF16353;PF13385;	Roseibacillus persicicus
+A0A918UPE8	A0A918UPE8	unreviewed	Beta-galactosidase		PF00703;PF02836;PF02837;PF25275;	Echinicola pacifica
+A0A918UPU5	A0A918UPU5	unreviewed	NADPH-dependent FMN reductase-like domain-containing protein		PF03358;	Streptomyces poonensis
+A0A918V570	A0A918V570	unreviewed	NAD(P)H-dependent oxidoreductase		PF00881;	Algibacter mikhailovii
+A0A918WLB7	A0A918WLB7	unreviewed	Beta-galactosidase		PF28964;PF28967;PF00754;PF00703;	Roseibacillus persicicus
+A0A918X1H3	A0A918X1H3		deleted			
+A0A919A4R9	A0A919A4R9	unreviewed	NmrA family transcriptional regulator		PF13460;	Streptomyces longispororuber
+A0A919CFJ7	A0A919CFJ7		deleted			
+A0A919DTV5	A0A919DTV5	unreviewed	Nitroreductase domain-containing protein		PF00881;	Streptomyces longispororuber
+A0A919ELX4	A0A919ELX4	unreviewed	NAD(P)H-dependent oxidoreductase		PF00881;	Thalassotalea marina
+A0A919FBC0	A0A919FBC0	unreviewed	beta-galactosidase (EC 3.2.1.23)	3.2.1.23	PF00703;PF02836;PF02837;	Xanthomonas boreopolis
+A0A919GAR0	A0A919GAR0	unreviewed	Thymidine phosphorylase		PF02885;PF00591;PF07831;	Kitasatospora indigofera
+A0A919HMY1	A0A919HMY1		deleted			
+A0A919HU71	A0A919HU71		deleted			
+A0A919HV76	A0A919HV76		deleted			
+A0A919LTJ8	A0A919LTJ8		deleted			
+A0A919NDQ9	A0A919NDQ9	unreviewed	NADPH-dependent FMN reductase-like domain-containing protein		PF03358;	Actinoplanes siamensis
+A0A919NXW0	A0A919NXW0	unreviewed	FMN reductase		PF03358;	Paractinoplanes tereljensis
+A0A919P8G1	A0A919P8G1	unreviewed	Pyrimidine-nucleoside phosphorylase			Cellulomonas pakistanensis
+A0A919Q3N3	A0A919Q3N3	unreviewed	NAD(P)-dependent oxidoreductase		PF13460;	Demequina activiva
+A0A919UVZ9	A0A919UVZ9	unreviewed	Cytidine deaminase (EC 3.5.4.5) (Cytidine aminohydrolase)	3.5.4.5	PF00383;	Sphaerisporangium rufum
+A0A919VDG6	A0A919VDG6	unreviewed	NmrA-like family protein			Sinosporangium siamense
+A0A919XWP9	A0A919XWP9	unreviewed	Pyrimidine-nucleoside phosphorylase (EC 2.4.2.2)	2.4.2.2	PF02885;PF00591;PF07831;	Paenibacillus antibioticophila
+A0A919YPZ2	A0A919YPZ2	unreviewed	NAD(P)H nitroreductase		PF00881;	Paenibacillus montaniterrae
+A0A919Z8F5	A0A919Z8F5		deleted			
+A0A920A7N7	A0A920A7N7		deleted			
+A0A920BJ46	A0A920BJ46		deleted			
+A0A920HDV0	A0A920HDV0		deleted			
+A0A920K1K0	A0A920K1K0		deleted			
+A0A920K4F0	A0A920K4F0		deleted			
+A0A920MX76	A0A920MX76		deleted			
+A0A920NGI8	A0A920NGI8		deleted			
+A0A920NQE4	A0A920NQE4		deleted			
+A0A920RHP0	A0A920RHP0		deleted			
+A0A920SKP9	A0A920SKP9		deleted			
+A0A920TT13	A0A920TT13		deleted			
+A0A920YL16	A0A920YL16		deleted			
+A0A921AXW1	A0A921AXW1		deleted			
+A0A921GLU7	A0A921GLU7		deleted			
+A0A921HCA8	A0A921HCA8		deleted			
+A0A921JQD2	A0A921JQD2		deleted			
+A0A921JXF5	A0A921JXF5		deleted			
+A0A921KIQ2	A0A921KIQ2		deleted			
+A0A921MZK4	A0A921MZK4		deleted			
+A0A921Z5S9	A0A921Z5S9	unreviewed	cytidine deaminase (EC 3.5.4.5) (Cytidine aminohydrolase)	3.5.4.5	PF00383;	Manduca sexta (Tobacco hawkmoth) (Tobacco hornworm)
+A0A922XJV8	A0A922XJV8		deleted			
+A0A922YU59	A0A922YU59		deleted			
+A0A923CH99	A0A923CH99		deleted			
+A0A923E0W4	A0A923E0W4	unreviewed	FMN reductase (EC 1.5.1.38)	1.5.1.38	PF03358;	Schaalia hyovaginalis
+A0A923I2B5	A0A923I2B5	unreviewed	Cytidine deaminase (EC 3.5.4.5) (Cytidine aminohydrolase)	3.5.4.5	PF00383;	Cognatundibacterium rugosum
+A0A923N979	A0A923N979	unreviewed	NAD(P)H-dependent oxidoreductase		PF03358;	Pontibacter cellulosilyticus
+A0A923NNI3	A0A923NNI3	unreviewed	Aminotransferase class V-fold PLP-dependent enzyme		PF00282;	Zhenpiania hominis
+A0A923QM21	A0A923QM21		deleted			
+A0A923QR44	A0A923QR44		deleted			
+A0A923R6C6	A0A923R6C6		deleted			
+A0A923TBI1	A0A923TBI1		deleted			
+A0A923TUS7	A0A923TUS7		deleted			
+A0A923TXW2	A0A923TXW2		deleted			
+A0A923UBZ4	A0A923UBZ4		deleted			
+A0A923UFH6	A0A923UFH6		deleted			
+A0A923UR36	A0A923UR36		deleted			
+A0A923VAP6	A0A923VAP6		deleted			
+A0A923X4Y1	A0A923X4Y1		deleted			
+A0A923XUN0	A0A923XUN0		deleted			
+A0A923XYC4	A0A923XYC4		deleted			
+A0A923YIT2	A0A923YIT2		deleted			
+A0A923YXY0	A0A923YXY0		deleted			
+A0A923ZM39	A0A923ZM39		deleted			
+A0A923ZSW6	A0A923ZSW6		deleted			
+A0A924D9L2	A0A924D9L2		deleted			
+A0A924DE16	A0A924DE16		deleted			
+A0A924DMG7	A0A924DMG7		deleted			
+A0A924DRY7	A0A924DRY7		deleted			
+A0A924DUS4	A0A924DUS4		deleted			
+A0A924F2K8	A0A924F2K8		deleted			
+A0A924FNT5	A0A924FNT5		deleted			
+A0A924IMQ8	A0A924IMQ8		deleted			
+A0A924MFB3	A0A924MFB3		deleted			
+A0A924MM82	A0A924MM82		deleted			
+A0A924NTD3	A0A924NTD3		deleted			
+A0A924QR95	A0A924QR95		deleted			
+A0A924RN03	A0A924RN03		deleted			
+A0A924RSI7	A0A924RSI7		deleted			
+A0A924S916	A0A924S916		deleted			
+A0A924TJT1	A0A924TJT1		deleted			
+A0A924UDV0	A0A924UDV0		deleted			
+A0A924VWL8	A0A924VWL8		deleted			
+A0A924X885	A0A924X885		deleted			
+A0A924XM00	A0A924XM00		deleted			
+A0A924Y242	A0A924Y242		deleted			
+A0A924Y4E8	A0A924Y4E8		deleted			
+A0A925AA96	A0A925AA96		deleted			
+A0A925AUN7	A0A925AUN7		deleted			
+A0A925CXI3	A0A925CXI3		deleted			
+A0A925E867	A0A925E867		deleted			
+A0A925FWL2	A0A925FWL2		deleted			
+A0A925FYD2	A0A925FYD2		deleted			
+A0A925G4X8	A0A925G4X8		deleted			
+A0A925GMR1	A0A925GMR1		deleted			
+A0A925GRE6	A0A925GRE6		deleted			
+A0A925GUU0	A0A925GUU0		deleted			
+A0A925H4D3	A0A925H4D3		deleted			
+A0A925IA67	A0A925IA67		deleted			
+A0A925IRL7	A0A925IRL7		deleted			
+A0A925ITY0	A0A925ITY0		deleted			
+A0A925LGQ0	A0A925LGQ0		deleted			
+A0A925R457	A0A925R457		deleted			
+A0A925RJ41	A0A925RJ41		deleted			
+A0A925SHU0	A0A925SHU0		deleted			
+A0A925TRY1	A0A925TRY1		deleted			
+A0A925VC83	A0A925VC83		deleted			
+A0A925VYJ8	A0A925VYJ8		deleted			
+A0A925WFC9	A0A925WFC9		deleted			
+A0A925WTS2	A0A925WTS2		deleted			
+A0A925XDB5	A0A925XDB5		deleted			
+A0A925Y4P8	A0A925Y4P8		deleted			
+A0A925YX86	A0A925YX86		deleted			
+A0A925ZW17	A0A925ZW17		deleted			
+A0A926A947	A0A926A947		deleted			
+A0A926B7A1	A0A926B7A1		deleted			
+A0A926BP79	A0A926BP79		deleted			
+A0A926D179	A0A926D179	unreviewed	Nitroreductase family protein		PF00881;	Luoshenia tenuis
+A0A926D4Z5	A0A926D4Z5	unreviewed	Nitroreductase family protein		PF00881;	Gehongia tenuis
+A0A926DKJ5	A0A926DKJ5	unreviewed	Nitroreductase		PF00881;	Congzhengia minquanensis
+A0A926DTG6	A0A926DTG6	unreviewed	Glycoside hydrolase family 2 protein		PF16355;PF18565;PF00703;PF02836;PF02837;	Bianquea renquensis
+A0A926DZY8	A0A926DZY8	unreviewed	Nitroreductase family protein		PF00881;	Fumia xinanensis
+A0A926FAY4	A0A926FAY4	unreviewed	beta-mannosidase (EC 3.2.1.25)	3.2.1.25	PF00703;PF02836;PF22666;	Qingrenia yutianensis
+A0A926GV53	A0A926GV53		deleted			
+A0A926H6E7	A0A926H6E7		deleted			
+A0A926HMW1	A0A926HMW1	unreviewed	Cytidine deaminase (EC 3.5.4.5) (Cytidine aminohydrolase)	3.5.4.5	PF00383;	Luoshenia tenuis
+A0A926HR70	A0A926HR70	unreviewed	beta-mannosidase (EC 3.2.1.25)	3.2.1.25	PF00703;PF02836;PF22666;	Yeguia hominis
+A0A926K8E6	A0A926K8E6		deleted			
+A0A926KX05	A0A926KX05	unreviewed	RICIN domain-containing protein		PF02836;PF02837;PF14200;	Paenibacillus sedimenti
+A0A926NG28	A0A926NG28	unreviewed	Nitroreductase family protein		PF00881;	Polycladospora coralii
+A0A926TE49	A0A926TE49		deleted			
+A0A926UC16	A0A926UC16		deleted			
+A0A926UEX3	A0A926UEX3		deleted			
+A0A926Y3B6	A0A926Y3B6	unreviewed	SDR family oxidoreductase		PF13460;	Spirosoma profusum
+A0A927CJC3	A0A927CJC3	unreviewed	Glycoside hydrolase family 2		PF00703;PF02836;PF22666;	Paenibacillus arenilitoris
+A0A927FCG8	A0A927FCG8	unreviewed	NAD-dependent epimerase/dehydratase family protein		PF01370;	Pelagicoccus enzymogenes
+A0A927HD82	A0A927HD82	unreviewed	Putative NAD(P)H nitroreductase (EC 1.-.-.-)	1.-.-.-	PF00881;	Peribacillus faecalis
+A0A927IDH1	A0A927IDH1	unreviewed	Cytidine deaminase (EC 3.5.4.5)	3.5.4.5	PF00383;	Streptomyces chumphonensis
+A0A927IGW9	A0A927IGW9	unreviewed	Beta-galactosidase (EC 3.2.1.23) (Lactase)	3.2.1.23	PF02929;PF00703;PF02836;PF02837;PF16353;	Pelagicoccus enzymogenes
+A0A927JD34	A0A927JD34	unreviewed	NAD(P)H-binding protein		PF13460;	Lolliginicoccus lacisalsi
+A0A927N7I5	A0A927N7I5		deleted			
+A0A927N8S3	A0A927N8S3		deleted			
+A0A927NYS3	A0A927NYS3		deleted			
+A0A927P485	A0A927P485		deleted			
+A0A927P4Q4	A0A927P4Q4		deleted			
+A0A927PMS3	A0A927PMS3	unreviewed	NAD(P)H-dependent oxidoreductase		PF03358;	Lolliginicoccus lacisalsi
+A0A927RIL2	A0A927RIL2		deleted			
+A0A927RNH6	A0A927RNH6	unreviewed	Uncharacterized protein YbjT (DUF2867 family)			Actinopolymorpha pittospori
+A0A927RRP5	A0A927RRP5		deleted			
+A0A927RT39	A0A927RT39		deleted			
+A0A927SNV5	A0A927SNV5		deleted			
+A0A927SSN8	A0A927SSN8		deleted			
+A0A927STH1	A0A927STH1		deleted			
+A0A927SUK7	A0A927SUK7		deleted			
+A0A927TC81	A0A927TC81		deleted			
+A0A927ULV1	A0A927ULV1		deleted			
+A0A927V228	A0A927V228		deleted			
+A0A927VB45	A0A927VB45		deleted			
+A0A927ZIS7	A0A927ZIS7		deleted			
+A0A928A8C6	A0A928A8C6		deleted			
+A0A928BZP4	A0A928BZP4		deleted			
+A0A928CT33	A0A928CT33		deleted			
+A0A928CW92	A0A928CW92		deleted			
+A0A928CWY3	A0A928CWY3		deleted			
+A0A928D2V6	A0A928D2V6		deleted			
+A0A928D6T2	A0A928D6T2		deleted			
+A0A928DEW3	A0A928DEW3		deleted			
+A0A928DID5	A0A928DID5		deleted			
+A0A928E0R2	A0A928E0R2		deleted			
+A0A928EG26	A0A928EG26		deleted			
+A0A928EJR7	A0A928EJR7		deleted			
+A0A928ESG4	A0A928ESG4		deleted			
+A0A928F3R4	A0A928F3R4		deleted			
+A0A928FRI4	A0A928FRI4		deleted			
+A0A928GW24	A0A928GW24		deleted			
+A0A928GYJ5	A0A928GYJ5		deleted			
+A0A928HBC6	A0A928HBC6		deleted			
+A0A928HF34	A0A928HF34		deleted			
+A0A928I5S5	A0A928I5S5		deleted			
+A0A928I5T4	A0A928I5T4		deleted			
+A0A928IMJ9	A0A928IMJ9		deleted			
+A0A928JU95	A0A928JU95		deleted			
+A0A928KRV8	A0A928KRV8		deleted			
+A0A928LCI8	A0A928LCI8		deleted			
+A0A928LLU4	A0A928LLU4		deleted			
+A0A928MHH1	A0A928MHH1		deleted			
+A0A928NNW3	A0A928NNW3		deleted			
+A0A928PAN7	A0A928PAN7		deleted			
+A0A928Q128	A0A928Q128		deleted			
+A0A928QDH7	A0A928QDH7		deleted			
+A0A928QSD2	A0A928QSD2		deleted			
+A0A928S870	A0A928S870		deleted			
+A0A928UH61	A0A928UH61		deleted			
+A0A928V946	A0A928V946		deleted			
+A0A928YU32	A0A928YU32	unreviewed	Nitroreductase		PF00881;	Cellvibrio polysaccharolyticus
+A0A928ZQX1	A0A928ZQX1		deleted			
+A0A929BDC0	A0A929BDC0		deleted			
+A0A929BKR6	A0A929BKR6		deleted			
+A0A929DF89	A0A929DF89		deleted			
+A0A929DHN7	A0A929DHN7		deleted			
+A0A929F8W5	A0A929F8W5	unreviewed	NAD(P)H-dependent oxidoreductase		PF03358;	Leptolyngbya cf. ectocarpi LEGE 11479
+A0A929FC97	A0A929FC97		deleted			
+A0A929G601	A0A929G601		deleted			
+A0A929K0Q6	A0A929K0Q6		deleted			
+A0A929K6S2	A0A929K6S2		deleted			
+A0A929MSQ6	A0A929MSQ6		deleted			
+A0A929MV69	A0A929MV69		deleted			
+A0A929N0A7	A0A929N0A7		deleted			
+A0A929PCH6	A0A929PCH6		deleted			
+A0A929Q0W1	A0A929Q0W1		deleted			
+A0A929QYD3	A0A929QYD3		deleted			
+A0A929SN16	A0A929SN16		deleted			
+A0A929SS49	A0A929SS49		deleted			
+A0A929UF05	A0A929UF05		deleted			
+A0A929VMG2	A0A929VMG2		deleted			
+A0A929W3S0	A0A929W3S0		deleted			
+A0A929X0U1	A0A929X0U1		deleted			
+A0A930BHH6	A0A930BHH6		deleted			
+A0A930F7S0	A0A930F7S0		deleted			
+A0A930RGC3	A0A930RGC3		deleted			
+A0A930SUX3	A0A930SUX3		deleted			
+A0A930UHC1	A0A930UHC1	unreviewed	Complex I NDUFA9 subunit family protein		PF13460;	Candidatus Amphirhobacter heronislandensis
+A0A930V707	A0A930V707		deleted			
+A0A930WAK2	A0A930WAK2		deleted			
+A0A930XR52	A0A930XR52		deleted			
+A0A930Y3U8	A0A930Y3U8		deleted			
+A0A930YS39	A0A930YS39		deleted			
+A0A930Z5H7	A0A930Z5H7		deleted			
+A0A930Z9S7	A0A930Z9S7		deleted			
+A0A930ZD86	A0A930ZD86		deleted			
+A0A931AUU3	A0A931AUU3	unreviewed	Nitroreductase family protein		PF00881;	Enterococcus lacertideformus
+A0A931ECC9	A0A931ECC9		deleted			
+A0A931FHH3	A0A931FHH3	unreviewed	DUF4982 domain-containing protein		PF16355;PF00703;PF02836;PF02837;PF11721;	Hymenobacter properus
+A0A931GIA6	A0A931GIA6	unreviewed	FMN reductase (EC 1.5.1.38)	1.5.1.38	PF03358;	Zhihengliuella flava
+A0A931LP25	A0A931LP25		deleted			
+A0A931LRA9	A0A931LRA9		deleted			
+A0A931QAY3	A0A931QAY3		deleted			
+A0A931RMP2	A0A931RMP2		deleted			
+A0A931RUT5	A0A931RUT5		deleted			
+A0A931RX48	A0A931RX48		deleted			
+A0A931T106	A0A931T106		deleted			
+A0A931UQA9	A0A931UQA9		deleted			
+A0A931VRQ7	A0A931VRQ7		deleted			
+A0A931W6I5	A0A931W6I5		deleted			
+A0A931Y409	A0A931Y409		deleted			
+A0A931Y5V3	A0A931Y5V3		deleted			
+A0A931YG50	A0A931YG50		deleted			
+A0A931ZBC6	A0A931ZBC6		deleted			
+A0A932C374	A0A932C374		deleted			
+A0A932C4J8	A0A932C4J8		deleted			
+A0A932CZZ8	A0A932CZZ8		deleted			
+A0A932E0J6	A0A932E0J6		deleted			
+A0A932ELK6	A0A932ELK6		deleted			
+A0A932J7M6	A0A932J7M6		deleted			
+A0A932JK66	A0A932JK66		deleted			
+A0A932K333	A0A932K333		deleted			
+A0A932KCJ5	A0A932KCJ5		deleted			
+A0A932LR94	A0A932LR94		deleted			
+A0A932MK51	A0A932MK51		deleted			
+A0A932MLS8	A0A932MLS8		deleted			
+A0A932QT77	A0A932QT77		deleted			
+A0A932R1S8	A0A932R1S8		deleted			
+A0A932SG86	A0A932SG86		deleted			
+A0A932UIX4	A0A932UIX4		deleted			
+A0A932W9W9	A0A932W9W9		deleted			
+A0A932WPL0	A0A932WPL0		deleted			
+A0A932XPU1	A0A932XPU1		deleted			
+A0A932Y3V8	A0A932Y3V8		deleted			
+A0A932ZKS6	A0A932ZKS6		deleted			
+A0A933ARB3	A0A933ARB3		deleted			
+A0A933BE09	A0A933BE09		deleted			
+A0A933BYX6	A0A933BYX6		deleted			
+A0A933CU58	A0A933CU58		deleted			
+A0A933E290	A0A933E290		deleted			
+A0A933EQ58	A0A933EQ58		deleted			
+A0A933F285	A0A933F285		deleted			
+A0A933FH15	A0A933FH15		deleted			
+A0A933HGA2	A0A933HGA2		deleted			
+A0A933I6Y8	A0A933I6Y8		deleted			
+A0A933LIR6	A0A933LIR6		deleted			
+A0A933M4K3	A0A933M4K3		deleted			
+A0A933N1J5	A0A933N1J5		deleted			
+A0A933N8S9	A0A933N8S9		deleted			
+A0A933NAQ5	A0A933NAQ5		deleted			
+A0A933P203	A0A933P203		deleted			
+A0A933Q0L2	A0A933Q0L2		deleted			
+A0A933QVK6	A0A933QVK6		deleted			
+A0A933UYB0	A0A933UYB0		deleted			
+A0A933X5B6	A0A933X5B6		deleted			
+A0A933XFN1	A0A933XFN1		deleted			
+A0A933XM82	A0A933XM82		deleted			
+A0A933ZXD3	A0A933ZXD3		deleted			
+A0A934BY11	A0A934BY11		deleted			
+A0A934E0W4	A0A934E0W4		deleted			
+A0A934E926	A0A934E926		deleted			
+A0A934FV30	A0A934FV30		deleted			
+A0A934HAP8	A0A934HAP8		deleted			
+A0A934I7G4	A0A934I7G4	unreviewed	NAD(P)H-binding protein		PF00313;PF13460;	Sanguibacter suaedae
+A0A934IAH4	A0A934IAH4	unreviewed	Cytidine deaminase (EC 3.5.4.5) (Cytidine aminohydrolase)	3.5.4.5	PF00383;	Sanguibacter suaedae
+A0A934JUN2	A0A934JUN2	unreviewed	Nitroreductase family protein		PF00881;	Marinomonas transparens
+A0A934MXM4	A0A934MXM4	unreviewed	Nitroreductase family protein		PF00881;	Paenibacillus roseus
+A0A934NEZ1	A0A934NEZ1		deleted			
+A0A934P5P7	A0A934P5P7		deleted			
+A0A934PTJ2	A0A934PTJ2	unreviewed	thymidine phosphorylase (EC 2.4.2.4)	2.4.2.4	PF00591;	Mucilaginibacter segetis
+A0A934Q789	A0A934Q789	unreviewed	Cytidine deaminase (EC 3.5.4.5)	3.5.4.5	PF00383;	Leucobacter chromiisoli
+A0A934Q992	A0A934Q992	unreviewed	Thymidine phosphorylase (EC 2.4.2.4)	2.4.2.4	PF02885;PF00591;PF07831;	Leucobacter chromiisoli
+A0A934RCC5	A0A934RCC5	unreviewed	Cytidine deaminase (EC 3.5.4.5) (Cytidine aminohydrolase)	3.5.4.5	PF00383;	Haloferula rosea
+A0A934RU88	A0A934RU88	unreviewed	NAD(P)H-dependent oxidoreductase		PF00881;	Roseibacillus ishigakijimensis
+A0A934S0S5	A0A934S0S5	unreviewed	Beta-galactosidase (EC 3.2.1.23) (Lactase)	3.2.1.23	PF02929;PF00703;PF02836;PF02837;PF16353;	Pelagicoccus mobilis
+A0A934UW93	A0A934UW93	unreviewed	NAD(P)H-dependent oxidoreductase		PF03358;	Leucobacter chromiisoli
+A0A934YPQ0	A0A934YPQ0		deleted			
+A0A935DUM2	A0A935DUM2		deleted			
+A0A935EAB3	A0A935EAB3		deleted			
+A0A935JK63	A0A935JK63		deleted			
+A0A935JRE4	A0A935JRE4		deleted			
+A0A935MFH9	A0A935MFH9		deleted			
+A0A935N3W7	A0A935N3W7		deleted			
+A0A935NEL6	A0A935NEL6		deleted			
+A0A935QE03	A0A935QE03		deleted			
+A0A935QEP2	A0A935QEP2		deleted			
+A0A935TNW2	A0A935TNW2		deleted			
+A0A935TPH6	A0A935TPH6		deleted			
+A0A935UYD3	A0A935UYD3		deleted			
+A0A935UYZ5	A0A935UYZ5		deleted			
+A0A935WFR8	A0A935WFR8		deleted			
+A0A935WXX8	A0A935WXX8		deleted			
+A0A936A5R2	A0A936A5R2		deleted			
+A0A936AVC9	A0A936AVC9		deleted			
+A0A936BA59	A0A936BA59		deleted			
+A0A936BQC1	A0A936BQC1		deleted			
+A0A936DI43	A0A936DI43		deleted			
+A0A936FJ31	A0A936FJ31		deleted			
+A0A936GDW6	A0A936GDW6		deleted			
+A0A936H6L6	A0A936H6L6		deleted			
+A0A936HJ71	A0A936HJ71		deleted			
+A0A936IWQ9	A0A936IWQ9		deleted			
+A0A936MIH3	A0A936MIH3		deleted			
+A0A936RVF6	A0A936RVF6		deleted			
+A0A936U3S6	A0A936U3S6		deleted			
+A0A936VBF7	A0A936VBF7		deleted			
+A0A936WME9	A0A936WME9		deleted			
+A0A936YFU4	A0A936YFU4		deleted			
+A0A936YW42	A0A936YW42	unreviewed	Cytidine deaminase (EC 3.5.4.5) (Cytidine aminohydrolase)	3.5.4.5	PF00383;	Phytoamicus setariae
+A0A937AKZ1	A0A937AKZ1		deleted			
+A0A937AYK1	A0A937AYK1		deleted			
+A0A937DT77	A0A937DT77		deleted			
+A0A937ESI4	A0A937ESI4	unreviewed	SDR family NAD(P)-dependent oxidoreductase		PF05368;	Streptomyces actinomycinicus
+A0A937H3E6	A0A937H3E6		deleted			
+A0A937J473	A0A937J473		deleted			
+A0A937JY10	A0A937JY10	unreviewed	Nitroreductase family protein		PF00881;	Fulvivirga sediminis
+A0A937KJ92	A0A937KJ92		deleted			
+A0A937L1X8	A0A937L1X8		deleted			
+A0A937P5D8	A0A937P5D8		deleted			
+A0A937PA41	A0A937PA41		deleted			
+A0A937PDI5	A0A937PDI5		deleted			
+A0A937PTS4	A0A937PTS4		deleted			
+A0A937RJU4	A0A937RJU4	unreviewed	Cytidine deaminase		PF26947;	Frankia nepalensis
+A0A937TU24	A0A937TU24		deleted			
+A0A937UT38	A0A937UT38	unreviewed	Cytidine deaminase (EC 3.5.4.5) (Cytidine aminohydrolase)	3.5.4.5	PF00383;	Frankia nepalensis
+A0A937VI43	A0A937VI43		deleted			
+A0A937VIH5	A0A937VIH5		deleted			
+A0A937VJ36	A0A937VJ36		deleted			
+A0A937XAA7	A0A937XAA7		deleted			
+A0A937XHA2	A0A937XHA2		deleted			
+A0A937XKD8	A0A937XKD8		deleted			
+A0A937YXV5	A0A937YXV5		deleted			
+A0A938ACA8	A0A938ACA8		deleted			
+A0A938ACH8	A0A938ACH8		deleted			
+A0A938AKK1	A0A938AKK1		deleted			
+A0A938ALS6	A0A938ALS6		deleted			
+A0A938ASI2	A0A938ASI2		deleted			
+A0A938AUS1	A0A938AUS1		deleted			
+A0A938F2L5	A0A938F2L5		deleted			
+A0A938F7I3	A0A938F7I3		deleted			
+A0A938FI82	A0A938FI82		deleted			
+A0A938GWD9	A0A938GWD9		deleted			
+A0A938GWP4	A0A938GWP4		deleted			
+A0A938H4M8	A0A938H4M8		deleted			
+A0A938HAZ6	A0A938HAZ6		deleted			
+A0A938HDK3	A0A938HDK3		deleted			
+A0A938I8B3	A0A938I8B3		deleted			
+A0A938IFM7	A0A938IFM7		deleted			
+A0A938J9H8	A0A938J9H8		deleted			
+A0A938KKD3	A0A938KKD3		deleted			
+A0A938LMG4	A0A938LMG4		deleted			
+A0A938MEL7	A0A938MEL7		deleted			
+A0A938MQS8	A0A938MQS8		deleted			
+A0A938MUF9	A0A938MUF9		deleted			
+A0A938MZF8	A0A938MZF8		deleted			
+A0A938N3E6	A0A938N3E6		deleted			
+A0A938NBL7	A0A938NBL7		deleted			
+A0A938NR62	A0A938NR62		deleted			
+A0A938NR65	A0A938NR65		deleted			
+A0A938NRV4	A0A938NRV4		deleted			
+A0A938P7R8	A0A938P7R8		deleted			
+A0A938PAW5	A0A938PAW5		deleted			
+A0A938R1C2	A0A938R1C2		deleted			
+A0A938RY54	A0A938RY54		deleted			
+A0A938RYK4	A0A938RYK4		deleted			
+A0A938T353	A0A938T353		deleted			
+A0A938T7Q4	A0A938T7Q4		deleted			
+A0A938T9B8	A0A938T9B8		deleted			
+A0A938TSP7	A0A938TSP7		deleted			
+A0A938WVP0	A0A938WVP0	unreviewed	Nitroreductase family protein		PF00881;	Bifidobacterium pullorum subsp. saeculare
+A0A938YDT0	A0A938YDT0	unreviewed	Coenzyme F420-0:L-glutamate ligase (EC 6.3.2.31)	6.3.2.31	PF01996;PF00881;	Nakamurella leprariae
+A0A938YRL1	A0A938YRL1		deleted			
+A0A939AKU1	A0A939AKU1		deleted			
+A0A939B3U8	A0A939B3U8	unreviewed	Beta-galactosidase (EC 3.2.1.23) (Lactase)	3.2.1.23	PF02929;PF00703;PF02836;PF02837;PF16353;	Marseilla massiliensis
+A0A939B9L6	A0A939B9L6	unreviewed	Nitroreductase family protein		PF00881;	Bifidobacterium pullorum subsp. saeculare
+A0A939JMS0	A0A939JMS0	unreviewed	NAD(P)H-binding protein		PF05368;	Streptomyces triculaminicus
+A0A939JUH8	A0A939JUH8	unreviewed	NAD(P)H-dependent oxidoreductase		PF03358;	Jiella flava
+A0A939LPL4	A0A939LPL4	unreviewed	NADPH-dependent FMN reductase (EC 1.5.1.38)	1.5.1.38	PF03358;	Actinotalea soli
+A0A939NUA4	A0A939NUA4		deleted			
+A0A939P1V6	A0A939P1V6		deleted			
+A0A939Q353	A0A939Q353		deleted			
+A0A939Q4E9	A0A939Q4E9		deleted			
+A0A939R897	A0A939R897		deleted			
+A0A939RAM7	A0A939RAM7		deleted			
+A0A939TNC1	A0A939TNC1	unreviewed	NAD(P)H-dependent oxidoreductase		PF03358;	Leucobacter tardus
+A0A939UGZ4	A0A939UGZ4		deleted			
+A0A939UJ26	A0A939UJ26		deleted			
+A0A939VMW1	A0A939VMW1		deleted			
+A0A939VNK9	A0A939VNK9		deleted			
+A0A939WZ72	A0A939WZ72		deleted			
+A0A939XEP3	A0A939XEP3		deleted			
+A0A939XH14	A0A939XH14		deleted			
+A0A939XSN0	A0A939XSN0		deleted			
+A0A939YJG1	A0A939YJG1		deleted			
+A0A939Z2I1	A0A939Z2I1		deleted			
+A0A939Z3P4	A0A939Z3P4		deleted			
+A0A939ZSV9	A0A939ZSV9		deleted			
+A0A939ZXY8	A0A939ZXY8		deleted			
+A0A940B3E6	A0A940B3E6		deleted			
+A0A940BJ30	A0A940BJ30		deleted			
+A0A940C3X6	A0A940C3X6		deleted			
+A0A940FPJ3	A0A940FPJ3		deleted			
+A0A940GNV7	A0A940GNV7		deleted			
+A0A940ID12	A0A940ID12		deleted			
+A0A940LBN3	A0A940LBN3		deleted			
+A0A940LBP3	A0A940LBP3		deleted			
+A0A940LFW0	A0A940LFW0		deleted			
+A0A940M2H1	A0A940M2H1		deleted			
+A0A940PZU6	A0A940PZU6		deleted			
+A0A940QNM0	A0A940QNM0		deleted			
+A0A940SMI4	A0A940SMI4		deleted			
+A0A940SRZ2	A0A940SRZ2		deleted			
+A0A940UEM1	A0A940UEM1		deleted			
+A0A940UZN2	A0A940UZN2		deleted			
+A0A940V103	A0A940V103		deleted			
+A0A941A9B0	A0A941A9B0		deleted			
+A0A941CS36	A0A941CS36	unreviewed	Nitroreductase family protein		PF00881;	Proteiniclasticum sediminis
+A0A941F0H4	A0A941F0H4	unreviewed	NAD(P)H-dependent oxidoreductase		PF03358;	Actinospica durhamensis
+A0A941F7B6	A0A941F7B6	unreviewed	Beta-galactosidase (EC 3.2.1.23) (Lactase)	3.2.1.23	PF02929;PF00703;PF02836;PF02837;PF16353;	Carboxylicivirga sediminis
+A0A941J304	A0A941J304	unreviewed	beta-galactosidase (EC 3.2.1.23) (Lactase)	3.2.1.23	PF02929;PF00703;PF02836;PF02837;	Carboxylicivirga sediminis
+A0A941JDR6	A0A941JDR6		deleted			
+A0A941L0X0	A0A941L0X0		deleted			
+A0A941M1Z6	A0A941M1Z6		deleted			
+A0A941QXC6	A0A941QXC6		deleted			
+A0A941SQ28	A0A941SQ28		deleted			
+A0A941WQ03	A0A941WQ03		deleted			
+A0A941ZKH7	A0A941ZKH7		deleted			
+A0A942AAM3	A0A942AAM3		deleted			
+A0A942AE05	A0A942AE05		deleted			
+A0A942CBH4	A0A942CBH4		deleted			
+A0A942CRT8	A0A942CRT8		deleted			
+A0A942CXF2	A0A942CXF2		deleted			
+A0A942DFJ0	A0A942DFJ0		deleted			
+A0A942DXJ9	A0A942DXJ9	unreviewed	DUF4982 domain-containing protein		PF16355;PF00703;PF02836;PF02837;PF11721;	Pseudaminobacter soli (ex Zhang et al. 2022)
+A0A942HBL9	A0A942HBL9		deleted			
+A0A942HCS2	A0A942HCS2		deleted			
+A0A942HIT7	A0A942HIT7		deleted			
+A0A942JEM3	A0A942JEM3		deleted			
+A0A942KH41	A0A942KH41		deleted			
+A0A942KLF7	A0A942KLF7		deleted			
+A0A942KU56	A0A942KU56		deleted			
+A0A942MJ73	A0A942MJ73		deleted			
+A0A942N530	A0A942N530		deleted			
+A0A942PTA1	A0A942PTA1		deleted			
+A0A942PWR7	A0A942PWR7		deleted			
+A0A942QMX1	A0A942QMX1		deleted			
+A0A942R5N7	A0A942R5N7		deleted			
+A0A942RL03	A0A942RL03		deleted			
+A0A942USY8	A0A942USY8	unreviewed	Pyrimidine-nucleoside phosphorylase (EC 2.4.2.2)	2.4.2.2	PF02885;PF00591;PF07831;	Lederbergia citrea
+A0A942VZV1	A0A942VZV1		deleted			
+A0A942YE49	A0A942YE49	unreviewed	NAD(P)H-dependent oxidoreductase		PF03358;	Lederbergia citri
+A0A943B5D4	A0A943B5D4		deleted			
+A0A943BIY3	A0A943BIY3		deleted			
+A0A943EBW3	A0A943EBW3		deleted			
+A0A943G8T1	A0A943G8T1		deleted			
+A0A943GTF1	A0A943GTF1		deleted			
+A0A943GXJ1	A0A943GXJ1		deleted			
+A0A943J0I4	A0A943J0I4		deleted			
+A0A943JBT2	A0A943JBT2		deleted			
+A0A943KBL4	A0A943KBL4		deleted			
+A0A943KHS2	A0A943KHS2		deleted			
+A0A943LZF9	A0A943LZF9		deleted			
+A0A943PAE4	A0A943PAE4		deleted			
+A0A943PZY0	A0A943PZY0		deleted			
+A0A943QHU1	A0A943QHU1		deleted			
+A0A943TRA1	A0A943TRA1		deleted			
+A0A943XGT8	A0A943XGT8		deleted			
+A0A943Y8M4	A0A943Y8M4		deleted			
+A0A943YNA1	A0A943YNA1		deleted			
+A0A944BTQ6	A0A944BTQ6		deleted			
+A0A944BU36	A0A944BU36		deleted			
+A0A944DR95	A0A944DR95		deleted			
+A0A944DY70	A0A944DY70		deleted			
+A0A944H547	A0A944H547		deleted			
+A0A944HZ54	A0A944HZ54		deleted			
+A0A944IJM1	A0A944IJM1		deleted			
+A0A944L1C0	A0A944L1C0		deleted			
+A0A944MMQ5	A0A944MMQ5		deleted			
+A0A944MYK0	A0A944MYK0		deleted			
+A0A944N8C2	A0A944N8C2		deleted			
+A0A944NDD4	A0A944NDD4		deleted			
+A0A944PCS5	A0A944PCS5		deleted			
+A0A944PEZ6	A0A944PEZ6		deleted			
+A0A944UFF5	A0A944UFF5		deleted			
+A0A944WD41	A0A944WD41		deleted			
+A0A944X9N4	A0A944X9N4		deleted			
+A0A944Y3Y3	A0A944Y3Y3		deleted			
+A0A944YJZ7	A0A944YJZ7		deleted			
+A0A944ZH20	A0A944ZH20		deleted			
+A0A945AGG8	A0A945AGG8		deleted			
+A0A945B8X8	A0A945B8X8		deleted			
+A0A945LF59	A0A945LF59		deleted			
+A0A945QZI1	A0A945QZI1		deleted			
+A0A945S150	A0A945S150		deleted			
+A0A945S491	A0A945S491		deleted			
+A0A945TZP8	A0A945TZP8		deleted			
+A0A945VKJ9	A0A945VKJ9		deleted			
+A0A945X446	A0A945X446		deleted			
+A0A945YCP1	A0A945YCP1		deleted			
+A0A945ZAL4	A0A945ZAL4		deleted			
+A0A945ZIR2	A0A945ZIR2		deleted			
+A0A945ZL49	A0A945ZL49		deleted			
+A0A946A9L0	A0A946A9L0		deleted			
+A0A946AE40	A0A946AE40		deleted			
+A0A946C436	A0A946C436		deleted			
+A0A946CZN1	A0A946CZN1		deleted			
+A0A946GVS6	A0A946GVS6		deleted			
+A0A946GZ93	A0A946GZ93		deleted			
+A0A946HG38	A0A946HG38		deleted			
+A0A946I2N1	A0A946I2N1		deleted			
+A0A946P4K3	A0A946P4K3		deleted			
+A0A946UE99	A0A946UE99		deleted			
+A0A946VI21	A0A946VI21		deleted			
+A0A946WTY3	A0A946WTY3		deleted			
+A0A946YGL8	A0A946YGL8		deleted			
+A0A946YZQ9	A0A946YZQ9		deleted			
+A0A947AQG8	A0A947AQG8		deleted			
+A0A947CD90	A0A947CD90		deleted			
+A0A947CYG9	A0A947CYG9		deleted			
+A0A947F8A1	A0A947F8A1		deleted			
+A0A947IJE6	A0A947IJE6		deleted			
+A0A947K779	A0A947K779		deleted			
+A0A947MUG0	A0A947MUG0		deleted			
+A0A947P9C1	A0A947P9C1		deleted			
+A0A947QI74	A0A947QI74		deleted			
+A0A947QR14	A0A947QR14		deleted			
+A0A947VPJ5	A0A947VPJ5		deleted			
+A0A947W7Q3	A0A947W7Q3		deleted			
+A0A947WH81	A0A947WH81		deleted			
+A0A947YVD2	A0A947YVD2		deleted			
+A0A948AVW2	A0A948AVW2		deleted			
+A0A948CG07	A0A948CG07		deleted			
+A0A948E7X9	A0A948E7X9		deleted			
+A0A948HHF6	A0A948HHF6		deleted			
+A0A948N3Z5	A0A948N3Z5		deleted			
+A0A948PN23	A0A948PN23		deleted			
+A0A948Q8K5	A0A948Q8K5		deleted			
+A0A948R8H5	A0A948R8H5		deleted			
+A0A948RJD4	A0A948RJD4		deleted			
+A0A948RZJ9	A0A948RZJ9		deleted			
+A0A948T177	A0A948T177		deleted			
+A0A948WEE7	A0A948WEE7		deleted			
+A0A948WK05	A0A948WK05		deleted			
+A0A948WR47	A0A948WR47		deleted			
+A0A948WSM7	A0A948WSM7		deleted			
+A0A949A1R7	A0A949A1R7		deleted			
+A0A949BXS8	A0A949BXS8		deleted			
+A0A949F6X2	A0A949F6X2		deleted			
+A0A949HJT0	A0A949HJT0		deleted			
+A0A949IGQ7	A0A949IGQ7		deleted			
+A0A949JBI3	A0A949JBI3		deleted			
+A0A949JJD1	A0A949JJD1	unreviewed	Aspartate aminotransferase family protein		PF00282;	Streptomyces tardus
+A0A949K7R6	A0A949K7R6	unreviewed	DUF4982 domain-containing protein		PF16355;PF18565;PF00703;PF02836;	Diplocloster agilis
+A0A949M1V8	A0A949M1V8		deleted			
+A0A949MG49	A0A949MG49		deleted			
+A0A949SHF6	A0A949SHF6		deleted			
+A0A949U687	A0A949U687		deleted			
+A0A949WZE5	A0A949WZE5		deleted			
+A0A949XM23	A0A949XM23		deleted			
+A0A949ZDD9	A0A949ZDD9		deleted			
+A0A949ZE74	A0A949ZE74		deleted			
+A0A950A9B1	A0A950A9B1		deleted			
+A0A950AT11	A0A950AT11		deleted			
+A0A950C409	A0A950C409		deleted			
+A0A950C4M7	A0A950C4M7		deleted			
+A0A950CFS7	A0A950CFS7		deleted			
+A0A950CW30	A0A950CW30		deleted			
+A0A950CZB6	A0A950CZB6		deleted			
+A0A950DZU5	A0A950DZU5		deleted			
+A0A950E3G4	A0A950E3G4		deleted			
+A0A950KWC7	A0A950KWC7		deleted			
+A0A950M7X0	A0A950M7X0		deleted			
+A0A950NHB1	A0A950NHB1		deleted			
+A0A950RES7	A0A950RES7		deleted			
+A0A950VJH1	A0A950VJH1		deleted			
+A0A950VM01	A0A950VM01		deleted			
+A0A950W4U8	A0A950W4U8		deleted			
+A0A950X242	A0A950X242		deleted			
+A0A950Z1V1	A0A950Z1V1		deleted			
+A0A951BJZ7	A0A951BJZ7		deleted			
+A0A951BXW5	A0A951BXW5		deleted			
+A0A951FXI5	A0A951FXI5		deleted			
+A0A951GF20	A0A951GF20		deleted			
+A0A951I9U9	A0A951I9U9		deleted			
+A0A951K499	A0A951K499		deleted			
+A0A951LIA5	A0A951LIA5		deleted			
+A0A951LK84	A0A951LK84		deleted			
+A0A951MSE7	A0A951MSE7		deleted			
+A0A951N4N3	A0A951N4N3		deleted			
+A0A951N869	A0A951N869		deleted			
+A0A951NJ40	A0A951NJ40		deleted			
+A0A951QQU2	A0A951QQU2		deleted			
+A0A951R481	A0A951R481		deleted			
+A0A951X4A1	A0A951X4A1		deleted			
+A0A951XH77	A0A951XH77		deleted			
+A0A952D8M7	A0A952D8M7		deleted			
+A0A952H8X5	A0A952H8X5		deleted			
+A0A952HTX7	A0A952HTX7		deleted			
+A0A952IMU3	A0A952IMU3		deleted			
+A0A952INE3	A0A952INE3		deleted			
+A0A952KSA4	A0A952KSA4		deleted			
+A0A952RMF7	A0A952RMF7		deleted			
+A0A952TV30	A0A952TV30		deleted			
+A0A952TZY7	A0A952TZY7		deleted			
+A0A952U8C4	A0A952U8C4		deleted			
+A0A952UU61	A0A952UU61		deleted			
+A0A953AK45	A0A953AK45		deleted			
+A0A953AP79	A0A953AP79		deleted			
+A0A953DE65	A0A953DE65		deleted			
+A0A953G0S7	A0A953G0S7		deleted			
+A0A953GKN3	A0A953GKN3		deleted			
+A0A953HDV3	A0A953HDV3		deleted			
+A0A953IC70	A0A953IC70		deleted			
+A0A953KGX4	A0A953KGX4		deleted			
+A0A953LA47	A0A953LA47	unreviewed	NAD(P)H-dependent oxidoreductase		PF00881;	Membranihabitans marinus
+A0A953MEC1	A0A953MEC1		deleted			
+A0A953NBH4	A0A953NBH4	unreviewed	Anthranilate phosphoribosyltransferase (EC 2.4.2.18)	2.4.2.18	PF02885;PF00591;	Zwartia hollandica
+A0A953P2W1	A0A953P2W1		deleted			
+A0A953PMH9	A0A953PMH9		deleted			
+A0A953QLD0	A0A953QLD0		deleted			
+A0A953R587	A0A953R587		deleted			
+A0A953SWJ9	A0A953SWJ9		deleted			
+A0A953UMJ8	A0A953UMJ8		deleted			
+A0A953V0Q3	A0A953V0Q3		deleted			
+A0A953Z7G4	A0A953Z7G4		deleted			
+A0A954A6N2	A0A954A6N2		deleted			
+A0A954AKF1	A0A954AKF1		deleted			
+A0A954ALR8	A0A954ALR8		deleted			
+A0A954DFW3	A0A954DFW3		deleted			
+A0A954EBP0	A0A954EBP0		deleted			
+A0A954EG88	A0A954EG88		deleted			
+A0A954FZ22	A0A954FZ22		deleted			
+A0A954GS99	A0A954GS99		deleted			
+A0A954H1N4	A0A954H1N4		deleted			
+A0A954INX7	A0A954INX7		deleted			
+A0A954KN79	A0A954KN79		deleted			
+A0A954L6M5	A0A954L6M5		deleted			
+A0A954NL86	A0A954NL86		deleted			
+A0A954Q9Q7	A0A954Q9Q7		deleted			
+A0A954QA23	A0A954QA23		deleted			
+A0A954QR55	A0A954QR55		deleted			
+A0A954R089	A0A954R089		deleted			
+A0A954RXG2	A0A954RXG2		deleted			
+A0A954S0P3	A0A954S0P3		deleted			
+A0A954UA63	A0A954UA63		deleted			
+A0A954VX39	A0A954VX39		deleted			
+A0A954XZZ9	A0A954XZZ9		deleted			
+A0A954Z2T8	A0A954Z2T8		deleted			
+A0A954Z3H1	A0A954Z3H1		deleted			
+A0A955A3H0	A0A955A3H0		deleted			
+A0A955B893	A0A955B893		deleted			
+A0A955BB05	A0A955BB05		deleted			
+A0A955C5X0	A0A955C5X0		deleted			
+A0A955FQ64	A0A955FQ64		deleted			
+A0A955FQJ2	A0A955FQJ2		deleted			
+A0A955IER0	A0A955IER0		deleted			
+A0A955IRU9	A0A955IRU9		deleted			
+A0A955JPI2	A0A955JPI2		deleted			
+A0A955LV01	A0A955LV01		deleted			
+A0A955MWK1	A0A955MWK1		deleted			
+A0A955UK04	A0A955UK04		deleted			
+A0A955XAH8	A0A955XAH8		deleted			
+A0A955ZHQ3	A0A955ZHQ3		deleted			
+A0A956AAA8	A0A956AAA8		deleted			
+A0A956AGJ1	A0A956AGJ1		deleted			
+A0A956AMV0	A0A956AMV0		deleted			
+A0A956ANK4	A0A956ANK4		deleted			
+A0A956AX70	A0A956AX70		deleted			
+A0A956CPQ4	A0A956CPQ4		deleted			
+A0A956EPY2	A0A956EPY2		deleted			
+A0A956GKN3	A0A956GKN3		deleted			
+A0A956HS67	A0A956HS67		deleted			
+A0A956ILX2	A0A956ILX2		deleted			
+A0A956JSS8	A0A956JSS8		deleted			
+A0A956L3E6	A0A956L3E6		deleted			
+A0A956LK85	A0A956LK85		deleted			
+A0A956M4I6	A0A956M4I6		deleted			
+A0A956MEY9	A0A956MEY9		deleted			
+A0A956MK89	A0A956MK89		deleted			
+A0A956NBF6	A0A956NBF6		deleted			
+A0A956NRN1	A0A956NRN1		deleted			
+A0A956PKD4	A0A956PKD4		deleted			
+A0A956QH75	A0A956QH75		deleted			
+A0A956RJQ1	A0A956RJQ1		deleted			
+A0A956S1R4	A0A956S1R4		deleted			
+A0A956SLW9	A0A956SLW9		deleted			
+A0A956TGC8	A0A956TGC8		deleted			
+A0A956TKC5	A0A956TKC5		deleted			
+A0A956TMW5	A0A956TMW5		deleted			
+A0A956UZU3	A0A956UZU3		deleted			
+A0A956XYN9	A0A956XYN9		deleted			
+A0A956Z442	A0A956Z442		deleted			
+A0A956ZWN2	A0A956ZWN2		deleted			
+A0A957BCG5	A0A957BCG5		deleted			
+A0A957C599	A0A957C599		deleted			
+A0A957F293	A0A957F293		deleted			
+A0A957FSQ4	A0A957FSQ4		deleted			
+A0A957GF47	A0A957GF47		deleted			
+A0A957LUY2	A0A957LUY2		deleted			
+A0A957NSC6	A0A957NSC6		deleted			
+A0A957P0Y7	A0A957P0Y7		deleted			
+A0A957P3J1	A0A957P3J1		deleted			
+A0A957PB75	A0A957PB75		deleted			
+A0A957PDU8	A0A957PDU8		deleted			
+A0A957PH74	A0A957PH74		deleted			
+A0A957QCV7	A0A957QCV7		deleted			
+A0A957QZT8	A0A957QZT8		deleted			
+A0A957TX30	A0A957TX30		deleted			
+A0A957U2C3	A0A957U2C3		deleted			
+A0A957U9I9	A0A957U9I9		deleted			
+A0A957W876	A0A957W876		deleted			
+A0A957Z2X2	A0A957Z2X2		deleted			
+A0A957ZBN2	A0A957ZBN2		deleted			
+A0A958BFA6	A0A958BFA6		deleted			
+A0A958BX23	A0A958BX23		deleted			
+A0A958CFT2	A0A958CFT2		deleted			
+A0A958CSS4	A0A958CSS4		deleted			
+A0A958D917	A0A958D917		deleted			
+A0A958EB59	A0A958EB59		deleted			
+A0A958ELL7	A0A958ELL7		deleted			
+A0A958EUN4	A0A958EUN4		deleted			
+A0A958F5M1	A0A958F5M1		deleted			
+A0A958GRC2	A0A958GRC2		deleted			
+A0A958GYU6	A0A958GYU6		deleted			
+A0A958H2W6	A0A958H2W6		deleted			
+A0A958HF92	A0A958HF92		deleted			
+A0A958I985	A0A958I985		deleted			
+A0A958IUH8	A0A958IUH8		deleted			
+A0A958K950	A0A958K950		deleted			
+A0A958KHL0	A0A958KHL0		deleted			
+A0A958KS48	A0A958KS48		deleted			
+A0A958L7T0	A0A958L7T0		deleted			
+A0A958N633	A0A958N633		deleted			
+A0A958NTC6	A0A958NTC6		deleted			
+A0A958PH02	A0A958PH02		deleted			
+A0A958Q4I4	A0A958Q4I4		deleted			
+A0A958QLB4	A0A958QLB4		deleted			
+A0A958R5N6	A0A958R5N6		deleted			
+A0A958RRM6	A0A958RRM6		deleted			
+A0A958RUH7	A0A958RUH7		deleted			
+A0A958S2U5	A0A958S2U5		deleted			
+A0A958SDA3	A0A958SDA3		deleted			
+A0A958UR42	A0A958UR42		deleted			
+A0A958VEV1	A0A958VEV1		deleted			
+A0A958WB92	A0A958WB92		deleted			
+A0A958YIC3	A0A958YIC3		deleted			
+A0A958Z5Y3	A0A958Z5Y3		deleted			
+A0A958Z9L1	A0A958Z9L1		deleted			
+A0A958ZD49	A0A958ZD49		deleted			
+A0A959AWQ2	A0A959AWQ2		deleted			
+A0A959B898	A0A959B898		deleted			
+A0A959CKB0	A0A959CKB0		deleted			
+A0A959CLW5	A0A959CLW5		deleted			
+A0A959D9Y5	A0A959D9Y5		deleted			
+A0A959DYG2	A0A959DYG2		deleted			
+A0A959G1H7	A0A959G1H7		deleted			
+A0A959GNB9	A0A959GNB9		deleted			
+A0A959GRS0	A0A959GRS0		deleted			
+A0A959H0G6	A0A959H0G6		deleted			
+A0A959H892	A0A959H892		deleted			
+A0A959I0L6	A0A959I0L6		deleted			
+A0A959ILR4	A0A959ILR4		deleted			
+A0A959KE30	A0A959KE30		deleted			
+A0A959KLV0	A0A959KLV0		deleted			
+A0A959KP75	A0A959KP75		deleted			
+A0A959KR03	A0A959KR03		deleted			
+A0A959L4E6	A0A959L4E6		deleted			
+A0A959LXS6	A0A959LXS6		deleted			
+A0A959MDS3	A0A959MDS3		deleted			
+A0A959MWS0	A0A959MWS0		deleted			
+A0A959P1V5	A0A959P1V5		deleted			
+A0A959Q421	A0A959Q421		deleted			
+A0A959QEY6	A0A959QEY6		deleted			
+A0A959RM09	A0A959RM09		deleted			
+A0A959RZP8	A0A959RZP8		deleted			
+A0A959SMY7	A0A959SMY7		deleted			
+A0A959VI38	A0A959VI38		deleted			
+A0A959WGX0	A0A959WGX0		deleted			
+A0A959WK47	A0A959WK47		deleted			
+A0A959Z7Z0	A0A959Z7Z0		deleted			
+A0A959ZSF8	A0A959ZSF8		deleted			
+A0A959ZSZ7	A0A959ZSZ7		deleted			
+A0A960E3Y2	A0A960E3Y2		deleted			
+A0A960EC51	A0A960EC51		deleted			
+A0A960ENV8	A0A960ENV8		deleted			
+A0A960EQI0	A0A960EQI0		deleted			
+A0A960FWY4	A0A960FWY4		deleted			
+A0A960HKX6	A0A960HKX6		deleted			
+A0A960J799	A0A960J799		deleted			
+A0A960JJ35	A0A960JJ35		deleted			
+A0A960KGJ0	A0A960KGJ0		deleted			
+A0A960KJ97	A0A960KJ97		deleted			
+A0A960L0X5	A0A960L0X5		deleted			
+A0A960L147	A0A960L147		deleted			
+A0A960NIB2	A0A960NIB2		deleted			
+A0A960P471	A0A960P471		deleted			
+A0A960P6M8	A0A960P6M8		deleted			
+A0A960PZW5	A0A960PZW5		deleted			
+A0A960R5F8	A0A960R5F8		deleted			
+A0A960SEC8	A0A960SEC8		deleted			
+A0A960T3K5	A0A960T3K5		deleted			
+A0A960T3L0	A0A960T3L0		deleted			
+A0A960TJB3	A0A960TJB3		deleted			
+A0A960TMI3	A0A960TMI3		deleted			
+A0A960U0Z9	A0A960U0Z9		deleted			
+A0A960U9K3	A0A960U9K3		deleted			
+A0A960UV30	A0A960UV30		deleted			
+A0A960V584	A0A960V584		deleted			
+A0A960VJK5	A0A960VJK5		deleted			
+A0A960VS32	A0A960VS32		deleted			
+A0A960XHK1	A0A960XHK1		deleted			
+A0A960XK96	A0A960XK96		deleted			
+A0A960Y744	A0A960Y744		deleted			
+A0A960Z9Z4	A0A960Z9Z4		deleted			
+A0A960ZPT6	A0A960ZPT6		deleted			
+A0A961AJB0	A0A961AJB0		deleted			
+A0A961BSX0	A0A961BSX0		deleted			
+A0A961F9E8	A0A961F9E8		deleted			
+A0A961GVE0	A0A961GVE0		deleted			
+A0A961L1I8	A0A961L1I8		deleted			
+A0A961MAH7	A0A961MAH7		deleted			
+A0A961NRN3	A0A961NRN3		deleted			
+A0A961P7F3	A0A961P7F3		deleted			
+A0A961Q4G0	A0A961Q4G0		deleted			
+A0A961TFV5	A0A961TFV5		deleted			
+A0A962B7X1	A0A962B7X1		deleted			
+A0A962C254	A0A962C254		deleted			
+A0A962D6C8	A0A962D6C8		deleted			
+A0A962DG76	A0A962DG76		deleted			
+A0A962E4P0	A0A962E4P0		deleted			
+A0A962E8Z0	A0A962E8Z0		deleted			
+A0A962FGC4	A0A962FGC4		deleted			
+A0A962HB59	A0A962HB59		deleted			
+A0A962HMD0	A0A962HMD0		deleted			
+A0A962IM82	A0A962IM82		deleted			
+A0A962J2Y5	A0A962J2Y5		deleted			
+A0A962L5N8	A0A962L5N8		deleted			
+A0A962P1G4	A0A962P1G4		deleted			
+A0A962QGN6	A0A962QGN6		deleted			
+A0A962R0Z1	A0A962R0Z1		deleted			
+A0A962TVH6	A0A962TVH6		deleted			
+A0A962V1M3	A0A962V1M3		deleted			
+A0A962VIY8	A0A962VIY8		deleted			
+A0A963A7U4	A0A963A7U4		deleted			
+A0A963AZY9	A0A963AZY9		deleted			
+A0A963B9T0	A0A963B9T0		deleted			
+A0A963HMS0	A0A963HMS0		deleted			
+A0A963KGP2	A0A963KGP2		deleted			
+A0A963MDM3	A0A963MDM3		deleted			
+A0A963MZT3	A0A963MZT3		deleted			
+A0A963P8A8	A0A963P8A8		deleted			
+A0A963QAF1	A0A963QAF1		deleted			
+A0A963YUJ1	A0A963YUJ1	unreviewed	Cytidine deaminase (EC 3.5.4.5)	3.5.4.5	PF00383;PF08211;	Acidisoma silvae
+A0A963Z0P1	A0A963Z0P1	unreviewed	NAD(P)H-dependent oxidoreductase		PF03358;	Acidisoma cellulosilyticum
+A0A964E1H9	A0A964E1H9	unreviewed	FMN reductase		PF03358;	Acidisoma silvae
+A0A964EQN3	A0A964EQN3		deleted			
+A0A964ERH9	A0A964ERH9		deleted			
+A0A964HBE3	A0A964HBE3		deleted			
+A0A964IJN7	A0A964IJN7		deleted			
+A0A964MWH7	A0A964MWH7		deleted			
+A0A964Q0K2	A0A964Q0K2		deleted			
+A0A964QEC8	A0A964QEC8		deleted			
+A0A964V6G5	A0A964V6G5		deleted			
+A0A964VB51	A0A964VB51		deleted			
+A0A964VG35	A0A964VG35		deleted			
+A0A964Z3X5	A0A964Z3X5		deleted			
+A0A964ZEC8	A0A964ZEC8		deleted			
+A0A965BB03	A0A965BB03		deleted			
+A0A965BWP8	A0A965BWP8		deleted			
+A0A965CH34	A0A965CH34		deleted			
+A0A965CT82	A0A965CT82		deleted			
+A0A965ELS1	A0A965ELS1		deleted			
+A0A965G8I0	A0A965G8I0		deleted			
+A0A965GG47	A0A965GG47		deleted			
+A0A965GI54	A0A965GI54		deleted			
+A0A965GTB3	A0A965GTB3		deleted			
+A0A965GXD3	A0A965GXD3		deleted			
+A0A965HVM3	A0A965HVM3		deleted			
+A0A965IV30	A0A965IV30		deleted			
+A0A965J121	A0A965J121		deleted			
+A0A965K673	A0A965K673		deleted			
+A0A965L293	A0A965L293		deleted			
+A0A965MHB4	A0A965MHB4		deleted			
+A0A965N562	A0A965N562		deleted			
+A0A965NKW3	A0A965NKW3		deleted			
+A0A965Q9Z3	A0A965Q9Z3		deleted			
+A0A965QAC6	A0A965QAC6		deleted			
+A0A965QPY9	A0A965QPY9		deleted			
+A0A965QX91	A0A965QX91		deleted			
+A0A965RA53	A0A965RA53		deleted			
+A0A965RNW1	A0A965RNW1		deleted			
+A0A965RP60	A0A965RP60		deleted			
+A0A965SWC7	A0A965SWC7		deleted			
+A0A965TWQ7	A0A965TWQ7		deleted			
+A0A965U684	A0A965U684		deleted			
+A0A965U7D4	A0A965U7D4		deleted			
+A0A965VTA0	A0A965VTA0		deleted			
+A0A965X0R4	A0A965X0R4		deleted			
+A0A965XV68	A0A965XV68		deleted			
+A0A965Y1N4	A0A965Y1N4		deleted			
+A0A965Y6H9	A0A965Y6H9		deleted			
+A0A965YER9	A0A965YER9		deleted			
+A0A966B9L2	A0A966B9L2		deleted			
+A0A966D2D5	A0A966D2D5		deleted			
+A0A966G7G2	A0A966G7G2		deleted			
+A0A966H3V8	A0A966H3V8		deleted			
+A0A966HY08	A0A966HY08		deleted			
+A0A966I0K5	A0A966I0K5		deleted			
+A0A966LI22	A0A966LI22		deleted			
+A0A966MBE7	A0A966MBE7		deleted			
+A0A966MTP2	A0A966MTP2		deleted			
+A0A966N0X7	A0A966N0X7		deleted			
+A0A966PJE2	A0A966PJE2		deleted			
+A0A966QFU5	A0A966QFU5		deleted			
+A0A966R839	A0A966R839		deleted			
+A0A966S9A9	A0A966S9A9		deleted			
+A0A966SK73	A0A966SK73		deleted			
+A0A966SXI7	A0A966SXI7		deleted			
+A0A966T7I5	A0A966T7I5		deleted			
+A0A966TQ60	A0A966TQ60		deleted			
+A0A966TWQ7	A0A966TWQ7		deleted			
+A0A966V9B7	A0A966V9B7		deleted			
+A0A966VAP8	A0A966VAP8		deleted			
+A0A966WVY6	A0A966WVY6		deleted			
+A0A966XTN6	A0A966XTN6		deleted			
+A0A967JAD2	A0A967JAD2		deleted			
+A0A967JQ41	A0A967JQ41		deleted			
+A0A967VT65	A0A967VT65		deleted			
+A0A967VYP7	A0A967VYP7		deleted			
+A0A967Z435	A0A967Z435		deleted			
+A0A968ACA0	A0A968ACA0		deleted			
+A0A968GC20	A0A968GC20	unreviewed	Cytidine deaminase (EC 3.5.4.5) (Cytidine aminohydrolase)	3.5.4.5	PF00383;	Entomospira nematocerorum
+A0A968GW38	A0A968GW38		deleted			
+A0A968H1K1	A0A968H1K1		deleted			
+A0A968HLM5	A0A968HLM5		deleted			
+A0A968L4S2	A0A968L4S2		deleted			
+A0A968L9H6	A0A968L9H6		deleted			
+A0A968M5L7	A0A968M5L7		deleted			
+A0A968P7I7	A0A968P7I7		deleted			
+A0A968Q4M4	A0A968Q4M4		deleted			
+A0A968RNE4	A0A968RNE4		deleted			
+A0A968SNR7	A0A968SNR7		deleted			
+A0A968UGG6	A0A968UGG6		deleted			
+A0A968VPP9	A0A968VPP9		deleted			
+A0A968VSJ1	A0A968VSJ1		deleted			
+A0A968VYX9	A0A968VYX9		deleted			
+A0A968W059	A0A968W059		deleted			
+A0A968XYN6	A0A968XYN6		deleted			
+A0A968ZGR7	A0A968ZGR7		deleted			
+A0A969ASR6	A0A969ASR6		deleted			
+A0A969AZI9	A0A969AZI9		deleted			
+A0A969B0Y7	A0A969B0Y7		deleted			
+A0A969C3Y8	A0A969C3Y8		deleted			
+A0A969DP78	A0A969DP78		deleted			
+A0A969GH91	A0A969GH91		deleted			
+A0A969GJ32	A0A969GJ32		deleted			
+A0A969GPU6	A0A969GPU6		deleted			
+A0A969ILL6	A0A969ILL6		deleted			
+A0A969IPX3	A0A969IPX3		deleted			
+A0A969L0I5	A0A969L0I5		deleted			
+A0A969NJJ7	A0A969NJJ7		deleted			
+A0A969S3B9	A0A969S3B9		deleted			
+A0A969W7E9	A0A969W7E9	unreviewed	Oxygen-insensitive NAD(P)H nitroreductase (EC 1.5.1.34)	1.5.1.34	PF00881;	Solimonas marina
+A0A969XBV1	A0A969XBV1		deleted			
+A0A969XTK4	A0A969XTK4		deleted			
+A0A969Y1B7	A0A969Y1B7		deleted			
+A0A969Y9E7	A0A969Y9E7		deleted			
+A0A969ZXZ7	A0A969ZXZ7		deleted			
+A0A970ADU2	A0A970ADU2		deleted			
+A0A970AHP0	A0A970AHP0		deleted			
+A0A970BFK9	A0A970BFK9		deleted			
+A0A970BN25	A0A970BN25		deleted			
+A0A970BU65	A0A970BU65		deleted			
+A0A970BVC3	A0A970BVC3		deleted			
+A0A970CRE6	A0A970CRE6		deleted			
+A0A970CVV2	A0A970CVV2		deleted			
+A0A970D0X5	A0A970D0X5		deleted			
+A0A970D783	A0A970D783		deleted			
+A0A970DJZ5	A0A970DJZ5		deleted			
+A0A970DL40	A0A970DL40		deleted			
+A0A970E3D7	A0A970E3D7		deleted			
+A0A970EK72	A0A970EK72		deleted			
+A0A970FDE2	A0A970FDE2		deleted			
+A0A970FPE6	A0A970FPE6		deleted			
+A0A970HKI1	A0A970HKI1		deleted			
+A0A970IL59	A0A970IL59		deleted			
+A0A970JY61	A0A970JY61		deleted			
+A0A970LF43	A0A970LF43		deleted			
+A0A970LQ90	A0A970LQ90		deleted			
+A0A970MXA9	A0A970MXA9		deleted			
+A0A970MZV1	A0A970MZV1		deleted			
+A0A970N729	A0A970N729		deleted			
+A0A970NFT5	A0A970NFT5		deleted			
+A0A970NIA6	A0A970NIA6		deleted			
+A0A970NNC0	A0A970NNC0		deleted			
+A0A970NX79	A0A970NX79		deleted			
+A0A970NZG0	A0A970NZG0		deleted			
+A0A970PQH1	A0A970PQH1		deleted			
+A0A970QTU8	A0A970QTU8		deleted			
+A0A970RWP3	A0A970RWP3		deleted			
+A0A970SA28	A0A970SA28		deleted			
+A0A970T763	A0A970T763		deleted			
+A0A970TDB2	A0A970TDB2		deleted			
+A0A970TPG0	A0A970TPG0		deleted			
+A0A970TWE4	A0A970TWE4		deleted			
+A0A970UV39	A0A970UV39		deleted			
+A0A970W4J2	A0A970W4J2		deleted			
+A0A970YW27	A0A970YW27		deleted			
+A0A971AA22	A0A971AA22		deleted			
+A0A971B8B6	A0A971B8B6		deleted			
+A0A971BDG1	A0A971BDG1		deleted			
+A0A971EX22	A0A971EX22		deleted			
+A0A971EZV0	A0A971EZV0		deleted			
+A0A971FYU8	A0A971FYU8		deleted			
+A0A971GQJ5	A0A971GQJ5		deleted			
+A0A971GRH3	A0A971GRH3		deleted			
+A0A971HEG9	A0A971HEG9		deleted			
+A0A971HH73	A0A971HH73		deleted			
+A0A971JIJ0	A0A971JIJ0		deleted			
+A0A971JQ35	A0A971JQ35		deleted			
+A0A971LGX5	A0A971LGX5		deleted			
+A0A971LSL7	A0A971LSL7		deleted			
+A0A971N9K9	A0A971N9K9		deleted			
+A0A971NXJ7	A0A971NXJ7		deleted			
+A0A971PKS6	A0A971PKS6		deleted			
+A0A971Q124	A0A971Q124		deleted			
+A0A971Q132	A0A971Q132		deleted			
+A0A971Q2C6	A0A971Q2C6		deleted			
+A0A971QHP5	A0A971QHP5		deleted			
+A0A971QNB4	A0A971QNB4		deleted			
+A0A971RMT8	A0A971RMT8		deleted			
+A0A971RRB5	A0A971RRB5		deleted			
+A0A971SFQ6	A0A971SFQ6		deleted			
+A0A971SJX6	A0A971SJX6		deleted			
+A0A971T272	A0A971T272		deleted			
+A0A971T7I3	A0A971T7I3		deleted			
+A0A971TS82	A0A971TS82		deleted			
+A0A971U9A0	A0A971U9A0		deleted			
+A0A971UQE7	A0A971UQE7		deleted			
+A0A971VRJ3	A0A971VRJ3		deleted			
+A0A971W5U9	A0A971W5U9		deleted			
+A0A971WDV7	A0A971WDV7		deleted			
+A0A971WQN8	A0A971WQN8		deleted			
+A0A971YG98	A0A971YG98		deleted			
+A0A971YKI7	A0A971YKI7		deleted			
+A0A972AAS8	A0A972AAS8		deleted			
+A0A972C846	A0A972C846		deleted			
+A0A972CEL6	A0A972CEL6		deleted			
+A0A972CI92	A0A972CI92		deleted			
+A0A972CIJ1	A0A972CIJ1		deleted			
+A0A972E9X3	A0A972E9X3		deleted			
+A0A972F0G8	A0A972F0G8		deleted			
+A0A972GJC4	A0A972GJC4		deleted			
+A0A972GT43	A0A972GT43		deleted			
+A0A972HRW2	A0A972HRW2		deleted			
+A0A972JR21	A0A972JR21		deleted			
+A0A972JRH7	A0A972JRH7		deleted			
+A0A972MFS0	A0A972MFS0		deleted			
+A0A972P5I1	A0A972P5I1		deleted			
+A0A972PFU9	A0A972PFU9		deleted			
+A0A972PHX5	A0A972PHX5		deleted			
+A0A972U6B5	A0A972U6B5		deleted			
+A0A972X4C9	A0A972X4C9		deleted			
+A0A972XAY3	A0A972XAY3		deleted			
+A0A972XXV3	A0A972XXV3		deleted			
+A0A972ZN59	A0A972ZN59		deleted			
+A0A973DK11	A0A973DK11		deleted			
+A0A973E4C1	A0A973E4C1		deleted			
+A0A973ENK4	A0A973ENK4		deleted			
+A0A973EUC1	A0A973EUC1		deleted			
+A0A973FKQ2	A0A973FKQ2		deleted			
+A0A973FRG3	A0A973FRG3		deleted			
+A0A973GAU9	A0A973GAU9		deleted			
+A0A973HRC1	A0A973HRC1		deleted			
+A0A973HVC3	A0A973HVC3		deleted			
+A0A973MJ97	A0A973MJ97		deleted			
+A0A973MUU4	A0A973MUU4		deleted			
+A0A973NV02	A0A973NV02		deleted			
+A0A973PDA8	A0A973PDA8		deleted			
+A0A973PNW1	A0A973PNW1		deleted			
+A0A973PP81	A0A973PP81		deleted			
+A0A973RID0	A0A973RID0		deleted			
+A0A973RVR7	A0A973RVR7		deleted			
+A0A973SG27	A0A973SG27		deleted			
+A0A973TBR2	A0A973TBR2		deleted			
+A0A973TDM5	A0A973TDM5		deleted			
+A0A973YXA8	A0A973YXA8		deleted			
+A0A974ANZ3	A0A974ANZ3		deleted			
+A0A974UA60	A0A974UA60		deleted			
+A0A974ULG3	A0A974ULG3		deleted			
+A0A974UUB9	A0A974UUB9		deleted			
+A0A974WE55	A0A974WE55	unreviewed	SDR family oxidoreductase		PF05368;	Fulvivirga lutea
+A0A974YA51	A0A974YA51		deleted			
+A0A974YYT2	A0A974YYT2		deleted			
+A0A974Z192	A0A974Z192		deleted			
+A0A975B6A1	A0A975B6A1	unreviewed	Transferase I domain-containing protein		PF09837;PF00881;	Desulfonema limicola
+A0A975CP95	A0A975CP95	unreviewed	Nitroreductase family protein		PF00881;	Polaribacter cellanae
+A0A975CWF7	A0A975CWF7		deleted			
+A0A975D9Y5	A0A975D9Y5	unreviewed	Cytidine deaminase (EC 3.5.4.5)	3.5.4.5	PF00383;PF08211;	Psychrosphaera ytuae
+A0A975E1F2	A0A975E1F2		deleted			
+A0A975EGH6	A0A975EGH6		deleted			
+A0A975J029	A0A975J029	unreviewed	beta-galactosidase (EC 3.2.1.23) (Lactase)	3.2.1.23	PF02929;PF00703;PF02836;PF02837;PF16353;	Luteolibacter ambystomatis
+A0A975MYW4	A0A975MYW4		deleted			
+A0A975N8L2	A0A975N8L2		deleted			
+A0A975SRZ8	A0A975SRZ8		deleted			
+A0A975XPV2	A0A975XPV2		deleted			
+A0A975XSZ9	A0A975XSZ9		deleted			
+A0A976C8W7	A0A976C8W7		deleted			
+A0A976L002	A0A976L002		deleted			
+A0A976LFY2	A0A976LFY2		deleted			
+A0A976LG96	A0A976LG96		deleted			
+A0A976PUQ3	A0A976PUQ3		deleted			
+A0A978TE09	A0A978TE09		deleted			
+A0A9C6XB68	A0A9C6XB68	unreviewed	Beta-glucuronidase (EC 3.2.1.31)	3.2.1.31	PF00703;PF02836;PF02837;	Frankliniella occidentalis (Western flower thrips) (Euthrips occidentalis)
+A0A9C7VJS3	A0A9C7VJS3		deleted			
+A0A9C8AD90	A0A9C8AD90		deleted			
+A0A9C8AF14	A0A9C8AF14		deleted			
+A0A9C8EYZ2	A0A9C8EYZ2		deleted			
+A0A9C8HUG1	A0A9C8HUG1		deleted			
+A0A9C8I657	A0A9C8I657		deleted			
+A0A9C8I8T3	A0A9C8I8T3		deleted			
+A0A9C8KAE1	A0A9C8KAE1		deleted			
+A0A9C8M133	A0A9C8M133		deleted			
+A0A9C8V9D2	A0A9C8V9D2		deleted			
+A0A9C9GDN7	A0A9C9GDN7		deleted			
+A0A9C9JRP5	A0A9C9JRP5		deleted			
+A0A9C9KVQ4	A0A9C9KVQ4		deleted			
+A0A9C9MJ32	A0A9C9MJ32		deleted			
+A0A9C9MZW9	A0A9C9MZW9		deleted			
+A0A9C9X493	A0A9C9X493		deleted			
+A0A9C9Z6Z4	A0A9C9Z6Z4		deleted			
+A0A9D0KL64	A0A9D0KL64		deleted			
+A0A9D1AMG7	A0A9D1AMG7		deleted			
+A0A9D1BY53	A0A9D1BY53		deleted			
+A0A9D1D5D5	A0A9D1D5D5		deleted			
+A0A9D1D8Y2	A0A9D1D8Y2		deleted			

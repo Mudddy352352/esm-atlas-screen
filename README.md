@@ -1,4 +1,4 @@
-# A structural screen of the ESM Metagenomic Atlas for microbial drug-metabolising enzymes
+# β-Glucuronidase-fold proteins in the ESM Metagenomic Atlas: fold conservation without active-site conservation
 
 Code and data accompanying the manuscript. This repository holds everything
 needed to check the numbers in the paper and to rerun each analysis step, plus
@@ -38,6 +38,18 @@ were searched against the ESM Metagenomic Atlas with Foldseek. The pipeline then
    recoverable; only nearest-relative inference exists.
 6. **Docking (`screen_v2/results/docking/`)** — SN-38 glucuronide docked into the
    shortlist against positive and negative controls.
+7. **Pairwise and nr searches (`screen_v3/nr/`)** — each shortlisted protein
+   searched against NCBI nr. Twelve of the thirteen have a relative already in
+   nr at a median 74% identity, so these proteins were in the databases
+   undescribed rather than missing from them.
+8. **Evaluation (`screen_v3/benchmark/`, `screen_v3/mcsa/`)** — what the screen
+   is worth: a decoy-site null model, a labelled retrieval benchmark built from
+   the AlphaFold DB and PDB hits the same searches returned, baselines at
+   matched recall, and a repeat of the retention comparison over 62 curated
+   M-CSA families and 49,735 same-fold hits.
+9. **Revision analyses (`screen_v3/revision/`)** — the pocket-enclosure,
+   site-loop, side-chain, specificity-motif, pose-ensemble and
+   threshold-sensitivity measurements the manuscript's later sections report.
 
 ## What the study shows (and does not)
 
@@ -85,12 +97,21 @@ screen_v2/                 Pass 2 and the follow-on steps
                            body-site, taxonomy and docking outputs
     docking/               step-4 README, code/, all 72 SN-38G pose files,
                            ligands, and the docking result tables
+screen_v3/                 nr search and the evaluation of the screen
+  nr/                      NR_README.md, code/, the classified nr hit tables
+                           (raw BLAST XML not shipped, see EXCLUDED.md)
+  benchmark/               BENCHMARK_README.md, code/, labels/, the decoy null,
+                           the labelled-hit scores and the baseline comparison
+  mcsa/                    MCSA_README.md, code/, the 62 M-CSA query families
+                           and the per-family retention tables
+  revision/                REVISION_README.md, code/, structures/ and the
+                           pocket, loop, side-chain, contact and sweep tables
 manuscript/
   figures/                 make_figures.py, make_tables.py, and the rendered
                            figures (300-dpi PNG + vector PDF)
 LICENSE-CODE               MIT (code)
 LICENSE-DATA               CC-BY-4.0 (data) — confirm before release, see below
-CITATION.cff               citation metadata (fill in author, DOI)
+CITATION.cff               citation metadata (fill in the full author list)
 EXCLUDED.md                large files not shipped, and how to regenerate them
 ```
 
@@ -111,6 +132,10 @@ pip install numpy pandas biopython pyhmmer rdkit matplotlib
 | Rank candidates | `python3 screen_v2/code/rank_candidates.py screen_v1 screen_v2/results` | no |
 | Habitat mapping | `python3 screen_v2/bodysite/build_bodysite.py` | no — reads cached MGnify records |
 | Pfam comparator | `python3 screen_v2/pfam/pfam_scan.py --pfam <Pfam-A.hmm> --queries screen_v2/pfam/queries.faa --candidates screen_v2/pfam/candidates.faa --pairs screen_v1/results/candidates.tsv --out <dir>` | Pfam-A.hmm (see EXCLUDED.md) |
+| M-CSA retention | `python3 screen_v3/mcsa/code/analyse_retention.py screen_v3/mcsa` | no |
+| Baselines at matched recall | `python3 screen_v3/benchmark/code/baseline_comparison.py screen_v3/benchmark` | no |
+| Revision statistics | `python3 screen_v3/revision/code/stats_for_revision.py` | no |
+| nr hit tables | `python3 screen_v3/nr/code/analyse_nr.py screen_v3/nr` | raw BLAST XML (see EXCLUDED.md) |
 | Figures | `python3 manuscript/figures/make_figures.py --outdir <dir>` | no |
 | Tables | `python3 manuscript/figures/make_tables.py > tables.md` | no |
 
@@ -131,6 +156,19 @@ shipped (see EXCLUDED.md for each):
   Run without that directory the script warns per protein and then stops with an
   `IndexError`, writing nothing, so the shipped tables survive — see
   `EXCLUDED.md` §4.
+- **The nr searches** (`submit_all.py`, `collect_nr.py`) need NCBI's BLAST URL
+  API, and the parsing steps need the raw XML it returns (~116 MB, not shipped).
+  The classified hit tables in `screen_v3/nr/results/` are shipped, and every
+  number in the paper's nr section comes from them. A fresh search will not
+  match them, because nr grows between runs.
+- **The decoy null, the labelled benchmark and the M-CSA scan**
+  (`decoy_site_null.py`, `score_labelled_hits.py`, `mcsa_retention_scan.py`)
+  read the same raw Foldseek JSON as the active-site geometry step, and the
+  M-CSA scan also fetches curated families from the M-CSA and AlphaFold DB. All
+  of their outputs are shipped, and the three analyses that produce the paper's
+  numbers from those outputs (`analyse_retention.py`,
+  `baseline_comparison.py`, `stats_for_revision.py`) run offline from this
+  package.
 - **Docking prep and run** (`prep.py`, `run_dock.py`) need AutoDock Vina, Open
   Babel, RDKit and the crystal/ligand structures. The 72 pose files and all
   result tables are shipped, so the analysis (`analyze.py`, `pose_scan.py`) can
@@ -150,6 +188,13 @@ here and with no network access:
 - `make_tables.py` regenerated Tables 2–10 and `make_figures.py` all six
   figures. (Figures are not byte-compared: the rendering shifts slightly with
   the matplotlib version.)
+- When `screen_v3/` was added on 10 November 2026,
+  `screen_v3/revision/code/stats_for_revision.py` was rerun from this package
+  with `ESMATLAS_ROOT` pointing at it and reproduced every table in
+  `screen_v3/revision/results/` **byte for byte**, and
+  `analyse_retention.py` and `baseline_comparison.py` reprinted the retention
+  and baseline numbers the manuscript quotes (37.4% against 10.2%,
+  p = 1.3 × 10⁻⁷, and 0.156 against the TM-score baseline's 0.294).
 
 ## Licensing
 

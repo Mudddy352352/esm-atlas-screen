@@ -1,0 +1,125 @@
+receptor	residue	res_num	kind	catalytic	n_poses_with	n_poses	frac_poses	contacts_total	best_dist	ligand_parts
+6D4O_A	Glu 425	425	H-bond (side chain)	True	27	27	1.0	49	2.55	SN-38;glucuronide
+6D4O_A	Glu 516	516	H-bond (side chain)	True	27	27	1.0	49	2.49	SN-38;glucuronide
+6D4O_A	Phe 374	374	hydrophobic	False	24	27	0.89	107	3.31	SN-38
+6D4O_A	Tyr 481	481	H-bond (side chain)	False	23	27	0.85	25	2.7	SN-38;glucuronide
+6D4O_A	Met 149	149	hydrophobic	False	22	27	0.81	45	3.18	SN-38;glucuronide
+6D4O_A	Trp 561	561	H-bond (side chain)	False	21	27	0.78	28	2.45	glucuronide
+6D4O_A	His 343	343	H-bond (side chain)	False	18	27	0.67	30	2.74	glucuronide
+6D4O_A	Phe 374	374	pi-pi, edge to face	False	18	27	0.67	25	4.5	SN-38
+6D4O_A	Phe 486	486	hydrophobic	False	17	27	0.63	74	3.32	SN-38
+6D4O_A	Asp 172	172	H-bond (side chain)	False	16	27	0.59	20	2.84	glucuronide
+6D4O_A	Tyr 485	485	H-bond (side chain)	False	16	27	0.59	22	2.75	glucuronide
+6D4O_A	Arg 574	574	H-bond (side chain)	False	13	27	0.48	14	2.46	glucuronide
+6D4O_A	Asn 578	578	H-bond (side chain)	False	12	27	0.44	12	2.63	glucuronide
+6D4O_A	Lys 580	580	H-bond (side chain)	False	12	27	0.44	21	2.8	glucuronide
+6D4O_A	Gln 460	460	H-bond (backbone)	False	10	27	0.37	10	2.71	SN-38
+6D4O_A	Arg 574	574	salt bridge	False	10	27	0.37	10	2.46	glucuronide
+6D4O_A	Val 459	459	hydrophobic	False	9	27	0.33	10	3.55	SN-38
+6D4O_A	Lys 580	580	salt bridge	False	9	27	0.33	18	2.8	glucuronide
+6D4O_A	Met 153	153	hydrophobic	False	7	27	0.26	28	3.45	SN-38
+6D4O_A	Asp 172	172	H-bond (backbone)	False	7	27	0.26	7	3.23	glucuronide
+6D4O_A	Gly 152	152	H-bond (backbone)	False	6	27	0.22	9	2.85	SN-38;glucuronide
+6D4O_A	Arg 574	574	pi-cation	False	6	27	0.22	6	5.37	SN-38
+6D4O_A	Asn 424	424	H-bond (side chain)	False	5	27	0.19	8	2.88	glucuronide
+6D4O_A	Phe 486	486	pi-pi, edge to face	False	5	27	0.19	6	4.78	SN-38
+6D4O_A	Leu 573	573	hydrophobic	False	5	27	0.19	5	3.66	SN-38
+6D4O_A	Gln 373	373	H-bond (side chain)	False	4	27	0.15	5	3.08	SN-38;glucuronide
+6D4O_A	Tyr 485	485	pi-pi, edge to face	False	4	27	0.15	4	5.35	SN-38
+6D4O_A	Ser 151	151	H-bond (backbone)	False	3	27	0.11	3	3.17	SN-38
+6D4O_A	His 343	343	salt bridge	False	3	27	0.11	6	3.26	glucuronide
+6D4O_A	Arg 384	384	H-bond (side chain)	False	3	27	0.11	4	2.86	SN-38;glucuronide
+6D4O_A	Tyr 485	485	H-bond (backbone)	False	3	27	0.11	3	3.37	SN-38
+6D4O_A	Tyr 485	485	pi-pi, face to face	False	3	27	0.11	9	3.63	SN-38
+6D4O_A	Gly 376	376	H-bond (backbone)	False	2	27	0.07	2	2.78	glucuronide
+6D4O_A	Trp 561	561	hydrophobic	False	2	27	0.07	2	3.99	glucuronide
+6D4O_A	Gln 373	373	H-bond (backbone)	False	1	27	0.04	1	2.96	SN-38
+6D4O_A	Tyr 481	481	pi-pi, edge to face	False	1	27	0.04	1	5.38	SN-38
+MGYP000016927400	Phe 141	141	hydrophobic	False	23	27	0.85	159	2.99	SN-38;glucuronide
+MGYP000016927400	Trp 366	366	hydrophobic	False	23	27	0.85	171	3.2	SN-38;glucuronide
+MGYP000016927400	Gln 116	116	H-bond (side chain)	False	18	27	0.67	30	2.7	SN-38;glucuronide
+MGYP000016927400	Ala 182	182	hydrophobic	False	18	27	0.67	41	3.34	SN-38;glucuronide
+MGYP000016927400	Phe 179	179	hydrophobic	False	15	27	0.56	35	3.26	SN-38
+MGYP000016927400	Tyr 239	239	pi-pi, edge to face	False	13	27	0.48	19	4.6	SN-38
+MGYP000016927400	Leu 240	240	hydrophobic	False	12	27	0.44	24	3.59	SN-38
+MGYP000016927400	Glu 177	177	H-bond (side chain)	True	11	27	0.41	17	2.92	SN-38;glucuronide
+MGYP000016927400	Tyr 239	239	H-bond (side chain)	False	11	27	0.41	16	2.72	SN-38;glucuronide
+MGYP000016927400	His 356	356	salt bridge	False	11	27	0.41	11	3.75	glucuronide
+MGYP000016927400	Met 183	183	hydrophobic	False	9	27	0.33	9	3.53	SN-38
+MGYP000016927400	Trp 238	238	hydrophobic	False	8	27	0.3	12	3.65	SN-38;glucuronide
+MGYP000016927400	Tyr 239	239	H-bond (backbone)	False	8	27	0.3	11	2.76	SN-38;glucuronide
+MGYP000016927400	Gln 307	307	H-bond (side chain)	False	8	27	0.3	13	3.01	SN-38;glucuronide
+MGYP000016927400	Trp 238	238	H-bond (backbone)	False	5	27	0.19	9	3.07	SN-38;glucuronide
+MGYP000016927400	Trp 366	366	pi-pi, edge to face	False	5	27	0.19	9	4.72	SN-38
+MGYP000016927400	Ala 182	182	H-bond (backbone)	False	4	27	0.15	4	3.06	SN-38;glucuronide
+MGYP000016927400	Leu 255	255	hydrophobic	False	4	27	0.15	8	3.75	SN-38;glucuronide
+MGYP000016927400	Phe 141	141	pi-pi, edge to face	False	3	27	0.11	5	4.4	SN-38
+MGYP000016927400	Phe 179	179	pi-pi, edge to face	False	3	27	0.11	6	5.29	SN-38
+MGYP000016927400	Tyr 222	222	pi-pi, edge to face	False	3	27	0.11	3	5.32	SN-38
+MGYP000016927400	His 305	305	H-bond (side chain)	False	3	27	0.11	4	2.91	glucuronide
+MGYP000016927400	Met 82	82	H-bond (backbone)	False	2	27	0.07	2	3.4	SN-38
+MGYP000016927400	Met 82	82	hydrophobic	False	2	27	0.07	4	3.73	SN-38
+MGYP000016927400	Phe 179	179	pi-pi, face to face	False	1	27	0.04	1	4.49	SN-38
+MGYP000016927400	Tyr 222	222	H-bond (side chain)	False	1	27	0.04	1	3.1	SN-38
+MGYP000016927400	Trp 254	254	H-bond (backbone)	False	1	27	0.04	1	3.01	SN-38
+MGYP000016927400	Trp 254	254	hydrophobic	False	1	27	0.04	1	3.59	SN-38
+MGYP000016927400	His 305	305	salt bridge	False	1	27	0.04	1	3.17	glucuronide
+MGYP000016927400	Trp 366	366	H-bond (side chain)	False	1	27	0.04	1	3.29	glucuronide
+MGYP000016927400	Leu 590	590	hydrophobic	False	1	27	0.04	1	3.74	SN-38
+MGYP000751766417	Glu 237	237	H-bond (side chain)	True	24	27	0.89	47	2.57	SN-38;glucuronide
+MGYP000751766417	Trp 436	436	hydrophobic	False	23	27	0.85	97	3.33	SN-38;glucuronide
+MGYP000751766417	Phe 201	201	hydrophobic	False	20	27	0.74	74	3.41	SN-38;glucuronide
+MGYP000751766417	Trp 308	308	hydrophobic	False	19	27	0.7	36	3.14	SN-38;glucuronide
+MGYP000751766417	Tyr 309	309	H-bond (side chain)	False	19	27	0.7	31	2.71	SN-38;glucuronide
+MGYP000751766417	Arg 177	177	H-bond (side chain)	False	17	27	0.63	35	2.78	SN-38;glucuronide
+MGYP000751766417	Met 142	142	hydrophobic	False	16	27	0.59	38	3.09	SN-38;glucuronide
+MGYP000751766417	Met 142	142	H-bond (backbone)	False	16	27	0.59	26	2.69	SN-38;glucuronide
+MGYP000751766417	Trp 436	436	pi-pi, edge to face	False	15	27	0.56	26	4.73	SN-38
+MGYP000751766417	Arg 242	242	H-bond (side chain)	False	14	27	0.52	32	2.8	SN-38;glucuronide
+MGYP000751766417	Trp 314	314	hydrophobic	False	12	27	0.44	25	3.67	SN-38;glucuronide
+MGYP000751766417	Arg 242	242	salt bridge	False	10	27	0.37	24	2.94	glucuronide
+MGYP000751766417	Arg 242	242	pi-cation	False	10	27	0.37	40	3.79	SN-38
+MGYP000751766417	Gln 176	176	H-bond (side chain)	False	9	27	0.33	9	2.91	glucuronide
+MGYP000751766417	Gly 240	240	H-bond (backbone)	False	9	27	0.33	9	2.81	SN-38;glucuronide
+MGYP000751766417	His 286	286	H-bond (side chain)	False	9	27	0.33	9	3.19	SN-38;glucuronide
+MGYP000751766417	Phe 201	201	pi-pi, edge to face	False	7	27	0.26	12	5.09	SN-38
+MGYP000751766417	Trp 436	436	H-bond (side chain)	False	6	27	0.22	6	3.09	SN-38;glucuronide
+MGYP000751766417	Ala 434	434	H-bond (backbone)	False	5	27	0.19	5	3.13	SN-38;glucuronide
+MGYP000751766417	Gln 147	147	H-bond (side chain)	False	4	27	0.15	8	2.98	SN-38
+MGYP000751766417	Trp 308	308	pi-pi, edge to face	False	4	27	0.15	4	5.06	SN-38
+MGYP000751766417	Ala 434	434	hydrophobic	False	4	27	0.15	5	3.57	SN-38
+MGYP000751766417	Pro 433	433	hydrophobic	False	3	27	0.11	3	3.95	SN-38
+MGYP000751766417	Thr 175	175	H-bond (backbone)	False	2	27	0.07	2	3.15	glucuronide
+MGYP000751766417	Arg 177	177	salt bridge	False	2	27	0.07	7	3.01	glucuronide
+MGYP000751766417	Leu 239	239	H-bond (backbone)	False	2	27	0.07	2	3.26	glucuronide
+MGYP000751766417	Tyr 245	245	H-bond (side chain)	False	2	27	0.07	2	3.22	glucuronide
+MGYP000751766417	Tyr 245	245	pi-pi, edge to face	False	2	27	0.07	2	4.73	SN-38
+MGYP000751766417	Tyr 309	309	pi-pi, edge to face	False	2	27	0.07	4	4.87	SN-38
+MGYP000751766417	Val 313	313	hydrophobic	False	2	27	0.07	10	3.27	SN-38;glucuronide
+MGYP000751766417	Val 313	313	H-bond (backbone)	False	2	27	0.07	2	2.83	glucuronide
+MGYP000751766417	Trp 314	314	pi-pi, edge to face	False	2	27	0.07	4	4.96	SN-38
+MGYP000751766417	Tyr 326	326	H-bond (side chain)	False	2	27	0.07	4	2.94	glucuronide
+MGYP000751766417	Glu 338	338	H-bond (side chain)	True	2	27	0.07	2	3.27	glucuronide
+MGYP000751766417	Gln 176	176	H-bond (backbone)	False	1	27	0.04	1	3.06	glucuronide
+MGYP000751766417	Arg 242	242	H-bond (backbone)	False	1	27	0.04	1	3.44	glucuronide
+MGYP001533818318	Arg 122	122	H-bond (side chain)	False	27	27	1.0	51	2.81	SN-38;glucuronide
+MGYP001533818318	Phe 146	146	hydrophobic	False	27	27	1.0	212	3.01	SN-38
+MGYP001533818318	Arg 190	190	H-bond (side chain)	False	23	27	0.85	42	2.8	SN-38;glucuronide
+MGYP001533818318	Val 148	148	hydrophobic	False	20	27	0.74	35	3.23	SN-38;glucuronide
+MGYP001533818318	Gln 91	91	H-bond (side chain)	False	15	27	0.56	29	2.68	SN-38;glucuronide
+MGYP001533818318	His 192	192	H-bond (side chain)	False	13	27	0.48	16	2.9	SN-38;glucuronide
+MGYP001533818318	Arg 190	190	pi-cation	False	12	27	0.44	12	4.82	SN-38
+MGYP001533818318	Trp 622	622	hydrophobic	False	12	27	0.44	65	3.15	SN-38
+MGYP001533818318	Gln 121	121	H-bond (backbone)	False	10	27	0.37	10	2.78	SN-38;glucuronide
+MGYP001533818318	Gln 121	121	H-bond (side chain)	False	9	27	0.33	12	2.72	glucuronide
+MGYP001533818318	Arg 190	190	salt bridge	False	9	27	0.33	16	2.88	glucuronide
+MGYP001533818318	Trp 371	371	hydrophobic	False	7	27	0.26	18	3.37	SN-38
+MGYP001533818318	Arg 122	122	salt bridge	False	6	27	0.22	18	2.99	glucuronide
+MGYP001533818318	Phe 146	146	pi-pi, edge to face	False	5	27	0.19	6	4.88	SN-38
+MGYP001533818318	Asn 186	186	H-bond (side chain)	False	5	27	0.19	9	2.89	SN-38;glucuronide
+MGYP001533818318	Trp 371	371	H-bond (side chain)	False	5	27	0.19	5	2.98	SN-38;glucuronide
+MGYP001533818318	Pro 144	144	H-bond (backbone)	False	4	27	0.15	4	3.19	SN-38;glucuronide
+MGYP001533818318	Thr 147	147	H-bond (side chain)	False	4	27	0.15	8	2.92	SN-38;glucuronide
+MGYP001533818318	Arg 122	122	pi-cation	False	3	27	0.11	4	5.43	SN-38
+MGYP001533818318	Trp 622	622	pi-pi, face to face	False	3	27	0.11	6	3.69	SN-38
+MGYP001533818318	Trp 371	371	pi-pi, edge to face	False	2	27	0.07	6	4.86	SN-38

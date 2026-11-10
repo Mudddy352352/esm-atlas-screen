@@ -1,0 +1,63 @@
+mcsa_id	enzyme	n_catalytic	n_hits	n_seq	n_structure_only	pct_kept_seq	pct_kept_structure_only	median_seq_id_structure_only
+1	glutamate racemase	6	955	930	25	0.0	0.0	16.1
+2	beta-lactamase (Class A)	6	960	507	453	6.3	0.0	16.0
+3	NAD(P)H dehydrogenase (quinone)	3	855	826	29	9.9	0.0	17.4
+4	nitrite reductase (copper type)	7	717	587	130	70.7	0.0	14.3
+5	carboxypeptidase D	3	926	925	1	82.1	100.0	15.7
+6	glutathione-disulfide reductase	5	771	759	12	17.5	0.0	15.5
+7	isocitrate dehydrogenase (NADP+)	4	924	923	1	61.6	0.0	17.2
+8	nicotinate-nucleotide diphosphorylase (carboxylating) (type II)	4	937	871	66	80.8	0.0	14.9
+9	methionine adenosyltransferase	14	694	694	0	29.7		
+10	3-hydroxydecanoyl-[acyl-carrier-protein] dehydratase	4	854	494	360	19.0	0.0	16.4
+11	deoxyribonuclease IV (phage-T4-induced)	11	912	740	172	47.7	0.0	14.8
+12	ornithine carbamoyltransferase	6	856	847	9	36.6	0.0	17.7
+13	amine dehydrogenase	5	53	52	1	21.2	0.0	27.3
+14	chloride peroxidase (vanadate dependent)	7	669	530	139	66.0	74.1	15.1
+15	beta-lactamase (Class B1)	8	938	707	231	15.3	0.0	15.4
+16	beta-lactamase (Class B1)	5	937	727	210	19.3	0.0	16.9
+17	purine-nucleoside phosphorylase	10	953	910	43	1.2	0.0	13.9
+18	glycine amidinotransferase	5	886	404	482	38.1	0.6	13.7
+19	mannosyl-oligosaccharide 1,2-alpha-mannosidase	4	962	962	0	87.7		
+20	fumarate reductase (quinol)	7	775	772	3	2.6	0.0	18.3
+21	malate dehydrogenase (oxaloacetate-decarboxylating)	8	767	767	0	47.3		
+22	aralkylamine N-acetyltransferase	5	908	546	362	12.5	0.0	15.3
+23	glycine N-methyltransferase	5	353	305	48	0.0	0.0	15.4
+24	4-chlorobenzoyl-CoA dehalogenase	6	930	888	42	0.1	0.0	15.9
+25	N-carbamoylsarcosine amidase	5	905	680	225	0.9	0.0	15.4
+26	phosphatidylinositol diacylglycerol-lyase	5	908	819	89	53.1	10.1	14.1
+27	phospholipase C	8	759	240	519	57.5	23.7	14.2
+28	phosphoinositide phospholipase C	6	586	586	0	75.4		
+29	glutamin-(asparagin-)ase	5	913	910	3	28.7	0.0	17.5
+30	formate C-acetyltransferase	4	637	636	1	8.6	0.0	14.2
+31	thymidylate synthase	6	797	791	6	64.3	0.0	12.8
+32	lactoylglutathione lyase	2	901	888	13	80.2	53.8	15.9
+33	methylmalonyl-CoA epimerase	5	995	969	26	5.0	0.0	17.4
+34	catechol 2,3-dioxygenase	6	856	599	257	78.5	87.2	17.0
+35	phosphorylase kinase	5	973	950	23	57.1	56.5	16.4
+36	(S)-2-haloacid dehalogenase	10	942	489	453	2.0	0.0	16.6
+37	prostaglandin-endoperoxide synthase	7	885	881	4	12.8	0.0	14.8
+38	GTP cyclohydrolase I	7	745	745	0	77.9		
+39	inosine-uridine preferring nucleoside hydrolase	8	921	912	9	9.9	0.0	16.0
+40	phosphoglycerate kinase	4	765	765	0	0.4		
+41	deoxyribonuclease I	7	944	936	8	33.8	0.0	14.4
+42	nuclease	5	973	865	108	12.9	3.7	16.9
+43	purple acid phosphatase	10	807	763	44	1.2	0.0	16.6
+44	alkaline phosphatase	12	924	924	0	7.3		
+45	cyclomaltodextrin glucanotransferase	5	684	675	9	84.7	88.9	15.8
+46	site-specific DNA-methyltransferase (adenine-specific)	4	711	618	93	36.1	14.0	14.7
+47	protein-tyrosine-phosphatase non-receptor class	7	815	507	308	12.2	4.5	16.8
+48	hypoxanthine phosphoribosyltransferase	5	929	925	4	56.3	0.0	17.0
+49	histidine decarboxylase	2	35	35	0	74.3		
+50	orotidine-5'-phosphate decarboxylase	5	898	893	5	70.0	0.0	19.7
+51	phosphoenolpyruvate carboxykinase (ATP)	8	639	634	5	60.9	20.0	15.1
+52	fructose-bisphosphate aldolase (Class II)	6	831	797	34	11.9	2.9	17.0
+53	malate synthase	6	167	135	32	53.3	75.0	13.9
+54	3-dehydroquinate dehydratase (type I)	3	961	896	65	73.4	12.3	14.7
+55	3-dehydroquinate dehydratase (type II)	9	996	994	2	61.9	0.0	19.6
+56	tRNA-pseudouridine synthase	4	936	935	1	82.1	0.0	16.0
+57	nitrile hydratase	2	385	385	0	0.0		
+58	adenylate cyclase	3	986	901	85	51.8	17.6	15.5
+59	3-dehydroquinate synthase	9	903	894	9	62.1	0.0	15.9
+60	glucosamine-6-phosphate deaminase	4	913	870	43	21.4	0.0	16.7
+61	2-hydroxymuconate tautomerase	3	1000	687	313	0.3	0.0	22.8
+62	methylmalonyl-CoA mutase	6	318	318	0	13.2		

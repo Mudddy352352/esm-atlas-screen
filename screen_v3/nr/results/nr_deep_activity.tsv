@@ -1,0 +1,14 @@
+protein	activity	n_hits	best_named_evalue	best_named_pct_id	ambiguous_name	best_named_desc
+MGYP000016927400	beta-glucuronidase	5000	0.0	49.0	True	glycoside hydrolase family 2 TIM barrel-domain containing protein [Solitalea koreensis] >emb|SMO5218
+MGYP000051719573	beta-glucuronidase	5000	6.46944e-23	26.5	False	glycoside hydrolase family 2 protein [Novipirellula herctigrandis] >gb|TWT84064.1| Beta-glucuronidas
+MGYP000245278657	beta-glucuronidase	5000	0.0	40.9	True	glycoside hydrolase family 2 TIM barrel-domain containing protein [Solitalea koreensis] >emb|SMO5218
+MGYP000497510748	beta-glucuronidase	5000	2.05332e-118	32.4	True	Beta-galactosidase/beta-glucuronidase [Armatimonadetes bacterium DC]
+MGYP000574654335	beta-glucuronidase	5000	0.0	45.0	False	DUF8487 domain-containing protein [Anaerohalosphaera lusitana] >gb|AQT69276.1| Beta-glucuronidase [A
+MGYP000574843407	cytidine deaminase	1330	1.10185e-97	53.1	False	cytidine deaminase [Candidatus Woesearchaeota archaeon]
+MGYP000729808394	beta-glucuronidase	5000	1.45366e-138	44.4	True	glycoside hydrolase family 2 TIM barrel-domain containing protein [Solitalea koreensis] >emb|SMO5218
+MGYP000751766417	beta-glucuronidase	5000	7.3892e-148	40.3	True	glycoside hydrolase family 2 TIM barrel-domain containing protein [Solitalea koreensis] >emb|SMO5218
+MGYP000968177834	beta-glucuronidase	5000	2.97001e-131	41.7	True	glycoside hydrolase family 2 TIM barrel-domain containing protein [Solitalea koreensis] >emb|SMO5218
+MGYP001050749229	beta-glucuronidase	5000	3.76747e-141	48.6	True	glycoside hydrolase family 2 protein [Chamaesiphon minutus] >gb|AFY92151.1| beta-galactosidase/beta-
+MGYP001178215973	cytidine deaminase	831	6.206e-08	34.1	False	cytidine deaminase [Meiothermus sp.]
+MGYP001319153113	cytidine deaminase	38	3.68847e-28	36.2	False	cytidine deaminase [Patescibacteria group bacterium]
+MGYP001533818318	beta-glucuronidase	5000	0.0	44.1	True	glycoside hydrolase family 2 TIM barrel-domain containing protein [Solitalea koreensis] >emb|SMO5218
