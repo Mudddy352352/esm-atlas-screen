@@ -171,6 +171,11 @@ shipped (see EXCLUDED.md for each):
   numbers from those outputs (`analyse_retention.py`,
   `baseline_comparison.py`, `stats_for_revision.py`) run offline from this
   package.
+- **The Pfam comparison** (`pfam_scan.py`) needs the Pfam-A profile library
+  (~1.5 GB, not shipped). It is a free download from the EBI and the step then
+  runs offline, but it is not in this package, and the recovery percentages can
+  move with the Pfam release. All of its outputs are shipped in
+  `screen_v2/pfam/`.
 - **Docking prep and run** (`prep.py`, `run_dock.py`) need AutoDock Vina, Open
   Babel, RDKit and the crystal/ligand structures. The 72 pose files and all
   result tables are shipped, so the analysis (`analyze.py`, `pose_scan.py`) can
