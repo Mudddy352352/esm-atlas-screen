@@ -1,11 +1,10 @@
 cff-version: 1.2.0
 message: "If you use this software or data, please cite it as below."
-title: "A structural screen of the ESM Metagenomic Atlas for microbial drug-metabolising enzymes"
-# ^ Title option 1 from the manuscript; change to your final chosen title.
+title: "β-Glucuronidase-fold proteins in the ESM Metagenomic Atlas: fold conservation without active-site conservation"
 type: software
 authors:
   # Fill in the full author list before release.
-  - given-names: "Mudasir"
+  - given-names: "Mudasir Habib"
     family-names: "Changal"
     email: "mudddy352@gmail.com"
     # orcid: "https://orcid.org/0000-0000-0000-0000"  # add if you have one
