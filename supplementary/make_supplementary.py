@@ -171,7 +171,7 @@ def data_s11(out):
     """The docking box used for every receptor."""
     src = "screen_v2/results/docking/boxes_final.tsv"
     recs = read(src)
-    cols = list(recs[0].keys()) if recs else []
+    cols = [c for c in (recs[0].keys() if recs else []) if c != "receptor_pdbqt"]
     return write(out, "Data_S11_docking_boxes.tsv", src, cols,
                  [[r[c] for c in cols] for r in recs])
 
@@ -180,7 +180,7 @@ def data_s12(out):
     """Ligand geometry, for the claim that SN-38 glucuronide fits the box."""
     src = "screen_v2/results/docking/ligands.tsv"
     recs = read(src)
-    cols = list(recs[0].keys()) if recs else []
+    cols = [c for c in (recs[0].keys() if recs else []) if c not in ("sdf", "pdbqt")]
     return write(out, "Data_S12_ligand_geometry.tsv", src, cols,
                  [[r[c] for c in cols] for r in recs])
 
